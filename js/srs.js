@@ -71,8 +71,27 @@
     today(state, day).n += 1;
   }
 
-  function markKnown(state, id) {
-    state.words[id] = { known: true };
+  function markKnown(state, id, day) {
+    state.words[id] = { known: true, at: day };
+  }
+
+  // Undo "already know": the word becomes unseen again and comes back as a new word.
+  function unmarkKnown(state, id) {
+    if (state.words[id] && state.words[id].known) delete state.words[id];
+  }
+
+  function knownIds(state) {
+    return Object.keys(state.words)
+      .filter((id) => state.words[id].known)
+      .map(Number)
+      .sort((a, b) => (state.words[b].at || 0) - (state.words[a].at || 0));
+  }
+
+  function learnedIds(state) {
+    return Object.keys(state.words)
+      .filter((id) => !state.words[id].known && (state.words[id].learned || state.words[id].done))
+      .map(Number)
+      .sort((a, b) => (state.words[b].learned || 0) - (state.words[a].learned || 0));
   }
 
   // Same-day check right after learning. The word is due tomorrow either way;
@@ -182,7 +201,7 @@
   const api = {
     INTERVALS, dayNumber, dayKey, emptyState, today, reviewLimit, dueReviews,
     nextNewWords, newLeftToday, markIntroduced, markKnown, markChecked,
-    pendingChecks, todaysWords, inProgressIds,
+    pendingChecks, todaysWords, inProgressIds, unmarkKnown, knownIds, learnedIds,
     markReviewed, learnedCount, inProgressCount, estimateMinutes, weekStats, streak,
   };
   if (typeof module !== "undefined") module.exports = api;

@@ -148,11 +148,11 @@
     // main action and adding more is a deliberate, secondary choice.
     let actions;
     if (pending) {
-      actions = `<button class="btn" id="start">Продолжить</button>`;
+      actions = `<button class="btn" id="start">Продолжить занятие</button>`;
     } else if (newLeft || reviews) {
-      actions = `<button class="btn" id="start">Начать</button>`;
+      actions = `<button class="btn" id="start">Начать занятие</button>`;
     } else if (todays) {
-      actions = `<button class="btn" id="practice-today">Повторить слова дня (${todays})</button>
+      actions = `<button class="btn" id="practice-today">Тренировка: слова дня (${todays})</button>
         <button class="link" id="more">Добавить ещё ${nWords}</button>`;
     } else {
       actions = `<button class="btn" id="more">Ещё ${nWords}</button>`;
@@ -162,10 +162,10 @@
         <span>${streak ? `${streak} ${plural(streak, "день", "дня", "дней")} подряд` : ""}</span>
         <button class="icon-btn" id="settings" aria-label="Настройки"><i class="ti ti-settings"></i></button>
       </div>
-      <div class="hero">
+      <button class="hero hero-link" id="collection">
         <div class="big">${learned}</div>
-        <div class="label">${plural(learned, "слово выучено", "слова выучено", "слов выучено")}</div>
-      </div>
+        <div class="label">${plural(learned, "слово выучено", "слова выучено", "слов выучено")} <i class="ti ti-chevron-right"></i></div>
+      </button>
       <div class="stats">
         <button class="stat stat-link" id="learning"><b>${inProgress}</b><span>учу сейчас <i class="ti ti-chevron-right"></i></span></button>
         <div class="stat"><b>${newLeft}</b><span>новых на сегодня</span></div>
@@ -178,6 +178,7 @@
     `);
     on("settings", showSettings);
     on("learning", showLearning);
+    on("collection", () => showCollection("learned", ""));
     on("start", () => startSession(false));
     on("more", () => startSession(true));
     on("practice-today", () => startPractice(SRS.todaysWords(state, day())));
@@ -200,10 +201,67 @@
       ${ids.length
         ? `<ul class="word-list">${rows}</ul>`
         : `<div class="hero"><p class="lead" style="text-align:center">Здесь появятся слова, которые ты начал учить.</p></div>`}
-      ${ids.length ? `<div class="actions sticky-actions"><button class="btn" id="practice-all">Повторить все</button></div>` : ""}
+      ${ids.length ? `<div class="actions sticky-actions"><button class="btn" id="practice-all">Тренировать все</button></div>` : ""}
     `);
     on("back", showHome);
     on("practice-all", () => startPractice(ids));
+  }
+
+  // ---------- my words: learned and already known ----------
+  function showCollection(tab, query) {
+    const learnedList = SRS.learnedIds(state).filter((id) => BY_ID.has(id));
+    const knownList = SRS.knownIds(state).filter((id) => BY_ID.has(id));
+    const ids = tab === "known" ? knownList : learnedList;
+    const rows = ids.map((id) => {
+      const w = BY_ID.get(id);
+      const undo = tab === "known" ? `<button class="row-action" data-id="${id}">Вернуть</button>` : "";
+      const key = esc((w.en + " " + w.ru).toLowerCase());
+      return `<li class="word-row" data-key="${key}"><span class="word-row-en">${esc(w.en)}</span><span class="word-row-ru">${esc(w.ru)}</span>${undo}</li>`;
+    }).join("");
+    const emptyText = tab === "known"
+      ? "Здесь будут слова, на которых ты нажал «Уже знаю»."
+      : "Здесь будут слова, которые ты вспомнил через неделю после знакомства.";
+    render(`
+      <div class="bar">
+        <button class="icon-btn" id="back" aria-label="Назад"><i class="ti ti-chevron-left"></i></button>
+        <span>Мои слова</span>
+        <span style="width:24px"></span>
+      </div>
+      <div class="tabs" role="tablist">
+        <button class="tab${tab === "learned" ? " on" : ""}" id="tab-learned" role="tab" aria-selected="${tab === "learned"}">Выучено · ${learnedList.length}</button>
+        <button class="tab${tab === "known" ? " on" : ""}" id="tab-known" role="tab" aria-selected="${tab === "known"}">Уже знаю · ${knownList.length}</button>
+      </div>
+      ${ids.length ? `<input class="search" id="search" type="search" placeholder="Поиск по-английски или по-русски" autocomplete="off">` : ""}
+      <ul class="word-list">${rows}</ul>
+      <p class="label" id="empty" style="padding:24px 0"${ids.length ? " hidden" : ""}>${emptyText}</p>
+    `);
+    on("back", showHome);
+    const current = () => (document.getElementById("search") || {}).value || "";
+    on("tab-learned", () => showCollection("learned", current()));
+    on("tab-known", () => showCollection("known", current()));
+    // Filter the rows in place so typing doesn't re-render the screen.
+    const search = document.getElementById("search");
+    const filter = () => {
+      const q = search.value.trim().toLowerCase();
+      let shown = 0;
+      app.querySelectorAll(".word-row").forEach((row) => {
+        row.hidden = !!q && !row.dataset.key.includes(q);
+        if (!row.hidden) shown++;
+      });
+      const empty = document.getElementById("empty");
+      empty.textContent = "Ничего не нашлось.";
+      empty.hidden = shown > 0;
+    };
+    if (search) {
+      search.value = query;
+      if (query) filter();
+      search.addEventListener("input", filter);
+    }
+    app.querySelectorAll(".row-action").forEach((b) => b.addEventListener("click", () => {
+      SRS.unmarkKnown(state, Number(b.dataset.id));
+      save();
+      showCollection(tab, current());
+    }));
   }
 
   // Extra practice on top of the schedule: a missed word keeps coming back until it is
@@ -299,7 +357,7 @@
     on("close", leaveSession);
     on("known", () => {
       trackTime();
-      SRS.markKnown(state, w.id);
+      SRS.markKnown(state, w.id, day());
       session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
       save();
       advance();
@@ -349,7 +407,7 @@
     on("close", leaveSession);
     on("known", () => {
       trackTime();
-      SRS.markKnown(state, w.id);
+      SRS.markKnown(state, w.id, day());
       session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
       save();
       advance();
