@@ -71,14 +71,23 @@
     pickVoice();
     speechSynthesis.addEventListener("voiceschanged", pickVoice);
   }
+  // Safari quirks: speech must start inside a tap, a cancel() right before speak()
+  // can swallow the new phrase, the engine can get stuck paused, and an utterance
+  // that is garbage-collected mid-way goes silent. Hence the guarded cancel, the
+  // resume() and the kept reference.
+  let utterance = null;
   function speak(text) {
     if (!("speechSynthesis" in window)) return;
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US";
-    if (voice) u.voice = voice;
-    u.rate = 0.9;
-    speechSynthesis.speak(u);
+    const synth = window.speechSynthesis;
+    if (!voice) pickVoice();
+    if (synth.speaking || synth.pending) synth.cancel();
+    synth.resume();
+    utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = voice ? voice.lang : "en-US";
+    if (voice) utterance.voice = voice;
+    utterance.rate = 0.9;
+    utterance.volume = 1;
+    synth.speak(utterance);
   }
 
   // ---------- welcome + placement test ----------
@@ -258,7 +267,7 @@
       search.addEventListener("input", filter);
     }
     app.querySelectorAll(".row-action").forEach((b) => b.addEventListener("click", () => {
-      SRS.unmarkKnown(state, Number(b.dataset.id));
+      SRS.unmarkKnown(state, Number(b.dataset.id), day());
       save();
       showCollection(tab, current());
     }));

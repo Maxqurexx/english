@@ -87,9 +87,11 @@
     state.words[id] = { known: true, at: day, learnt: !!prev && !prev.known };
   }
 
-  // Undo "already know": the word becomes unseen again and comes back as a new word.
-  function unmarkKnown(state, id) {
-    if (state.words[id] && state.words[id].known) delete state.words[id];
+  // Undo "already know": the word goes back to the words being learned (not to the
+  // new words) and is due for review tomorrow. `back` dates it for sorting without
+  // counting it towards today's new words.
+  function unmarkKnown(state, id, day) {
+    if (state.words[id] && state.words[id].known) state.words[id] = { s: 0, due: day + 1, back: day };
   }
 
   // Only words that were learned in the app, not ones known at first sight.
@@ -144,7 +146,10 @@
         return !w.known && !w.learned && !w.done;
       })
       .map(Number)
-      .sort((a, b) => (state.words[b].seen || 0) - (state.words[a].seen || 0));
+      .sort((a, b) => {
+        const t = (w) => Math.max(w.seen || 0, w.back || 0);
+        return t(state.words[b]) - t(state.words[a]);
+      });
   }
 
   function markReviewed(state, id, recalled, day) {
