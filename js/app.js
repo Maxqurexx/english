@@ -421,7 +421,7 @@
       [String(learned), "слов выучено всего"],
     ];
     rows.forEach(([num, label], k) => {
-      const y = 520 + k * 270;
+      const y = 470 + k * 250;
       c.fillStyle = "#1d1d1f";
       c.font = '600 150px "Unbounded", sans-serif';
       c.fillText(num, 96, y);
@@ -429,10 +429,24 @@
       c.font = '500 40px "Manrope", sans-serif';
       c.fillText(label, 100, y + 64);
     });
+    // The link is also printed on the image, in case the receiving app drops the text.
+    const link = location.origin + location.pathname;
+    c.fillStyle = "#1d1d1f";
+    c.font = '600 34px "Manrope", sans-serif';
+    c.fillText("Учи слова вместе со мной:", 96, H - 150);
+    c.fillStyle = "#86868b";
+    c.font = '500 34px "Manrope", sans-serif';
+    c.fillText(link.replace(/^https?:\/\//, "").replace(/\/$/, ""), 96, H - 96);
+
+    const text = `Смотри, сколько слов я выучил! Учи слова вместе со мной: ${link}`;
     const blob = await new Promise((r) => canvas.toBlob(r, "image/png"));
     const file = new File([blob], "english-progress.png", { type: "image/png" });
-    if (navigator.canShare && navigator.canShare({ files: [file] })) {
-      try { await navigator.share({ files: [file] }); } catch (e) { /* user closed the share sheet */ }
+    if (navigator.canShare && navigator.canShare({ files: [file], text })) {
+      try { await navigator.share({ files: [file], text }); } catch (e) { /* user closed the share sheet */ }
+      return;
+    }
+    if (navigator.share) {
+      try { await navigator.share({ text }); } catch (e) { /* user closed the share sheet */ }
       return;
     }
     const a = document.createElement("a");
