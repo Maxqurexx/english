@@ -157,9 +157,13 @@
     }
   }
 
+  // Learned through the ladder, plus words marked as known while being learned.
   function learnedCount(state) {
     let n = 0;
-    for (const id in state.words) if (state.words[id].learned || state.words[id].done) n++;
+    for (const id in state.words) {
+      const w = state.words[id];
+      if (w.known ? w.learnt : w.learned || w.done) n++;
+    }
     return n;
   }
 
