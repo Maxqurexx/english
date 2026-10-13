@@ -137,9 +137,26 @@
     const d = day();
     const newLeft = Math.min(SRS.newLeftToday(state, d), SRS.nextNewWords(state, WORDS, 1e9).length);
     const reviews = SRS.dueReviews(state, d).length;
-    const nothingLeft = newLeft === 0 && reviews === 0;
+    const pending = SRS.pendingChecks(state, d).filter((id) => BY_ID.has(id)).length;
+    const todays = SRS.todaysWords(state, d).filter((id) => BY_ID.has(id)).length;
+    const inProgress = SRS.inProgressCount(state);
     const streak = SRS.streak(state, d);
     const learned = SRS.learnedCount(state);
+    const n = state.settings.newPerDay;
+    const nWords = `${n} ${plural(n, "слово", "слова", "слов")}`;
+    // Unfinished work comes first; once today's words are in, practising them is the
+    // main action and adding more is a deliberate, secondary choice.
+    let actions;
+    if (pending) {
+      actions = `<button class="btn" id="start">Продолжить</button>`;
+    } else if (newLeft || reviews) {
+      actions = `<button class="btn" id="start">Начать</button>`;
+    } else if (todays) {
+      actions = `<button class="btn" id="practice-today">Повторить слова дня (${todays})</button>
+        <button class="link" id="more">Добавить ещё ${nWords}</button>`;
+    } else {
+      actions = `<button class="btn" id="more">Ещё ${nWords}</button>`;
+    }
     render(`
       <div class="bar">
         <span>${streak ? `${streak} ${plural(streak, "день", "дня", "дней")} подряд` : ""}</span>
@@ -150,21 +167,57 @@
         <div class="label">${plural(learned, "слово выучено", "слова выучено", "слов выучено")}</div>
       </div>
       <div class="stats">
-        <div class="stat"><b>${SRS.inProgressCount(state)}</b><span>учу сейчас</span></div>
+        <button class="stat stat-link" id="learning"><b>${inProgress}</b><span>учу сейчас <i class="ti ti-chevron-right"></i></span></button>
         <div class="stat"><b>${newLeft}</b><span>новых на сегодня</span></div>
         <div class="stat"><b>${reviews}</b><span>повторить</span></div>
       </div>
       <div class="actions" style="flex-direction:column">
-        ${nothingLeft
-          ? `<button class="btn" id="more">Ещё ${state.settings.newPerDay} ${plural(state.settings.newPerDay, "слово", "слова", "слов")}</button>`
-          : `<button class="btn" id="start">Начать</button>`}
+        ${actions}
         <button class="link" id="share">Поделиться прогрессом</button>
       </div>
     `);
     on("settings", showSettings);
+    on("learning", showLearning);
     on("start", () => startSession(false));
     on("more", () => startSession(true));
+    on("practice-today", () => startPractice(SRS.todaysWords(state, day())));
     on("share", shareProgress);
+  }
+
+  // ---------- words in progress ----------
+  function showLearning() {
+    const ids = SRS.inProgressIds(state).filter((id) => BY_ID.has(id));
+    const rows = ids.map((id) => {
+      const w = BY_ID.get(id);
+      return `<li class="word-row"><span class="word-row-en">${esc(w.en)}</span><span class="word-row-ru">${esc(w.ru)}</span></li>`;
+    }).join("");
+    render(`
+      <div class="bar">
+        <button class="icon-btn" id="back" aria-label="Назад"><i class="ti ti-chevron-left"></i></button>
+        <span>Учу сейчас · ${ids.length}</span>
+        <span style="width:24px"></span>
+      </div>
+      ${ids.length
+        ? `<ul class="word-list">${rows}</ul>`
+        : `<div class="hero"><p class="lead" style="text-align:center">Здесь появятся слова, которые ты начал учить.</p></div>`}
+      ${ids.length ? `<div class="actions sticky-actions"><button class="btn" id="practice-all">Повторить все</button></div>` : ""}
+    `);
+    on("back", showHome);
+    on("practice-all", () => startPractice(ids));
+  }
+
+  // Extra practice on top of the schedule: a missed word keeps coming back until it is
+  // recalled, and nothing here moves the word along the review ladder.
+  function startPractice(ids) {
+    const valid = ids.filter((id) => BY_ID.has(id) && !(state.words[id] && state.words[id].known));
+    if (!valid.length) return showHome();
+    const dir = () => (Math.random() < 0.5 ? "en" : "ru");
+    session = {
+      queue: shuffle(valid.slice()).map((id) => ({ type: "practice", id, dir: dir() })),
+      i: 0, newCount: 0, reviewCount: 0, recalled: 0, practice: true,
+    };
+    lastAction = Date.now();
+    showItem();
   }
 
   // ---------- session ----------
@@ -173,10 +226,12 @@
     const count = extra ? state.settings.newPerDay : SRS.newLeftToday(state, d);
     const fresh = SRS.nextNewWords(state, WORDS, count).filter((id) => BY_ID.has(id));
     const reviews = SRS.dueReviews(state, d).filter((id) => BY_ID.has(id));
+    // Words met in an earlier, interrupted session still get today's check.
+    const pending = SRS.pendingChecks(state, d).filter((id) => BY_ID.has(id) && !fresh.includes(id));
     const dir = () => (Math.random() < 0.5 ? "en" : "ru");
     const queue = [
       ...fresh.map((id) => ({ type: "intro", id })),
-      ...shuffle(fresh.slice()).map((id) => ({ type: "check", id, dir: dir() })),
+      ...shuffle(pending.concat(fresh)).map((id) => ({ type: "check", id, dir: dir() })),
       ...shuffle(reviews).map((id) => ({ type: "review", id, dir: dir() })),
     ];
     if (!queue.length) {
@@ -190,10 +245,12 @@
 
   function phaseInfo() {
     const item = session.queue[session.i];
-    const group = item.type === "intro" ? ["intro"] : item.type === "check" ? ["check"] : ["review", "again"];
+    const groups = { intro: ["intro"], check: ["check"], practice: ["practice"] };
+    const group = groups[item.type] || ["review", "again"];
     const all = session.queue.filter((q) => group.includes(q.type));
     const pos = session.queue.slice(0, session.i + 1).filter((q) => group.includes(q.type)).length;
-    const name = item.type === "intro" ? "Новые слова" : item.type === "check" ? "Проверка" : "Повторение";
+    const names = { intro: "Новые слова", check: "Проверка", practice: "Тренировка" };
+    const name = names[item.type] || "Повторение";
     return { name, pos, total: all.length };
   }
 
@@ -310,8 +367,11 @@
       session.reviewCount += 1;
     }
     if (recalled) session.recalled += 1;
-    // A missed word comes back once more at the end of the session.
-    if (!recalled && item.type !== "again") {
+    if (!recalled && item.type === "practice") {
+      // In practice a missed word keeps coming back until it is recalled.
+      session.queue.push({ type: "practice", id: item.id, dir: item.dir === "en" ? "ru" : "en" });
+    } else if (!recalled && item.type !== "again") {
+      // In a regular session a missed word comes back once more at the end.
       session.queue.push({ type: "again", id: item.id, dir: item.dir === "en" ? "ru" : "en" });
     }
     save();
@@ -335,10 +395,14 @@
     session = null;
     save();
     const learned = SRS.learnedCount(state);
+    const words = new Set(s.queue.map((q) => q.id)).size;
+    const summary = s.practice
+      ? `Ты вспомнил все слова: <b>${words}</b>. Слова дня придут на повторение по расписанию.`
+      : `${s.newCount ? `Новых слов: <b>${s.newCount}</b>. ` : ""}${s.reviewCount ? `Повторено: <b>${s.reviewCount}</b>. ` : ""}Всего выучено: <b>${learned}</b>.`;
     render(`
       <div class="hero" style="gap:16px">
         <h1 class="title">Готово</h1>
-        <p class="lead">${s.newCount ? `Новых слов: <b>${s.newCount}</b>. ` : ""}${s.reviewCount ? `Повторено: <b>${s.reviewCount}</b>. ` : ""}Всего выучено: <b>${learned}</b>.</p>
+        <p class="lead">${summary}</p>
       </div>
       <div class="actions" style="flex-direction:column">
         <button class="btn" id="home">На главную</button>

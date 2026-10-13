@@ -75,11 +75,44 @@
     state.words[id] = { known: true };
   }
 
-  // Same-day check right after learning: only the result matters for the stats,
-  // the word is due tomorrow either way.
+  // Same-day check right after learning. The word is due tomorrow either way;
+  // `chk` records that today's check is done so an interrupted session can resume.
   function markChecked(state, id, day) {
     const w = state.words[id];
-    if (w) w.due = day + INTERVALS[0];
+    if (!w) return;
+    w.due = day + INTERVALS[0];
+    w.chk = day;
+  }
+
+  // Words met today whose same-day check is still missing (the session was left early).
+  function pendingChecks(state, day) {
+    const out = [];
+    for (const id in state.words) {
+      const w = state.words[id];
+      if (!w.known && w.seen === day && w.chk !== day) out.push(Number(id));
+    }
+    return out;
+  }
+
+  // Words met today, for the "today's words" practice.
+  function todaysWords(state, day) {
+    const out = [];
+    for (const id in state.words) {
+      const w = state.words[id];
+      if (!w.known && w.seen === day) out.push(Number(id));
+    }
+    return out;
+  }
+
+  // Words started but not yet learned, newest first.
+  function inProgressIds(state) {
+    return Object.keys(state.words)
+      .filter((id) => {
+        const w = state.words[id];
+        return !w.known && !w.learned && !w.done;
+      })
+      .map(Number)
+      .sort((a, b) => (state.words[b].seen || 0) - (state.words[a].seen || 0));
   }
 
   function markReviewed(state, id, recalled, day) {
@@ -107,14 +140,8 @@
     return n;
   }
 
-  // Words started but not yet learned.
   function inProgressCount(state) {
-    let n = 0;
-    for (const id in state.words) {
-      const w = state.words[id];
-      if (!w.known && !w.learned && !w.done) n++;
-    }
-    return n;
+    return inProgressIds(state).length;
   }
 
   // Rough daily minutes for a slider value: a new word ~15 s to meet plus ~5 s
@@ -155,6 +182,7 @@
   const api = {
     INTERVALS, dayNumber, dayKey, emptyState, today, reviewLimit, dueReviews,
     nextNewWords, newLeftToday, markIntroduced, markKnown, markChecked,
+    pendingChecks, todaysWords, inProgressIds,
     markReviewed, learnedCount, inProgressCount, estimateMinutes, weekStats, streak,
   };
   if (typeof module !== "undefined") module.exports = api;
