@@ -62,8 +62,10 @@
     return out;
   }
 
+  // The daily goal counts the words actually being learned from today: a word marked
+  // as known frees its slot for a new one.
   function newLeftToday(state, day) {
-    return Math.max(0, state.settings.newPerDay - today(state, day).n);
+    return Math.max(0, state.settings.newPerDay - todaysWords(state, day).length);
   }
 
   function markIntroduced(state, id, day) {

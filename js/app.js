@@ -507,11 +507,13 @@
       document.getElementById("est").textContent = `Примерно ${SRS.estimateMinutes(v)} мин в день вместе с повторениями`;
     };
     update();
-    slider.addEventListener("input", update);
-    slider.addEventListener("change", () => {
+    // Save on every move too: some phones never fire "change" for range inputs.
+    const store = () => {
       state.settings.newPerDay = Number(slider.value);
       save();
-    });
+    };
+    slider.addEventListener("input", () => { update(); store(); });
+    slider.addEventListener("change", store);
     on("back", showHome);
     on("retest", startTest);
   }
