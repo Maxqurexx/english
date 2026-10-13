@@ -179,8 +179,8 @@
     on("settings", showSettings);
     on("learning", showLearning);
     on("collection", () => showCollection("learned", ""));
-    on("start", () => startSession(false));
-    on("more", () => startSession(true));
+    on("start", startSession);
+    on("more", addMoreWords);
     on("practice-today", () => startPractice(SRS.todaysWords(state, day())));
     on("share", shareProgress);
   }
@@ -279,9 +279,15 @@
   }
 
   // ---------- session ----------
-  function startSession(extra) {
+  function addMoreWords() {
+    SRS.addExtraToday(state, day(), state.settings.newPerDay);
+    save();
+    startSession();
+  }
+
+  function startSession() {
     const d = day();
-    const count = extra ? state.settings.newPerDay : SRS.newLeftToday(state, d);
+    const count = SRS.newLeftToday(state, d);
     const fresh = SRS.nextNewWords(state, WORDS, count).filter((id) => BY_ID.has(id));
     const reviews = SRS.dueReviews(state, d).filter((id) => BY_ID.has(id));
     // Words met in an earlier, interrupted session still get today's check.
@@ -293,7 +299,7 @@
       ...shuffle(reviews).map((id) => ({ type: "review", id, dir: dir() })),
     ];
     if (!queue.length) {
-      if (!extra && SRS.nextNewWords(state, WORDS, 1).length) return startSession(true);
+      if (SRS.nextNewWords(state, WORDS, 1).length) return addMoreWords();
       return showAllDone();
     }
     session = { queue, i: 0, newCount: 0, reviewCount: 0, recalled: 0 };

@@ -65,7 +65,14 @@
   // The daily goal counts the words actually being learned from today: a word marked
   // as known frees its slot for a new one.
   function newLeftToday(state, day) {
-    return Math.max(0, state.settings.newPerDay - todaysWords(state, day).length);
+    const goal = state.settings.newPerDay + (today(state, day).extra || 0);
+    return Math.max(0, goal - todaysWords(state, day).length);
+  }
+
+  // "Add more words" raises today's goal, so leaving halfway keeps the rest for later.
+  function addExtraToday(state, day, count) {
+    const t = today(state, day);
+    t.extra = (t.extra || 0) + count;
   }
 
   function markIntroduced(state, id, day) {
@@ -210,7 +217,7 @@
 
   const api = {
     INTERVALS, dayNumber, dayKey, emptyState, today, reviewLimit, dueReviews,
-    nextNewWords, newLeftToday, markIntroduced, markKnown, markChecked,
+    nextNewWords, newLeftToday, addExtraToday, markIntroduced, markKnown, markChecked,
     pendingChecks, todaysWords, inProgressIds, unmarkKnown, knownIds, learnedIds,
     markReviewed, learnedCount, inProgressCount, estimateMinutes, weekStats, streak,
   };
