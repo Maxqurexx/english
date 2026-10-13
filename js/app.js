@@ -345,9 +345,38 @@
       <div class="word">${esc(w.en)}</div>
       <button class="speak" id="speak" aria-label="Послушать"><i class="ti ti-volume"></i></button>
       <div class="trans">${esc(w.ru)}</div>
-      <div class="assoc">${esc(w.assoc)}</div>
+      <div class="assoc"><span>${esc(w.assoc)}</span>
+        <button class="flag${isFlagged(w.id) ? " on" : ""}" id="flag" aria-pressed="${isFlagged(w.id)}" aria-label="Плохая ассоциация"><i class="ti ti-thumb-down"></i></button>
+      </div>
       <div class="example">${esc(w.ex)}<span>${esc(w.exRu)}</span></div>
       ${withHint || ""}`;
+  }
+
+  // ---------- bad associations ----------
+  function isFlagged(id) {
+    return !!(state.flags && state.flags[id]);
+  }
+  function bindFlag(w) {
+    const btn = document.getElementById("flag");
+    if (!btn) return;
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      state.flags = state.flags || {};
+      if (state.flags[w.id]) delete state.flags[w.id];
+      else state.flags[w.id] = day();
+      save();
+      const on = isFlagged(w.id);
+      btn.classList.toggle("on", on);
+      btn.setAttribute("aria-pressed", on);
+      toast(on ? "Отмечено: плохая ассоциация" : "Отметка снята");
+    });
+  }
+  function toast(text) {
+    const el = document.createElement("div");
+    el.className = "toast";
+    el.textContent = text;
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 1800);
   }
 
   function showItem() {
@@ -369,6 +398,7 @@
     `);
     speak(w.en);
     on("speak", () => speak(w.en));
+    bindFlag(w);
     on("close", leaveSession);
     on("known", () => {
       trackTime();
@@ -410,7 +440,7 @@
     const card = document.getElementById("card");
     let flipped = false;
     card.addEventListener("click", (e) => {
-      if (e.target.closest(".speak")) return;
+      if (e.target.closest(".speak") || e.target.closest(".flag")) return;
       if (flipped) return;
       flipped = true;
       card.classList.add("flipped");
@@ -419,6 +449,7 @@
     });
     on("speak", () => speak(w.en));
     on("speak-front", () => speak(w.en));
+    bindFlag(w);
     on("close", leaveSession);
     on("known", () => {
       trackTime();
@@ -498,6 +529,16 @@
   }
 
   // ---------- settings ----------
+  function flaggedIds() {
+    return Object.keys(state.flags || {}).map(Number).filter((id) => BY_ID.has(id));
+  }
+  function flagReport() {
+    const lines = flaggedIds().map((id) => {
+      const w = BY_ID.get(id);
+      return `${w.en} — ${w.ru}: ${w.assoc}`;
+    });
+    return [`Плохие ассоциации (${lines.length}):`, ...lines].join("\n");
+  }
   function showSettings() {
     const n = state.settings.newPerDay;
     render(`
@@ -512,9 +553,37 @@
         <div class="label" style="text-align:left" id="est"></div>
       </div>
       <div class="section">
+        <div class="row"><span>Плохие ассоциации</span><b>${flaggedIds().length}</b></div>
+        ${flaggedIds().length
+          ? `<ul class="word-list">${flaggedIds().map((id) => `<li class="word-row"><span class="word-row-en">${esc(BY_ID.get(id).en)}</span><span class="word-row-ru">${esc(BY_ID.get(id).ru)}</span></li>`).join("")}</ul>
+             <textarea class="copy-box" id="flag-text" readonly hidden>${esc(flagReport())}</textarea>
+             <div class="actions" style="margin-top:0">
+               <button class="btn ghost" id="flag-clear">Очистить</button>
+               <button class="btn" id="flag-copy">Скопировать список</button>
+             </div>`
+          : `<p class="label" style="text-align:left">Отмечай 👎 на обороте карточки ассоциации, которые не заходят. Здесь появится список, его можно скопировать и отправить.</p>`}
+      </div>
+      <div class="section">
         <button class="btn ghost" id="retest">Пройти тест уровня заново</button>
       </div>
     `);
+    on("flag-copy", async () => {
+      const text = flagReport();
+      try {
+        await navigator.clipboard.writeText(text);
+        toast("Список скопирован");
+      } catch (e) {
+        const box = document.getElementById("flag-text");
+        box.hidden = false;
+        box.select();
+        toast("Выдели текст и скопируй");
+      }
+    });
+    on("flag-clear", () => {
+      state.flags = {};
+      save();
+      showSettings();
+    });
     const slider = document.getElementById("slider");
     const update = () => {
       const v = Number(slider.value);
