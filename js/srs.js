@@ -71,8 +71,11 @@
     today(state, day).n += 1;
   }
 
+  // `learnt` marks a word that was being learned before it was marked as known
+  // (as opposed to one the learner already knew the first time they saw it).
   function markKnown(state, id, day) {
-    state.words[id] = { known: true, at: day };
+    const prev = state.words[id];
+    state.words[id] = { known: true, at: day, learnt: !!prev && !prev.known };
   }
 
   // Undo "already know": the word becomes unseen again and comes back as a new word.
@@ -80,9 +83,10 @@
     if (state.words[id] && state.words[id].known) delete state.words[id];
   }
 
+  // Only words that were learned in the app, not ones known at first sight.
   function knownIds(state) {
     return Object.keys(state.words)
-      .filter((id) => state.words[id].known)
+      .filter((id) => state.words[id].known && state.words[id].learnt)
       .map(Number)
       .sort((a, b) => (state.words[b].at || 0) - (state.words[a].at || 0));
   }

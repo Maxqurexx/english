@@ -219,7 +219,7 @@
       return `<li class="word-row" data-key="${key}"><span class="word-row-en">${esc(w.en)}</span><span class="word-row-ru">${esc(w.ru)}</span>${undo}</li>`;
     }).join("");
     const emptyText = tab === "known"
-      ? "Здесь будут слова, на которых ты нажал «Уже знаю»."
+      ? "Здесь будут слова, которые ты учил, а потом отметил «Уже знаю»."
       : "Здесь будут слова, которые ты вспомнил через неделю после знакомства.";
     render(`
       <div class="bar">
