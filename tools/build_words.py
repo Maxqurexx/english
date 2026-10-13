@@ -28,7 +28,17 @@ if "--icons" in sys.argv:
     css = Path(sys.argv[sys.argv.index("--icons") + 1]).read_text(encoding="utf-8")
     icons = set(re.findall(r"\.ti-([a-z0-9-]+):before", css))
 
+# The frequency list decides the rank whenever the word is in it; the rank typed
+# in a batch is only a fallback for base forms the list holds as inflections.
+LIST_RANK = {}
+wordlist = Path(__file__).with_name("wordlist.tsv")
+if wordlist.exists():
+    for line in wordlist.read_text(encoding="utf-8").splitlines():
+        r, w = line.split("\t")
+        LIST_RANK[w] = int(r)
+
 rows, seen, problems = [], {}, []
+used_ranks = {}
 for path in sorted(CONTENT.glob("*.txt")):
     for n, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         if not line.strip() or line.startswith("#"):
@@ -46,7 +56,11 @@ for path in sorted(CONTENT.glob("*.txt")):
         if icons is not None and icon not in icons:
             problems.append(f"{where}: unknown icon '{icon}' for '{en}'")
             icon = "point"
-        rows.append([int(rank), en, ru, assoc, ex, ex_ru, icon])
+        rank = LIST_RANK.get(en.lower(), int(rank))
+        while rank in used_ranks:  # rank doubles as the word id, so keep it unique
+            rank += 0.5 if isinstance(rank, int) else 0.25
+        used_ranks[rank] = en
+        rows.append([rank, en, ru, assoc, ex, ex_ru, icon])
 
 rows.sort(key=lambda r: r[0])
 js = (
