@@ -107,6 +107,16 @@
     return n;
   }
 
+  // Words started but not yet learned.
+  function inProgressCount(state) {
+    let n = 0;
+    for (const id in state.words) {
+      const w = state.words[id];
+      if (!w.known && !w.learned && !w.done) n++;
+    }
+    return n;
+  }
+
   // Rough daily minutes for a slider value: a new word ~15 s to meet plus ~5 s
   // for the same-day check, each review ~5 s.
   function estimateMinutes(newPerDay) {
@@ -145,7 +155,7 @@
   const api = {
     INTERVALS, dayNumber, dayKey, emptyState, today, reviewLimit, dueReviews,
     nextNewWords, newLeftToday, markIntroduced, markKnown, markChecked,
-    markReviewed, learnedCount, estimateMinutes, weekStats, streak,
+    markReviewed, learnedCount, inProgressCount, estimateMinutes, weekStats, streak,
   };
   if (typeof module !== "undefined") module.exports = api;
   else root.SRS = api;

@@ -137,7 +137,6 @@
     const d = day();
     const newLeft = Math.min(SRS.newLeftToday(state, d), SRS.nextNewWords(state, WORDS, 1e9).length);
     const reviews = SRS.dueReviews(state, d).length;
-    const t = SRS.today(state, d);
     const nothingLeft = newLeft === 0 && reviews === 0;
     const streak = SRS.streak(state, d);
     const learned = SRS.learnedCount(state);
@@ -151,8 +150,8 @@
         <div class="label">${plural(learned, "слово выучено", "слова выучено", "слов выучено")}</div>
       </div>
       <div class="stats">
-        <div class="stat"><b>${t.n}</b><span>новых сегодня</span></div>
-        <div class="stat"><b>${newLeft}</b><span>новых осталось</span></div>
+        <div class="stat"><b>${SRS.inProgressCount(state)}</b><span>учу сейчас</span></div>
+        <div class="stat"><b>${newLeft}</b><span>новых на сегодня</span></div>
         <div class="stat"><b>${reviews}</b><span>повторить</span></div>
       </div>
       <div class="actions" style="flex-direction:column">
