@@ -1,0 +1,244 @@
+# ranks 5081-5460, content words only
+5081 | lineup | состав | «Лайнап» — line (линия) + up: СОСТАВ в линию. | The starting lineup. | Стартовый состав. | users-group
+5083 | magnificent | великолепный | «Мэгнифисэнт» — «магнит»: ВЕЛИКОЛЕПНЫЙ, притягивает, как магнит. | A magnificent view. | Великолепный вид. | sparkles
+5084 | mathematical | математический | «Мэсэмэтикл» — МАТЕМАТИЧЕСКИЙ. | A mathematical formula. | Математическая формула. | math
+5085 | meantime | тем временем | «Минтайм» — mean + time (время): ТЕМ ВРЕМЕНЕМ. | In the meantime. | А пока. | hourglass
+5088 | nonetheless | тем не менее | «Нанзэлэс» — none (ничто) + the less: ТЕМ НЕ МЕНЕЕ. | Nonetheless, he won. | Тем не менее он победил. | arrow-right
+5092 | pipeline | трубопровод | «Пайплайн» — pipe (труба) + line: ТРУБОПРОВОД. | An oil pipeline. | Нефтепровод. | test-pipe
+5093 | placement | размещение | «Плэйсмэнт» — place: РАЗМЕЩЕНИЕ. | Ad placement. | Размещение рекламы. | map-pin
+5096 | recreation | отдых | «Рэкриэйшн» — «рекреация»: ОТДЫХ. | Outdoor recreation. | Отдых на природе. | beach
+5097 | renew | обновлять | «Риньюу» — re (снова) + new (новый): ОБНОВИТЬ. | Renew your passport. | Продлить паспорт. | refresh
+5098 | resign | уходить в отставку | «Ризайн» — «резина»: УВОЛИЛСЯ с резинового завода. | The minister resigned. | Министр ушёл в отставку. | door-exit
+5100 | shallow | мелкий | «Шэлоу» — «шалун»: шалун плещется на МЕЛКОВОДЬЕ. | Shallow water. | Мелкая вода. | ripple
+5104 | sketch | набросок, скетч | «Скэтч» — СКЕТЧ: НАБРОСОК. | A quick sketch. | Быстрый набросок. | pencil
+5105 | soda | газировка | «Соудэ» — «сода»: ГАЗИРОВКА с содой. | A can of soda. | Банка газировки. | bottle
+5106 | spite | злоба; несмотря на | «Спайт» — «спать»: НЕСМОТРЯ НИ НА ЧТО — спать! | In spite of the rain. | Несмотря на дождь. | mood-angry
+5108 | strengthen | укреплять | «Стрэнгсэн» — strength (сила): УКРЕПЛЯТЬ. | Strengthen muscles. | Укреплять мышцы. | barbell
+5109 | sunset | закат | «Сансэт» — sun (солнце) + set (садиться): ЗАКАТ. | A beautiful sunset. | Красивый закат. | sunset
+5111 | thanksgiving | День благодарения | «Сэнксгивинг» — thanks + giving: ДЕНЬ БЛАГОДАРЕНИЯ. | Happy Thanksgiving! | С Днём благодарения! | calendar
+5113 | thermal | тепловой | «Сёмл» — «термос»: ТЕПЛОВОЙ. | Thermal energy. | Тепловая энергия. | temperature
+5115 | workplace | рабочее место | «Вёкплэйс» — work + place: РАБОЧЕЕ МЕСТО. | Safety in the workplace. | Безопасность на работе. | briefcase
+5116 | yell | кричать | «Йэл» — «ель»: КРИЧИТ из-под ели. | Don't yell at me. | Не кричи на меня. | speakerphone
+5119 | analyst | аналитик | «Энэлист» — АНАЛИТИК. | A data analyst. | Аналитик данных. | chart-bar
+5121 | arctic | арктический | «Актик» — АРКТИКА. | Arctic ice. | Арктический лёд. | snowflake
+5126 | calorie | калория | «Кэлэри» — КАЛОРИЯ. | Low in calories. | Мало калорий. | flame
+5128 | cease | прекращать | «Сис» — «сиеста»: ПРЕКРАТИ, у нас сиеста! | Cease fire. | Прекратить огонь. | hand-stop
+5129 | chapel | часовня | «Чэпл» — «цепь»: ЧАСОВНЯ на цепи. | A small chapel. | Маленькая часовня. | building-church
+5130 | cloth | ткань | «Клос» — «клочок»: ТКАНЬ на клочке. | A piece of cloth. | Кусок ткани. | needle-thread
+5131 | container | контейнер | «Кэнтэйнэ» — КОНТЕЙНЕР. | A plastic container. | Пластиковый контейнер. | box
+5132 | cowboy | ковбой | «Каубой» — КОВБОЙ. | A cowboy hat. | Ковбойская шляпа. | user
+5133 | deploy | развёртывать | «Диплой» — «деплой»: РАЗВЕРНУТЬ. | Deploy troops. | Развернуть войска. | rocket
+5134 | differ | отличаться | «Дифэ» — different: ОТЛИЧАТЬСЯ. | Opinions differ. | Мнения расходятся. | arrows-split
+5136 | eager | жаждущий | «Игэ» — «игра»: ЖАЖДЕТ игры. | Eager to learn. | Горит желанием учиться. | flame
+5138 | elevate | поднимать | «Элэвэйт» — «элеватор» (лифт): ПОДНИМАТЬ. | Elevate your legs. | Подними ноги. | arrow-up
+5139 | essence | суть | «Эсэнс» — «эссенция»: СУТЬ. | The essence of life. | Суть жизни. | target
+5140 | fork | вилка | «Фок» — «фокус»: фокус с ВИЛКОЙ. | A knife and fork. | Нож и вилка. | tools-kitchen-2
+5141 | fur | мех | «Фё» — «фея»: ФЕЯ в МЕХОВОЙ шубе. | A fur coat. | Шуба. | paw
+5144 | harvest | урожай | «Хавист» — «хавать»: УРОЖАЙ — есть что хавать. | The harvest season. | Сезон урожая. | plant
+5145 | headline | заголовок | «Хэдлайн» — head (голова) + line: ЗАГОЛОВОК. | Front-page headline. | Заголовок на первой полосе. | news
+5147 | hype | хайп | «Хайп» — ХАЙП: ажиотаж. | Too much hype. | Слишком много шумихи. | trending-up
+5150 | junk | хлам | «Джанк» — «джанк-фуд»: ХЛАМ. | Junk food. | Вредная еда. | trash
+5152 | kidney | почка | «Кидни» — «кидать»: ПОЧКУ не кидай! | A kidney stone. | Камень в почке. | heart
+5153 | ladder | лестница (приставная) | «Лэдэ» — «лад»: ЛЕСТНИЦА в ладу. | Climb the ladder. | Залезть по лестнице. | stairs
+5155 | lobby | вестибюль; лобби | «Лоби» — ЛОББИ: ВЕСТИБЮЛЬ. | The hotel lobby. | Холл гостиницы. | door
+5157 | mineral | минерал | «Минэрэл» — МИНЕРАЛ. | Mineral water. | Минеральная вода. | diamond
+5158 | mob | толпа | «Моб» — МОБ — ТОЛПА. | An angry mob. | Разъярённая толпа. | users-group
+5159 | modest | скромный | «Модист» — «модный»: СКРОМНЫЙ, не модный. | A modest house. | Скромный дом. | user
+5161 | navigation | навигация | «Нэвигэйшн» — НАВИГАЦИЯ. | GPS navigation. | GPS-навигация. | compass
+5163 | orbit | орбита | «Обит» — ОРБИТА. | In orbit. | На орбите. | planet
+5164 | paragraph | абзац | «Пэрэграф» — ПАРАГРАФ: АБЗАЦ. | The first paragraph. | Первый абзац. | file
+5165 | passive | пассивный | «Пэсив» — ПАССИВНЫЙ. | Passive income. | Пассивный доход. | zzz
+5166 | peninsula | полуостров | «Пэнинсьюлэ» — «пенсия»: ПОЛУОСТРОВ для пенсионеров. | The Crimean Peninsula. | Крымский полуостров. | map
+5169 | pork | свинина | «Пок» — «покупка»: ПОКУПАЮ СВИНИНУ. | Pork chops. | Свиные отбивные. | meat
+5171 | profitable | прибыльный | «Профитэбл» — «профит»: ПРИБЫЛЬНЫЙ. | A profitable business. | Прибыльный бизнес. | coin
+5172 | ranch | ранчо | «Рэнч» — РАНЧО. | A horse ranch. | Конное ранчо. | home
+5173 | reasonably | разумно, достаточно | «Ризэнэбли» — reason: РАЗУМНО. | Reasonably priced. | По разумной цене. | check
+5175 | remainder | остаток | «Римэйндэ» — remain: ОСТАТОК. | The remainder of the day. | Остаток дня. | minus
+5176 | seize | хватать, захватывать | «Сиз» — «сизый»: СИЗЫЙ голубь ХВАТАЕТ хлеб. | Seize the day. | Лови момент. | hand-grab
+5177 | semester | семестр | «Сэмэстэ» — СЕМЕСТР. | Next semester. | В следующем семестре. | school
+5178 | sentiment | чувство, настроение | «Сэнтимэнт» — «сентиментальный»: ЧУВСТВО. | Public sentiment. | Общественное настроение. | heart
+5179 | sock | носок | «Сок» — «сок»: пролил СОК на НОСОК. | A pair of socks. | Пара носков. | shoe
+5182 | supplement | добавка | «Саплимэнт» — «суп»: ДОБАВКА в суп. | Vitamin supplements. | Витаминные добавки. | pill
+5183 | thereby | тем самым | «Зэабай» — there + by: ТЕМ САМЫМ. | Thereby saving time. | Тем самым экономя время. | arrow-right
+5184 | threshold | порог | «Срэшхоулд» — «треш» + hold: ПОРОГ треша. | Pain threshold. | Болевой порог. | door
+5186 | tin | олово; банка | «Тин» — «тина»: в тине консервная БАНКА. | A tin can. | Жестяная банка. | bucket
+5188 | tribal | племенной | «Трайбл» — tribe: ПЛЕМЕННОЙ. | Tribal art. | Искусство племён. | users-group
+5189 | trunk | ствол; багажник | «Транк» — «трамплин»: БАГАЖНИК открылся, как трамплин. | The car trunk. | Багажник машины. | car
+5190 | uncertainty | неопределённость | «Ансётэнти» — un + certain: НЕОПРЕДЕЛЁННОСТЬ. | A time of uncertainty. | Время неопределённости. | question-mark
+5191 | vampire | вампир | «Вэмпайэ» — ВАМПИР. | A vampire movie. | Фильм про вампиров. | ghost
+5192 | verdict | вердикт | «Вёдикт» — ВЕРДИКТ. | A guilty verdict. | Обвинительный приговор. | gavel
+5194 | accommodate | вмещать, размещать | «Экомэдэйт» — «комод»: в комод ВМЕЩАЕТСЯ всё. | The hotel can accommodate 100 guests. | Отель вмещает 100 гостей. | bed
+5195 | accordingly | соответственно | «Экоодингли» — «аккорд»: СООТВЕТСТВЕННО аккорду. | Act accordingly. | Действуй соответственно. | check
+5196 | aesthetic | эстетичный | «Эсэтик» — ЭСТЕТИКА. | An aesthetic photo. | Эстетичное фото. | palette
+5197 | algorithm | алгоритм | «Элгэризм» — АЛГОРИТМ. | A search algorithm. | Алгоритм поиска. | code
+5198 | anchor | якорь | «Энкэ» — «анкер»: ЯКОРЬ. | Drop the anchor. | Бросить якорь. | anchor
+5201 | arch | арка | «Ач» — АРКА. | A stone arch. | Каменная арка. | building-arch
+5203 | axis | ось | «Эксис» — «экс»: ОСЬ, как буква X. | The Earth's axis. | Ось Земли. | axis-x
+5204 | badge | значок | «Бэдж» — «бейдж»: ЗНАЧОК. | A police badge. | Полицейский значок. | id-badge
+5206 | bizarre | странный | «Бизаа» — «базар»: СТРАННЫЙ базар. | A bizarre story. | Странная история. | question-mark
+5207 | bounce | отскакивать | «Баунс» — «баунти»: мячик ОТСКАКИВАЕТ, как баунти. | The ball bounced. | Мяч отскочил. | ball-basketball
+5209 | cannon | пушка | «Кэнэн» — «канон»: ПУШКА палит по канону. | A cannon ball. | Пушечное ядро. | bomb
+5211 | complexity | сложность | «Кэмплэксити» — «комплекс»: СЛОЖНОСТЬ. | The complexity of the task. | Сложность задачи. | puzzle
+5212 | confusing | запутанный | «Кэнфьюзинг» — «конфуз»: ЗАПУТАННЫЙ. | It's confusing. | Это запутано. | mood-confuzed
+5213 | consultation | консультация | «Консэлтэйшн» — КОНСУЛЬТАЦИЯ. | A free consultation. | Бесплатная консультация. | messages
+5214 | continental | континентальный | «Континэнтл» — КОНТИНЕНТАЛЬНЫЙ. | Continental breakfast. | Континентальный завтрак. | world
+5215 | convenience | удобство | «Кэнвиниэнс» — convenient: УДОБСТВО. | For your convenience. | Для вашего удобства. | thumb-up
+5216 | deliberately | намеренно | «Дилибэрэтли» — «дели и бери»: НАМЕРЕННО — дели и бери. | He did it deliberately. | Он сделал это нарочно. | target
+5218 | dictionary | словарь | «Дикшэнэри» — «диктант»: СЛОВАРЬ для диктанта. | An English dictionary. | Английский словарь. | book
+5219 | dignity | достоинство | «Дигнити» — «дико нет»: ДОСТОИНСТВО — дико нет, не сдамся. | Human dignity. | Человеческое достоинство. | crown
+5221 | disappointing | разочаровывающий | «Дисэпойнтинг» — disappointed: РАЗОЧАРОВЫВАЕТ. | A disappointing result. | Разочаровывающий результат. | mood-sad
+5224 | ego | эго | «Игоу» — ЭГО. | A big ego. | Раздутое эго. | user
+5225 | enthusiasm | энтузиазм | «Инсьюзиэзм» — ЭНТУЗИАЗМ. | Full of enthusiasm. | Полон энтузиазма. | flame
+5226 | equation | уравнение | «Иквэйжн» — equal: УРАВНЕНИЕ. | Solve the equation. | Реши уравнение. | math
+5227 | extract | извлекать; экстракт | «Икстрэкт» — ЭКСТРАКТ: ИЗВЛЕКАТЬ. | Extract the juice. | Выжать сок. | flask
+5228 | ferry | паром | «Фэри» — «фея»: ФЕЯ на ПАРОМЕ. | Take the ferry. | Сесть на паром. | ship
+5230 | flexibility | гибкость | «Флэксибилити» — flexible: ГИБКОСТЬ. | Flexibility of muscles. | Гибкость мышц. | wave-sine
+5232 | fridge | холодильник | «Фридж» — «фризер»: ХОЛОДИЛЬНИК. | Put it in the fridge. | Положи в холодильник. | fridge
+5233 | fusion | синтез, сплав | «Фьюжн» — ФЬЮЖН: СПЛАВ. | Nuclear fusion. | Ядерный синтез. | atom
+5234 | gauge | датчик; измерять | «Гейдж» — «гейзер»: ДАТЧИК гейзера. | A fuel gauge. | Датчик топлива. | gauge
+5235 | goat | коза | «Гоут» — «гот»: КОЗА-гот. | A mountain goat. | Горный козёл. | paw
+5236 | gut | кишка; чутьё | «Гат» — «гад»: ЧУТЬЁ на гадов. | Trust your gut. | Доверься чутью. | mood-sick
+5238 | helmet | шлем | «Хэлмит» — «хелм» — «холм»: ШЛЕМ на холме. | Wear a helmet. | Надень шлем. | helmet
+5239 | ideology | идеология | «Айдиолэджи» — ИДЕОЛОГИЯ. | Political ideology. | Политическая идеология. | bulb
+5240 | inclusion | включение | «Инклюжн» — «инклюзия»: ВКЛЮЧЕНИЕ. | Social inclusion. | Социальная интеграция. | users-group
+5242 | insect | насекомое | «Инсэкт» — «инсектицид»: НАСЕКОМОЕ. | A small insect. | Маленькое насекомое. | bug
+5243 | instructor | инструктор | «Инстрактэ» — ИНСТРУКТОР. | A driving instructor. | Инструктор по вождению. | user
+5244 | isolation | изоляция | «Айсэлэйшн» — ИЗОЛЯЦИЯ. | In isolation. | В изоляции. | lock
+5246 | keeper | хранитель; вратарь | «Кипэ» — keep (хранить): ХРАНИТЕЛЬ. | A goal keeper. | Вратарь. | shield
+5247 | lamb | ягнёнок | «Лэм» — «лама»: ЯГНЁНОК, как маленькая лама. | A little lamb. | Маленький ягнёнок. | paw
+5248 | liar | лжец | «Лайэ» — «лаять»: ЛЖЕЦ лает враньё. | You're a liar! | Ты лжец! | mask
+5249 | machinery | техника, механизмы | «Мэшинэри» — machine: МЕХАНИЗМЫ. | Farm machinery. | Сельхозтехника. | settings
+5250 | mansion | особняк | «Мэншн» — «манеж»: ОСОБНЯК с манежем. | A huge mansion. | Огромный особняк. | building-castle
+5251 | mega | мега | «Мэгэ» — МЕГА. | A mega hit. | Мегахит. | rocket
+5253 | namely | а именно | «Нэймли» — name (имя): А ИМЕННО. | Two cities, namely Paris and Rome. | Два города, а именно Париж и Рим. | list
+5257 | pending | ожидающий | «Пэндинг» — «пенделя ждёт»: ОЖИДАЮЩИЙ решения. | Pending approval. | Ожидает одобрения. | hourglass
+5258 | platinum | платина | «Плэтинэм» — ПЛАТИНА. | A platinum ring. | Платиновое кольцо. | diamond
+5259 | possess | обладать | «Пэзэс» — «посессия»: ОБЛАДАТЬ. | Possess a skill. | Обладать навыком. | key
+5260 | premises | помещение | «Прэмисиз» — «премия»: ПОМЕЩЕНИЕ за премию. | On the premises. | В помещении. | building
+5261 | probability | вероятность | «Прэбэбилити» — probably: ВЕРОЯТНОСТЬ. | High probability. | Высокая вероятность. | percentage
+5263 | resignation | отставка | «Рэзигнэйшн» — resign: ОТСТАВКА. | A letter of resignation. | Заявление об уходе. | door-exit
+5264 | rider | наездник, всадник | «Райдэ» — ride: НАЕЗДНИК. | A horse rider. | Наездник. | horse-toy
+5265 | ritual | ритуал | «Ричуэл» — РИТУАЛ. | A morning ritual. | Утренний ритуал. | repeat
+5266 | shelf | полка | «Шэлф» — «шелест»: ПОЛКА шелестит книгами. | A book shelf. | Книжная полка. | books
+5267 | slam | хлопнуть | «Слэм» — «слэм» на концерте: ХЛОПНУТЬ. | Slam the door. | Хлопнуть дверью. | door
+5268 | starter | закуска; стартер | «Статэ» — start: ЗАКУСКА в начале. | A starter and main course. | Закуска и основное блюдо. | salad
+5269 | subscribe | подписываться | «Сэбскрайб» — «сабскрайб»: ПОДПИСАТЬСЯ. | Subscribe to my channel. | Подпишись на мой канал. | bell
+5272 | tire | шина; уставать | «Тайэ» — «тайм-аут»: УСТАЛ — тайм-аут. | A flat tire. | Спущенная шина. | wheel
+5274 | utterly | совершенно | «Атэли» — «отели»: СОВЕРШЕННО пустые отели. | Utterly useless. | Совершенно бесполезно. | check
+5275 | voltage | напряжение | «Воултидж» — «вольт»: НАПРЯЖЕНИЕ. | High voltage. | Высокое напряжение. | bolt
+5277 | width | ширина | «Видс» — wide (широкий): ШИРИНА. | The width of the road. | Ширина дороги. | arrows-horizontal
+5278 | workout | тренировка | «Вёкаут» — «воркаут»: ТРЕНИРОВКА. | A morning workout. | Утренняя тренировка. | barbell
+5281 | activate | активировать | «Эктивэйт» — АКТИВИРОВАТЬ. | Activate your card. | Активируй карту. | toggle-right
+5282 | adaptation | адаптация; экранизация | «Эдэптэйшн» — АДАПТАЦИЯ. | A film adaptation. | Экранизация. | movie
+5283 | advisor | советник | «Эдвайзэ» — advise: СОВЕТНИК. | A financial advisor. | Финансовый советник. | user
+5284 | aluminum | алюминий | «Элюминэм» — АЛЮМИНИЙ. | Aluminum foil. | Алюминиевая фольга. | box
+5285 | bail | залог | «Бэйл» — «билл»: ЗАЛОГ по счёту. | Out on bail. | На свободе под залог. | coin
+5292 | characterize | характеризовать | «Кэрэктэрайз» — ХАРАКТЕРИЗОВАТЬ. | How would you characterize him? | Как бы ты его описал? | user
+5293 | civilization | цивилизация | «Сивэлайзэйшн» — ЦИВИЛИЗАЦИЯ. | Ancient civilization. | Древняя цивилизация. | building-castle
+5295 | creativity | креативность | «Криэйтивити» — КРЕАТИВНОСТЬ. | Creativity and imagination. | Творчество и воображение. | palette
+5296 | delicate | нежный, хрупкий | «Дэликэт» — «деликатный»: НЕЖНЫЙ. | A delicate flower. | Нежный цветок. | feather
+5299 | disappointment | разочарование | «Дисэпойнтмэнт» — disappointed: РАЗОЧАРОВАНИЕ. | A big disappointment. | Большое разочарование. | mood-sad
+5300 | disk | диск | «Диск» — ДИСК. | A hard disk. | Жёсткий диск. | disc
+5301 | evaluate | оценивать | «Ивэльюэйт» — «эвакуировать»: ОЦЕНИТЬ перед эвакуацией. | Evaluate the risk. | Оценить риск. | clipboard-check
+5302 | formally | официально | «Фомэли» — formal: ОФИЦИАЛЬНО. | Formally dressed. | Официально одет. | tie
+5303 | goddess | богиня | «Годэс» — god + ess: БОГИНЯ. | A Greek goddess. | Греческая богиня. | sparkles
+5306 | harassment | домогательство, травля | «Хэрэсмэнт» — «харя»: ТРАВЛЯ — тычут в харю. | Sexual harassment. | Сексуальные домогательства. | alert-triangle
+5308 | insert | вставлять | «Инсёт» — «вставка» — клавиша INSERT: ВСТАВИТЬ. | Insert the card. | Вставь карту. | login
+5314 | liquor | крепкий алкоголь | «Ликэ» — «ликёр»: КРЕПКИЙ АЛКОГОЛЬ. | A liquor store. | Алкогольный магазин. | glass
+5315 | loser | неудачник | «Лузэ» — ЛУЗЕР. | Don't be a loser. | Не будь неудачником. | thumb-down
+5317 | massage | массаж | «Мэсаж» — МАССАЖ. | A back massage. | Массаж спины. | hand-stop
+5321 | nephew | племянник | «Нэфью» — «нефть»: ПЛЕМЯННИК нашёл нефть. | My nephew. | Мой племянник. | user
+5322 | notably | особенно | «Ноутэбли» — notable: ОСОБЕННО. | Most notably. | Прежде всего. | star
+5323 | orchestra | оркестр | «Окистрэ» — ОРКЕСТР. | A symphony orchestra. | Симфонический оркестр. | music
+5325 | pad | подушечка; блокнот | «Пэд» — «пёд» — «под»: ПОДУШКА под руку. | A mouse pad. | Коврик для мыши. | notebook
+5327 | precision | точность | «Присижн» — precise: ТОЧНОСТЬ. | With precision. | С точностью. | target
+5328 | preservation | сохранение | «Прэзэвэйшн» — preserve: СОХРАНЕНИЕ. | Food preservation. | Консервирование. | leaf
+5329 | privately | наедине, частно | «Прайвэтли» — private: НАЕДИНЕ. | Talk privately. | Поговорить наедине. | lock
+5330 | rumor | слух | «Румэ» — «рупор»: СЛУХ через рупор. | Just a rumor. | Просто слух. | ear
+5331 | sail | парус; плыть | «Сэйл» — «сейл», распродажа… «Сэйл» — «сель»: ПАРУС против селя. | Set sail. | Отправиться в плавание. | sailboat
+5332 | salmon | лосось | «Сэмэн» — «сёмга»: ЛОСОСЬ. | Grilled salmon. | Лосось на гриле. | fish
+5333 | secretly | тайно | «Сикрэтли» — secret: ТАЙНО. | Secretly in love. | Тайно влюблён. | spy
+5334 | seller | продавец | «Сэлэ» — sell: ПРОДАВЕЦ. | A best seller. | Бестселлер. | building-store
+5337 | sheer | чистый, явный | «Шиэ» — «ширь»: ЧИСТАЯ ширь. | Sheer luck. | Чистое везение. | sparkles
+5340 | specially | специально | «Спэшэли» — special: СПЕЦИАЛЬНО. | Specially for you. | Специально для тебя. | star
+5342 | sympathy | сочувствие | «Симпэси» — «симпатия»: СОЧУВСТВИЕ. | Deep sympathy. | Глубокое сочувствие. | heart
+5343 | tan | загар | «Тэн» — «тень»: ЗАГАР без тени. | A nice tan. | Хороший загар. | sun
+5344 | theoretical | теоретический | «Сиэрэтикл» — ТЕОРЕТИЧЕСКИЙ. | Theoretical physics. | Теоретическая физика. | atom
+5345 | thumb | большой палец | «Сам» — «сам»: сам себе ставлю БОЛЬШОЙ ПАЛЕЦ. | Thumbs up! | Класс! | thumb-up
+5346 | timber | древесина | «Тимбэ» — «тимбилдинг»: ДРЕВЕСИНА для тимбилдинга. | Timber house. | Деревянный дом. | wood
+5347 | transparent | прозрачный | «Трэнспэрэнт» — ТРАНСПАРЕНТ — ПРОЗРАЧНЫЙ. | Transparent glass. | Прозрачное стекло. | eye
+5350 | upside | верх; плюс | «Апсайд» — up + side: ВЕРХ. | Upside down. | Вверх ногами. | arrow-up
+5352 | vitamin | витамин | «Вайтэмин» — ВИТАМИН. | Vitamin C. | Витамин C. | pill
+5353 | void | пустота | «Войд» — «вой»: ПУСТОТА — только вой. | Fill the void. | Заполнить пустоту. | circle
+5354 | voluntary | добровольный | «Волэнтэри» — volunteer: ДОБРОВОЛЬНЫЙ. | Voluntary work. | Добровольная работа. | heart-handshake
+5355 | wheat | пшеница | «Вит» — «вить»: ВИТЬ венок из ПШЕНИЦЫ. | Wheat flour. | Пшеничная мука. | plant
+5356 | whip | кнут | «Вип» — «VIP»: VIP-персоне — КНУТ. | Crack the whip. | Щёлкнуть кнутом. | line
+5357 | wipe | вытирать | «Вайп» — «вайпер»: ВЫТИРАТЬ. | Wipe the table. | Вытри стол. | wash
+5359 | wrist | запястье | «Рист» — «рис»: РИС на ЗАПЯСТЬЕ. | A broken wrist. | Сломанное запястье. | hand-stop
+5360 | acute | острый | «Экьют» — «акула»: ОСТРЫЙ, как зуб акулы. | Acute pain. | Острая боль. | alert-triangle
+5361 | admiral | адмирал | «Эдмирэл» — АДМИРАЛ. | Admiral Nelson. | Адмирал Нельсон. | anchor
+5365 | banana | банан | «Бэнанэ» — БАНАН. | A ripe banana. | Спелый банан. | plant
+5366 | behave | вести себя | «Бихэйв» — be + have: ВЕДИ СЕБЯ хорошо. | Behave yourself! | Веди себя прилично! | user
+5369 | borrow | брать взаймы | «Бороу» — «бор»: ВЗЯЛ В ДОЛГ у бора. | Can I borrow your pen? | Можно взять твою ручку? | hand-grab
+5373 | chin | подбородок | «Чин» — «чинить»: ЧИНИТЬ ПОДБОРОДОК. | Chin up! | Выше нос! | user
+5374 | civic | гражданский | «Сивик» — «цивил»: ГРАЖДАНСКИЙ. | Civic duty. | Гражданский долг. | building-bank
+5375 | clerk | клерк | «Клак» — КЛЕРК. | A bank clerk. | Банковский служащий. | briefcase
+5376 | considerably | значительно | «Кэнсидэрэбли» — considerable: ЗНАЧИТЕЛЬНО. | Considerably cheaper. | Значительно дешевле. | trending-down
+5377 | cottage | коттедж, домик | «Котидж» — КОТТЕДЖ. | A country cottage. | Загородный домик. | home
+5378 | coup | переворот | «Ку» — «ку!»: ПЕРЕВОРОТ — «ку!» | A military coup. | Военный переворот. | flag
+5379 | criticize | критиковать | «Критисайз» — КРИТИКОВАТЬ. | Don't criticize me. | Не критикуй меня. | message-exclamation
+5380 | crude | сырой; грубый | «Круд» — «круто»: СЫРАЯ нефть — круто. | Crude oil. | Сырая нефть. | droplet
+5381 | dash | рывок; тире | «Дэш» — «дешёвый»: РЫВОК за дешёвым. | A quick dash. | Быстрый рывок. | minus
+5382 | disclosure | раскрытие | «Дисклоужэ» — dis + close (закрыть): РАСКРЫТИЕ. | Full disclosure. | Полное раскрытие. | eye
+5383 | disposal | утилизация | «Диспоузл» — «диспозиция»: УТИЛИЗАЦИЯ. | Waste disposal. | Утилизация отходов. | trash
+5384 | distinctive | отличительный | «Дистинктив» — distinct: ОТЛИЧИТЕЛЬНЫЙ. | A distinctive voice. | Особенный голос. | star
+5386 | drone | дрон | «Дроун» — ДРОН. | A camera drone. | Дрон с камерой. | drone
+5387 | escort | сопровождать | «Эскот» — ЭСКОРТ: СОПРОВОЖДАТЬ. | A police escort. | Полицейский эскорт. | shield
+5388 | firmly | твёрдо | «Фёмли» — firm (твёрдый): ТВЁРДО. | Hold it firmly. | Держи крепко. | hand-grab
+5389 | flour | мука | «Флауэ» — flower (цветок): МУКА белая, как цветок. | Wheat flour. | Пшеничная мука. | bread
+5394 | indie | инди | «Инди» — ИНДИ. | An indie game. | Инди-игра. | device-gamepad
+5395 | indirect | косвенный | «Индайрэкт» — in + direct: КОСВЕННЫЙ. | Indirect costs. | Косвенные расходы. | arrow-down-right
+5397 | institutional | институциональный | «Инститьюшэнл» — институт: ИНСТИТУЦИОНАЛЬНЫЙ. | Institutional investors. | Институциональные инвесторы. | building-bank
+5398 | interim | временный | «Интэрим» — «интерим» — «интервал»: ВРЕМЕННЫЙ. | An interim manager. | Временный руководитель. | hourglass
+5401 | jerk | придурок; рывок | «Джёк» — «жук»: ПРИДУРОК, как навозный жук. | Don't be a jerk. | Не будь придурком. | mood-angry
+5403 | kindly | любезно | «Кайндли» — kind (добрый): ЛЮБЕЗНО. | Kindly wait. | Будьте добры, подождите. | heart
+5404 | kindness | доброта | «Кайнднэс» — kind: ДОБРОТА. | Thank you for your kindness. | Спасибо за доброту. | heart
+5405 | lottery | лотерея | «Лотэри» — ЛОТЕРЕЯ. | Win the lottery. | Выиграть в лотерею. | ticket
+5407 | magnitude | величина | «Мэгнитьюд» — «магнитуда»: ВЕЛИЧИНА. | Earthquake magnitude. | Магнитуда землетрясения. | wave-saw-tool
+5409 | minus | минус | «Майнэс» — МИНУС. | Minus five degrees. | Минус пять градусов. | minus
+5412 | outlet | розетка; торговая точка | «Аутлэт» — АУТЛЕТ; РОЗЕТКА. | A power outlet. | Розетка. | plug
+5413 | parameter | параметр | «Пэрэмитэ» — ПАРАМЕТР. | Set the parameters. | Задай параметры. | adjustments
+5414 | pause | пауза | «Поз» — ПАУЗА. | Press pause. | Нажми на паузу. | player-pause
+5415 | pledge | обещание, залог | «Плэдж» — «плед»: ОБЕЩАЮ отдать плед. | A pledge of loyalty. | Клятва верности. | heart-handshake
+5416 | portal | портал | «Потл» — ПОРТАЛ. | A web portal. | Веб-портал. | world
+5417 | prescription | рецепт (врача) | «Прискрипшн» — «скрип»: РЕЦЕПТ скрипит под ручкой врача. | A doctor's prescription. | Рецепт врача. | pill
+5418 | protester | протестующий | «Прэтэстэ» — protest: ПРОТЕСТУЮЩИЙ. | Protesters in the street. | Протестующие на улице. | speakerphone
+5419 | publicity | реклама, известность | «Пэблисити» — «паблисити»: ИЗВЕСТНОСТЬ. | Bad publicity. | Плохая слава. | speakerphone
+5420 | punish | наказывать | «Паниш» — «пан»: ПАН НАКАЗЫВАЕТ. | Punish the guilty. | Наказать виновных. | gavel
+5421 | puppy | щенок | «Папи» — «папа»: у папы ЩЕНОК. | A cute puppy. | Милый щенок. | paw
+5422 | recruitment | набор (персонала) | «Рикрутмэнт» — «рекрут»: НАБОР. | Staff recruitment. | Набор персонала. | user-plus
+5424 | silicon | кремний | «Силикэн» — «силикон»: КРЕМНИЙ. | Silicon Valley. | Кремниевая долина. | cpu
+5425 | slice | ломтик | «Слайс» — «слайд»: ЛОМТИК. | A slice of pizza. | Кусок пиццы. | pizza
+5431 | vaccine | вакцина | «Вэксин» — ВАКЦИНА. | A flu vaccine. | Вакцина от гриппа. | vaccine
+5432 | vinyl | винил | «Вайнл» — ВИНИЛ. | Vinyl records. | Виниловые пластинки. | disc
+5434 | accurately | точно | «Экьюрэтли» — accurate: ТОЧНО. | Measure accurately. | Измерь точно. | target
+5436 | affiliate | филиал; партнёр | «Эфилиэт» — «филиал»: ФИЛИАЛ. | An affiliate company. | Дочерняя компания. | building
+5438 | asylum | убежище | «Эсайлэм» — «а силой?»: в УБЕЖИЩЕ силой не взять. | Political asylum. | Политическое убежище. | home
+5439 | barn | амбар, сарай | «Бан» — «баня»: САРАЙ рядом с баней. | An old barn. | Старый амбар. | building-warehouse
+5440 | bent | согнутый | «Бэнт» — bend: СОГНУТЫЙ. | A bent nail. | Погнутый гвоздь. | arrow-down-right
+5443 | cathedral | собор | «Кэсидрэл» — «кафедральный»: СОБОР. | A Gothic cathedral. | Готический собор. | building-church
+5444 | clause | пункт, статья | «Клоз» — «клочок»: ПУНКТ на клочке договора. | A contract clause. | Пункт договора. | file
+5445 | cluster | скопление, кластер | «Кластэ» — КЛАСТЕР. | A cluster of stars. | Скопление звёзд. | grid-dots
+5446 | consistency | последовательность | «Кэнсистэнси» — «консистенция»: ПОСЛЕДОВАТЕЛЬНОСТЬ. | Consistency is key. | Главное — постоянство. | repeat
+5448 | cylinder | цилиндр | «Силиндэ» — ЦИЛИНДР. | A gas cylinder. | Газовый баллон. | cylinder
+5449 | dancer | танцор | «Дансэ» — dance: ТАНЦОР. | A ballet dancer. | Балерина. | music
+5450 | deaf | глухой | «Дэф» — «дефект»: ГЛУХОЙ из-за дефекта. | A deaf man. | Глухой мужчина. | ear-off
+5451 | denial | отрицание | «Динайэл» — deny: ОТРИЦАНИЕ. | He is in denial. | Он отрицает реальность. | hand-stop
+5452 | dock | док, причал | «Док» — ДОК: ПРИЧАЛ. | The ship is at the dock. | Корабль у причала. | anchor
+5453 | entrepreneur | предприниматель | «Онтрэпрэнёр» — «антрепренёр»: ПРЕДПРИНИМАТЕЛЬ. | A young entrepreneur. | Молодой предприниматель. | briefcase
+5454 | evident | очевидный | «Эвидэнт» — «видно»: ОЧЕВИДНО, видно. | It's evident. | Это очевидно. | eye
+5456 | expedition | экспедиция | «Экспэдишн» — ЭКСПЕДИЦИЯ. | An Arctic expedition. | Арктическая экспедиция. | compass
+5457 | facilitate | облегчать | «Фэсилитэйт» — «фасилитатор»: ведущий ОБЛЕГЧАЕТ работу группы. | Facilitate learning. | Облегчить обучение. | heart-handshake
+5458 | feat | подвиг | «Фит» — «фитнес»: ПОДВИГ на фитнесе. | An amazing feat. | Удивительный подвиг. | trophy
+5459 | fossil | окаменелость | «Фосил» — «фосфор»: ОКАМЕНЕЛОСТЬ светится фосфором. | Fossil fuels. | Ископаемое топливо. | bone
+5460 | freight | груз | «Фрейт» — «фрегат»: ГРУЗ на фрегате. | A freight train. | Товарный поезд. | truck
