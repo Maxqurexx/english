@@ -1,0 +1,277 @@
+# ranks 4701-5080, content words only
+4705 | musician | музыкант | «Мьюзишн» — МУЗЫКАНТ. | A street musician. | Уличный музыкант. | music
+4706 | olive | оливка | «Олив» — ОЛИВКА. | Olive oil. | Оливковое масло. | plant
+4707 | passionate | страстный | «Пэшэнэт» — passion: СТРАСТНЫЙ. | A passionate fan. | Страстный фанат. | flame
+4708 | receiver | получатель; приёмник | «Рисивэ» — «ресивер»: ПРИЁМНИК. | The receiver of the letter. | Получатель письма. | antenna-bars-5
+4710 | riot | бунт | «Райэт» — «рай от»: БУНТ — рай отменили. | A prison riot. | Тюремный бунт. | flame
+4711 | roster | список (состав) | «Ростэ» — «рост»: СПИСОК по росту. | The team roster. | Состав команды. | list
+4713 | servant | слуга | «Сёвэнт» — «сервант»: СЛУГА протирает сервант. | A loyal servant. | Верный слуга. | user
+4714 | setup | установка; подстава | «Сэтап» — СЕТАП: НАСТРОЙКА. | A home setup. | Домашняя установка. | settings
+4715 | skull | череп | «Скал» — «скала»: ЧЕРЕП на скале. | A human skull. | Человеческий череп. | skull
+4716 | slot | слот, щель | «Слот» — СЛОТ. | A time slot. | Временной слот. | layout
+4717 | smash | разбивать | «Смэш» — «смешно»: РАЗБИЛ — смешно. | Smash the window. | Разбить окно. | hammer
+4718 | statue | статуя | «Стэтью» — СТАТУЯ. | The Statue of Liberty. | Статуя Свободы. | building-monument
+4719 | surprisingly | удивительно | «Сэпрайзингли» — surprise: УДИВИТЕЛЬНО. | Surprisingly good. | Удивительно хорошо. | sparkles
+4720 | surrender | сдаваться | «Сэрэндэ» — «сэр, ренда»: СДАЮСЬ, сэр! | We surrender! | Мы сдаёмся! | flag
+4721 | suspicious | подозрительный | «Сэспишэс» — suspect: ПОДОЗРИТЕЛЬНЫЙ. | A suspicious man. | Подозрительный человек. | spy
+4722 | teenager | подросток | «Тинэйджэ» — ТИНЕЙДЖЕР. | A typical teenager. | Типичный подросток. | user
+4723 | tender | нежный | «Тэндэ» — «тендер»: НЕЖНОЕ мясо на тендере. | Tender meat. | Нежное мясо. | heart
+4724 | thoroughly | тщательно | «Сарэли» — «сорняк»: ТЩАТЕЛЬНО выполол сорняки. | Clean thoroughly. | Тщательно убери. | check
+4726 | vacuum | пылесос; вакуум | «Вэкьюм» — ВАКУУМ: ПЫЛЕСОС. | Vacuum the floor. | Пропылесось пол. | wind
+4727 | variation | вариация | «Вэриэйшн» — ВАРИАЦИЯ. | Small variations. | Небольшие различия. | arrows-shuffle
+4731 | allegation | обвинение | «Элэгэйшн» — от alleged (предполагаемый): ОБВИНЕНИЕ. | Serious allegations. | Серьёзные обвинения. | gavel
+4732 | anticipate | ожидать, предвидеть | «Энтисипэйт» — «анти» + «сипеть»: ПРЕДВИДЕЛ, что засипит. | We anticipate problems. | Мы ожидаем проблем. | eye
+4734 | architect | архитектор | «Акитэкт» — АРХИТЕКТОР. | A famous architect. | Известный архитектор. | building
+4735 | basin | бассейн; таз | «Бэйсн» — БАССЕЙН. | A river basin. | Бассейн реки. | bucket
+4736 | beneficial | полезный | «Бэнэфишл» — «бенефис»: ПОЛЕЗНЫЙ бенефис. | Beneficial effects. | Полезное действие. | thumb-up
+4737 | bleed | кровоточить | «Блид» — «бледный»: БЛЕДНЫЙ, потому что КРОВОТОЧИТ. | My nose is bleeding. | У меня кровь из носа. | droplet
+4738 | breed | порода; разводить | «Брид» — «бред»: ПОРОДА — бред какой-то. | A dog breed. | Порода собак. | paw
+4739 | bride | невеста | «Брайд» — «брить»: НЕВЕСТА заставила жениха бриться. | The bride and groom. | Жених и невеста. | heart
+4741 | bud | бутон, почка | «Бад» — «будет»: из БУТОНА будет цветок. | A rose bud. | Бутон розы. | plant
+4743 | cartoon | мультфильм | «Катун» — «картон»: МУЛЬТФИЛЬМ на картоне. | Watch cartoons. | Смотреть мультики. | movie
+4744 | chick | цыплёнок | «Чик» — «чик-чирик»: ЦЫПЛЁНОК. | A baby chick. | Цыплёнок. | egg
+4746 | comparable | сопоставимый | «Компэрэбл» — compare: СОПОСТАВИМЫЙ. | A comparable price. | Сравнимая цена. | scale
+4747 | confirmation | подтверждение | «Конфэмэйшн» — confirm: ПОДТВЕРЖДЕНИЕ. | Email confirmation. | Подтверждение по почте. | check
+4748 | console | консоль, приставка | «Консоул» — КОНСОЛЬ. | A game console. | Игровая приставка. | device-gamepad
+4749 | contractor | подрядчик | «Кэнтрэктэ» — contract: ПОДРЯДЧИК. | A building contractor. | Строительный подрядчик. | tool
+4750 | diameter | диаметр | «Дайэмитэ» — ДИАМЕТР. | The diameter of a circle. | Диаметр круга. | circle
+4753 | dump | свалка; бросать | «Дамп» — «дамба»: СВАЛКА у дамбы. | A garbage dump. | Мусорная свалка. | trash
+4754 | duo | дуэт | «Дьюоу» — ДУЭТ. | A comedy duo. | Комедийный дуэт. | users
+4755 | elephant | слон | «Элифэнт» — «элефант»: СЛОН. | A baby elephant. | Слонёнок. | paw
+4756 | enhance | улучшать | «Инханс» — «ин» + «шанс»: УЛУЧШИТЬ шансы. | Enhance the image. | Улучшить изображение. | trending-up
+4757 | exhausted | измотанный | «Игзостид» — «выхлоп» (exhaust): ИЗМОТАН, как выхлопная труба. | I'm exhausted. | Я выжат. | battery-1
+4758 | fabric | ткань | «Фэбрик» — «фабрика»: ТКАНЬ с фабрики. | Cotton fabric. | Хлопковая ткань. | needle-thread
+4759 | fabulous | сказочный | «Фэбьюлэс» — «фабула»: СКАЗОЧНЫЙ. | A fabulous dress. | Сказочное платье. | sparkles
+4760 | fairy | фея | «Фэари» — ФЕЯ. | A fairy tale. | Сказка. | wand
+4761 | fold | складывать | «Фоулд» — «фольга»: СКЛАДЫВАТЬ фольгу. | Fold the paper. | Сложи бумагу. | file
+4762 | freak | чудик, фрик | «Фрик» — ФРИК. | A control freak. | Помешанный на контроле. | mood-crazy-happy
+4763 | frustrated | расстроенный | «Фрастрэйтид» — «фрустрация»: РАССТРОЕН. | I feel frustrated. | Я расстроен. | mood-angry
+4764 | gambling | азартные игры | «Гэмблинг» — «гамбит»: АЗАРТНЫЕ ИГРЫ. | Gambling addiction. | Игромания. | cards
+4765 | gently | нежно, мягко | «Джэнтли» — gentle: МЯГКО. | Gently close the door. | Мягко закрой дверь. | feather
+4766 | glorious | славный | «Глориэс» — glory: СЛАВНЫЙ. | A glorious day. | Чудесный день. | sun
+4767 | grief | горе | «Гриф» — «гриф»: ГОРЕ — над головой кружит гриф. | Deep grief. | Глубокое горе. | mood-sad
+4769 | historically | исторически | «Историкли» — ИСТОРИЧЕСКИ. | Historically, it was a port. | Исторически это был порт. | history
+4770 | hub | центр, узел | «Хаб» — ХАБ: ЦЕНТР. | A transport hub. | Транспортный узел. | circle-dot
+4772 | inevitable | неизбежный | «Инэвитэбл» — «и не выйти»: НЕИЗБЕЖНО, не выйти. | Change is inevitable. | Перемены неизбежны. | arrow-right
+4774 | layout | макет, планировка | «Лэйаут» — lay (класть) + out: ПЛАНИРОВКА. | The page layout. | Макет страницы. | layout
+4775 | lodge | домик | «Лодж» — «ложа»: ДОМИК, как ложа. | A ski lodge. | Горнолыжный домик. | home
+4776 | merchant | торговец | «Мёчэнт» — «мерч»: ТОРГОВЕЦ мерчем. | A rich merchant. | Богатый торговец. | building-store
+4777 | merit | заслуга | «Мэрит» — «мерить»: ЗАСЛУГИ мерят. | On merit. | По заслугам. | award
+4778 | micro | микро | «Майкроу» — МИКРО. | Micro business. | Микробизнес. | zoom-in
+4779 | myth | миф | «Мис» — МИФ. | A Greek myth. | Греческий миф. | book
+4781 | obsessed | одержимый | «Эбсэст» — «обсесс»: ОДЕРЖИМЫЙ. | Obsessed with games. | Помешан на играх. | flame
+4783 | overwhelming | ошеломляющий, подавляющий | «Оувэвэлминг» — over + «вэлминг»: ПОДАВЛЯЮЩИЙ. | An overwhelming majority. | Подавляющее большинство. | wave-saw-tool
+4784 | pale | бледный | «Пейл» — «пепел»: БЛЕДНЫЙ, как пепел. | You look pale. | Ты бледный. | mood-sick
+4785 | particle | частица | «Патикл» — part: ЧАСТИЦА. | Dust particles. | Частицы пыли. | atom
+4786 | pastor | пастор | «Пастэ» — ПАСТОР. | The church pastor. | Пастор церкви. | building-church
+4787 | permanently | навсегда | «Пёмэнэнтли» — «перманент»: НАВСЕГДА. | Permanently closed. | Закрыто навсегда. | infinity
+4788 | poison | яд | «Пойзн» — «пояс»: ЯД в поясе. | Rat poison. | Крысиный яд. | skull
+4790 | provincial | провинциальный | «Прэвиншл» — ПРОВИНЦИАЛЬНЫЙ. | A provincial town. | Провинциальный город. | map
+4791 | rebel | бунтарь | «Рэбл» — «рубль»: БУНТАРЬ без рубля. | A rebel without a cause. | Бунтарь без причины. | flame
+4792 | rotation | вращение | «Ротэйшн» — «ротация»: ВРАЩЕНИЕ. | The rotation of the Earth. | Вращение Земли. | rotate
+4793 | separately | отдельно | «Сэпрэтли» — separate: ОТДЕЛЬНО. | Pay separately. | Платить раздельно. | arrows-split
+4795 | subtle | тонкий, едва заметный | «Сатл» — «сало»: ТОНКИЙ ломтик сала. | A subtle difference. | Тонкое различие. | feather
+4796 | toll | плата за проезд | «Тоул» — «толпа»: ПЛАТА за проезд для всей толпы. | A toll road. | Платная дорога. | receipt
+4799 | tragic | трагический | «Трэджик» — ТРАГИЧЕСКИЙ. | A tragic accident. | Трагическая авария. | mood-sad
+4800 | trainer | тренер | «Трэйнэ» — ТРЕНЕР. | A personal trainer. | Личный тренер. | barbell
+4801 | transform | преобразовывать | «Трэнсфом» — «трансформер»: ПРЕВРАЩАТЬСЯ. | Transform your life. | Измени свою жизнь. | refresh
+4802 | unbelievable | невероятный | «Анбиливэбл» — un + believe: НЕВЕРОЯТНЫЙ. | Unbelievable! | Невероятно! | sparkles
+4803 | underneath | под | «Андэнис» — under: ПОД. | Underneath the bed. | Под кроватью. | arrow-down
+4805 | viral | вирусный | «Вайрэл» — virus: ВИРУСНЫЙ. | A viral video. | Вирусное видео. | trending-up
+4806 | warehouse | склад | «Вэахаус» — ware (товар) + house (дом): СКЛАД. | A big warehouse. | Большой склад. | building-warehouse
+4807 | widow | вдова | «Видоу» — «вид у»: грустный вид у ВДОВЫ. | A young widow. | Молодая вдова. | user
+4810 | administrator | администратор | «Эдминистрэйтэ» — АДМИНИСТРАТОР. | A system administrator. | Системный администратор. | user
+4811 | altogether | в целом; полностью | «Олтэгэзэ» — all + together: ВСЕГО, В ЦЕЛОМ. | Stop altogether. | Совсем прекратить. | check
+4812 | animated | анимированный; оживлённый | «Энимэйтид» — АНИМАЦИЯ: ОЖИВЛЁННЫЙ. | An animated film. | Мультфильм. | movie
+4813 | assess | оценивать | «Эсэс» — «ассессор»: ОЦЕНИВАТЬ. | Assess the damage. | Оценить ущерб. | clipboard-check
+4814 | assumption | предположение | «Эсампшн» — assume: ПРЕДПОЛОЖЕНИЕ. | A wrong assumption. | Неверное предположение. | bulb
+4815 | assured | уверенный | «Эшуэд» — «шуруп»: УВЕРЕННЫЙ, как шуруп в стене. | Rest assured. | Будьте уверены. | check
+4817 | basket | корзина | «Баскит» — «баскетбол»: КОРЗИНА. | A basket of fruit. | Корзина фруктов. | basket
+4818 | beard | борода | «Биэд» — «беда»: БЕДА — БОРОДА отросла до пупа. | A long beard. | Длинная борода. | user
+4820 | blanket | одеяло | «Блэнкит» — «блин»: ОДЕЯЛО тонкое, как блин. | A warm blanket. | Тёплое одеяло. | bed
+4821 | bucket | ведро | «Бакит» — «бак»: ВЕДРО, как бак. | A bucket of water. | Ведро воды. | bucket
+4822 | burger | бургер | «Бёгэ» — БУРГЕР. | A cheese burger. | Чизбургер. | burger
+4824 | computing | вычисления | «Кэмпьютинг» — computer: ВЫЧИСЛЕНИЯ. | Cloud computing. | Облачные вычисления. | cpu
+4825 | concentrate | сосредоточиться | «Консэнтрэйт» — КОНЦЕНТРИРОВАТЬСЯ. | I can't concentrate. | Не могу сосредоточиться. | target
+4827 | continent | континент | «Континэнт» — КОНТИНЕНТ. | Seven continents. | Семь континентов. | world
+4830 | curse | проклятие | «Кёс» — «курс»: ПРОКЛЯТИЕ на курсе. | A family curse. | Семейное проклятие. | ghost
+4831 | drain | слив; истощать | «Дрэйн» — «дренаж»: СЛИВ. | Clean the drain. | Прочисти слив. | droplet
+4832 | emission | выброс | «Имишн» — «эмиссия»: ВЫБРОС. | Car emissions. | Выхлопы машин. | cloud
+4833 | ethical | этический | «Эсикл» — ЭТИЧЕСКИЙ. | An ethical choice. | Этичный выбор. | scale
+4834 | excellence | превосходство | «Эксэлэнс» — excellent: ПРЕВОСХОДСТВО. | Academic excellence. | Отличная учёба. | trophy
+4835 | flame | пламя | «Флэйм» — «фламинго»: ПЛАМЯ розовое, как фламинго. | A candle flame. | Пламя свечи. | flame
+4836 | freely | свободно | «Фрили» — free: СВОБОДНО. | Speak freely. | Говори свободно. | feather
+4837 | graduation | выпускной | «Грэджуэйшн» — graduate: ВЫПУСКНОЙ. | Graduation day. | День выпускного. | school
+4838 | hint | намёк, подсказка | «Хинт» — «хинкали»: ПОДСКАЗКА — хинкали едят руками. | Give me a hint. | Дай подсказку. | bulb
+4839 | horizon | горизонт | «Хэрайзн» — ГОРИЗОНТ. | On the horizon. | На горизонте. | sunrise
+4840 | hostile | враждебный | «Хостайл» — «хост» — «хвост»: ВРАЖДЕБНО бьёт хвостом. | A hostile look. | Враждебный взгляд. | mood-angry
+4841 | inhabitant | житель | «Инхэбитэнт» — «хобит»: ЖИТЕЛЬ норы — хоббит. | Local inhabitants. | Местные жители. | users
+4842 | ink | чернила | «Инк» — «инь»: ЧЕРНИЛА чёрные, как инь. | Black ink. | Чёрные чернила. | pencil
+4843 | inn | гостиница, трактир | «Ин» — «иней»: ТРАКТИР в инее. | An old inn. | Старая гостиница. | bed
+4847 | matrix | матрица | «Мэйтрикс» — МАТРИЦА. | The Matrix. | Матрица. | grid-dots
+4848 | miserable | несчастный | «Мизэрэбл» — «мизер»: НЕСЧАСТНЫЙ с мизерной зарплатой. | I feel miserable. | Мне паршиво. | mood-sad
+4849 | momentum | импульс, инерция | «Моумэнтэм» — «момент»: ИМПУЛЬС момента. | Gain momentum. | Набирать обороты. | rocket
+4850 | monkey | обезьяна | «Манки» — «манка»: ОБЕЗЬЯНА ест манку. | A funny monkey. | Смешная обезьяна. | paw
+4852 | motorcycle | мотоцикл | «Моутэсайкл» — МОТОЦИКЛ. | Ride a motorcycle. | Ездить на мотоцикле. | motorbike
+4853 | nationwide | по всей стране | «Нэйшнвайд» — nation + wide: ПО ВСЕЙ СТРАНЕ. | A nationwide strike. | Общенациональная забастовка. | world
+4854 | nest | гнездо | «Нэст» — «несёт»: птица НЕСЁТ яйца в ГНЕЗДО. | A bird's nest. | Птичье гнездо. | home
+4856 | nicely | хорошо, мило | «Найсли» — nice: МИЛО. | Ask nicely. | Попроси вежливо. | mood-smile
+4857 | ninth | девятый | «Найнс» — nine: ДЕВЯТЫЙ. | The ninth floor. | Девятый этаж. | number-9
+4858 | nomination | номинация | «Номинэйшн» — НОМИНАЦИЯ. | An Oscar nomination. | Номинация на «Оскар». | award
+4859 | notable | заметный | «Ноутэбл» — note: ЗАМЕТНЫЙ. | A notable change. | Заметное изменение. | star
+4860 | obligation | обязательство | «Облигейшн» — «облигация»: ОБЯЗАТЕЛЬСТВО. | No obligation. | Без обязательств. | file
+4861 | optical | оптический | «Оптикл» — ОПТИЧЕСКИЙ. | An optical illusion. | Оптическая иллюзия. | eye
+4862 | outlook | перспектива, взгляд | «Аутлук» — out + look: ВЗГЛЯД наружу. | A positive outlook. | Позитивный взгляд. | eye
+4863 | penny | пенни, копейка | «Пэни» — ПЕННИ: КОПЕЙКА. | Not a penny. | Ни копейки. | coin
+4864 | petty | мелкий | «Пэти» — «Петя»: Петя МЕЛОЧНЫЙ. | Petty crime. | Мелкое преступление. | minus
+4866 | quantity | количество | «Квонтити» — «квант»: КОЛИЧЕСТВО квантов. | Quality over quantity. | Качество важнее количества. | stack
+4867 | quantum | квантовый | «Квонтэм» — «квант»: КВАНТОВЫЙ. | Quantum physics. | Квантовая физика. | atom
+4868 | rainbow | радуга | «Рэйнбоу» — rain (дождь) + bow (дуга): РАДУГА. | A double rainbow. | Двойная радуга. | rainbow
+4870 | reed | тростник | «Рид» — «редкий»: ТРОСТНИК редкий. | Reeds by the river. | Тростник у реки. | plant
+4871 | reign | правление | «Рэйн» — «Рейн»: ПРАВЛЕНИЕ короля на Рейне. | The reign of the queen. | Правление королевы. | crown
+4872 | scan | сканировать | «Скэн» — СКАН. | Scan the code. | Отсканируй код. | scan
+4873 | scare | пугать | «Скэа» — «скелет»: СКЕЛЕТ ПУГАЕТ. | You scared me! | Ты меня напугал! | ghost
+4874 | span | промежуток, охват | «Спэн» — «спаниель»: ПРОМЕЖУТОК жизни спаниеля. | Attention span. | Концентрация внимания. | arrows-horizontal
+4875 | specialized | специализированный | «Спэшэлайзд» — СПЕЦИАЛИЗИРОВАННЫЙ. | A specialized shop. | Специализированный магазин. | tool
+4877 | submission | подача; подчинение | «Сэбмишн» — submit: ПОДАЧА. | The deadline for submission. | Срок подачи. | send
+4878 | sunny | солнечный | «Сани» — sun: СОЛНЕЧНЫЙ. | A sunny day. | Солнечный день. | sun
+4881 | testament | завет; завещание | «Тэстэмэнт» — «тест»: ЗАВЕЩАНИЕ — последний тест. | The Old Testament. | Ветхий Завет. | book
+4882 | toe | палец ноги | «Тоу» — «топ»: ТОПНУЛ ПАЛЬЦЕМ НОГИ. | My big toe. | Мой большой палец ноги. | shoe
+4883 | tremendous | огромный | «Трэмэндэс» — «тремор»: ОГРОМНЫЙ страх, аж тремор. | A tremendous success. | Огромный успех. | arrows-maximize
+4885 | accommodation | жильё | «Экомэдэйшн» — «комод»: ЖИЛЬЁ с комодом. | Cheap accommodation. | Дешёвое жильё. | bed
+4886 | adorable | очаровательный | «Эдорэбл» — «обожаю»: ОЧАРОВАТЕЛЬНЫЙ. | An adorable puppy. | Очаровательный щенок. | heart
+4887 | allegedly | якобы | «Элэджидли» — alleged: ЯКОБЫ. | He allegedly stole it. | Якобы он это украл. | spy
+4888 | ambulance | скорая помощь | «Эмбьюлэнс» — «амбулатория»: СКОРАЯ. | Call an ambulance! | Вызовите скорую! | ambulance
+4890 | ashamed | стыдно | «Эшеймд» — shame (стыд): СТЫДНО. | I'm ashamed. | Мне стыдно. | mood-sad
+4891 | assure | заверять | «Эшуэ» — sure (уверенный): ЗАВЕРЯТЬ. | I assure you. | Уверяю тебя. | check
+4893 | ballot | бюллетень | «Бэлэт» — «балл»: БЮЛЛЕТЕНЬ с баллами. | Cast a ballot. | Проголосовать. | checkbox
+4895 | cemetery | кладбище | «Сэмэтри» — «семь три»: КЛАДБИЩЕ на 73 места. | An old cemetery. | Старое кладбище. | grave
+4897 | cheer | подбадривать, ура | «Чиэ» — «чирлидер»: ПОДБАДРИВАТЬ. | Cheer up! | Не грусти! | confetti
+4900 | compact | компактный | «Компэкт» — КОМПАКТНЫЙ. | A compact car. | Компактная машина. | box
+4901 | consulting | консалтинг | «Кэнсалтинг» — КОНСАЛТИНГ. | A consulting firm. | Консалтинговая фирма. | briefcase
+4902 | deficit | дефицит | «Дэфисит» — ДЕФИЦИТ. | A budget deficit. | Дефицит бюджета. | trending-down
+4903 | demo | демо | «Дэмоу» — ДЕМО. | A free demo. | Бесплатная демоверсия. | player-play
+4904 | demon | демон | «Димэн» — ДЕМОН. | An evil demon. | Злой демон. | flame
+4905 | demonstration | демонстрация | «Дэмэнстрэйшн» — ДЕМОНСТРАЦИЯ. | A live demonstration. | Живая демонстрация. | presentation
+4906 | detect | обнаруживать | «Дитэкт» — «детектор»: ОБНАРУЖИВАТЬ. | Detect a problem. | Обнаружить проблему. | radar
+4907 | detection | обнаружение | «Дитэкшн» — «детектор»: ОБНАРУЖЕНИЕ. | Early detection. | Раннее выявление. | radar
+4908 | doll | кукла | «Дол» — «долька»: КУКЛА ест дольку. | A baby doll. | Кукла-пупс. | user
+4909 | donate | жертвовать | «Доунэйт» — «донат»: ЖЕРТВОВАТЬ. | Donate blood. | Сдать кровь. | heart-handshake
+4910 | elaborate | подробный, сложный | «Илэбэрэт» — «лаборатория»: ПОДРОБНЫЙ, как в лаборатории. | An elaborate plan. | Продуманный план. | list-check
+4911 | elder | старший | «Элдэ» — old: СТАРШИЙ. | My elder brother. | Мой старший брат. | user
+4912 | expertise | опыт, экспертиза | «Экспётиз» — ЭКСПЕРТИЗА. | Technical expertise. | Технический опыт. | certificate
+4914 | fiber | волокно; клетчатка | «Файбэ» — «фибра»: ВОЛОКНО. | Fiber optic. | Оптоволокно. | line
+4915 | fry | жарить | «Фрай» — «фри»: ЖАРИТЬ картошку фри. | Fry an egg. | Пожарь яйцо. | tools-kitchen
+4916 | grocery | продуктовый | «Гроусэри» — «гроздь»: ПРОДУКТЫ — гроздь винограда. | A grocery store. | Продуктовый магазин. | shopping-cart
+4918 | halfway | на полпути | «Хафвэй» — half (половина) + way (путь): НА ПОЛПУТИ. | Halfway home. | На полпути домой. | route
+4920 | heel | пятка; каблук | «Хил» — «хилый»: ХИЛЫЙ КАБЛУК сломался. | High heels. | Высокие каблуки. | shoe
+4922 | hull | корпус (судна) | «Хал» — «халабуда»: КОРПУС лодки, как халабуда. | The ship's hull. | Корпус корабля. | ship
+4923 | independently | независимо | «Индипэндэнтли» — independent: НЕЗАВИСИМО. | Work independently. | Работать самостоятельно. | user
+4924 | indication | признак | «Индикейшн» — «индикатор»: ПРИЗНАК. | A clear indication. | Явный признак. | alert-circle
+4925 | insist | настаивать | «Инсист» — «система»: НАСТАИВАЮ на системе. | I insist! | Я настаиваю! | hand-stop
+4926 | intensive | интенсивный | «Интэнсив» — ИНТЕНСИВНЫЙ. | Intensive care. | Реанимация. | heartbeat
+4927 | interactive | интерактивный | «Интэрэктив» — ИНТЕРАКТИВНЫЙ. | An interactive map. | Интерактивная карта. | hand-finger
+4928 | intimate | интимный, близкий | «Интимэт» — ИНТИМНЫЙ. | An intimate dinner. | Ужин вдвоём. | heart
+4929 | laundry | стирка | «Лондри» — «лондон»: СТИРКА в Лондоне. | Do the laundry. | Постирать бельё. | wash
+4932 | martial | боевой | «Машл» — «маршал»: БОЕВОЙ маршал. | Martial arts. | Боевые искусства. | swords
+4934 | northeast | северо-восток | «Нос-ист» — north + east: СЕВЕРО-ВОСТОК. | The northeast region. | Северо-восточный регион. | compass
+4936 | password | пароль | «Пасвёд» — pass + word (слово): ПАРОЛЬ. | Forgot your password? | Забыли пароль? | key
+4938 | politically | политически | «Пэлитикли» — ПОЛИТИЧЕСКИ. | Politically correct. | Политкорректно. | building-bank
+4939 | presumably | предположительно | «Призьюмэбли» — «презумпция»: ПРЕДПОЛОЖИТЕЛЬНО. | Presumably he left. | Наверное, он ушёл. | question-mark
+4940 | pronounced | выраженный; произнесённый | «Прэнаунст» — pronounce: ЯРКО ВЫРАЖЕННЫЙ. | A pronounced accent. | Сильный акцент. | volume
+4941 | prosecution | обвинение | «Просикьюшн» — «прокурор»: ОБВИНЕНИЕ. | The prosecution. | Сторона обвинения. | gavel
+4942 | pulse | пульс | «Палс» — ПУЛЬС. | Check his pulse. | Проверь пульс. | heartbeat
+4943 | rational | рациональный | «Рэшэнл» — РАЦИОНАЛЬНЫЙ. | A rational choice. | Разумный выбор. | brain
+4944 | realm | королевство, сфера | «Рэлм» — «реальность»: СФЕРА реальности. | The realm of fantasy. | Мир фантазии. | crown
+4945 | rope | верёвка | «Роуп» — «роба»: ВЕРЁВКА на робе. | Climb the rope. | Залезь по канату. | link
+4946 | shout | кричать | «Шаут» — «шайтан»: КРИЧИТ, как шайтан. | Don't shout! | Не кричи! | speakerphone
+4948 | smartphone | смартфон | «Смартфоун» — СМАРТФОН. | A new smartphone. | Новый смартфон. | device-mobile
+4949 | specify | уточнять | «Спэсифай» — «специфика»: УТОЧНИТЬ специфику. | Please specify. | Уточните, пожалуйста. | pencil
+4950 | spectacular | захватывающий | «Спэктэкьюлэ» — «спектакль»: ЗАХВАТЫВАЮЩИЙ. | A spectacular view. | Потрясающий вид. | sparkles
+4952 | streak | полоса, серия | «Стрик» — «стрижка»: ПОЛОСКА после стрижки. | A winning streak. | Серия побед. | flame
+4953 | subscription | подписка | «Сэбскрипшн» — «сабскрайб»: ПОДПИСКА. | A monthly subscription. | Ежемесячная подписка. | bell
+4954 | technological | технологический | «Тэкнэлоджикл» — ТЕХНОЛОГИЧЕСКИЙ. | Technological progress. | Технический прогресс. | cpu
+4955 | temporarily | временно | «Тэмпэрэрэли» — temporary: ВРЕМЕННО. | Temporarily closed. | Временно закрыто. | hourglass
+4956 | tolerance | терпимость | «Толэрэнс» — «толерантность»: ТЕРПИМОСТЬ. | Zero tolerance. | Нулевая терпимость. | heart-handshake
+4957 | traditionally | традиционно | «Трэдишэнэли» — ТРАДИЦИОННО. | Traditionally, we eat cake. | Традиционно мы едим торт. | gift
+4958 | unhappy | несчастный | «Анхэпи» — un + happy: НЕСЧАСТНЫЙ. | An unhappy child. | Несчастный ребёнок. | mood-sad
+4961 | adequate | адекватный, достаточный | «Эдиквэт» — АДЕКВАТНЫЙ. | Adequate sleep. | Достаточный сон. | check
+4962 | alter | изменять | «Олтэ» — «альтер-эго»: ИЗМЕНИТЬ себя. | Alter the plan. | Изменить план. | pencil
+4963 | apology | извинение | «Эполэджи» — «апология»: ИЗВИНЕНИЕ. | An apology letter. | Письмо с извинениями. | heart
+4965 | attribute | приписывать; качество | «Этрибьют» — «атрибут»: КАЧЕСТВО. | A key attribute. | Ключевое качество. | tag
+4966 | beg | умолять | «Бэг» — «бег»: УМОЛЯЮ — и в бег. | I beg you! | Умоляю тебя! | pray
+4967 | bout | схватка, приступ | «Баут» — «бой»: СХВАТКА, бой. | A boxing bout. | Боксёрский поединок. | swords
+4968 | brass | латунь; духовые | «Брас» — «браслет»: БРАСЛЕТ из латуни. | A brass band. | Духовой оркестр. | music
+4969 | buzz | жужжать | «Баз» — «бззз»: ЖУЖЖИТ. | Bees buzz. | Пчёлы жужжат. | bug
+4971 | comeback | возвращение | «Камбэк» — КАМБЭК. | A great comeback. | Отличное возвращение. | refresh
+4974 | diagnose | диагностировать | «Дайэгноуз» — ДИАГНОЗ: ПОСТАВИТЬ ДИАГНОЗ. | He was diagnosed with flu. | Ему диагностировали грипп. | stethoscope
+4976 | diesel | дизель | «Дизл» — ДИЗЕЛЬ. | A diesel engine. | Дизельный двигатель. | gas-station
+4977 | dimension | измерение, размер | «Даймэншн» — «дай меньше»: РАЗМЕР — дай меньше. | The fourth dimension. | Четвёртое измерение. | ruler
+4978 | dip | окунать | «Дип» — deep (глубокий): ОКУНУТЬ поглубже. | Dip it in sauce. | Обмакни в соус. | droplet
+4979 | disturbing | тревожный | «Дистёбинг» — «турбина»: ТРЕВОЖНЫЙ гул турбины. | Disturbing news. | Тревожные новости. | alert-triangle
+4981 | dot | точка | «Дот» — «дот»: ТОЧКА огня. | A red dot. | Красная точка. | point
+4983 | effectiveness | эффективность | «Ифэктивнэс» — effective: ЭФФЕКТИВНОСТЬ. | The effectiveness of the drug. | Эффективность лекарства. | bolt
+4985 | embarrassed | смущённый | «Имбэрэст» — «барашек»: СМУЩЁН, как барашек. | I'm embarrassed. | Мне неловко. | mood-confuzed
+4986 | exceptional | исключительный | «Иксэпшэнл» — exception: ИСКЛЮЧИТЕЛЬНЫЙ. | An exceptional talent. | Исключительный талант. | star
+4988 | foul | фол; мерзкий | «Фаул» — ФОЛ. | A foul smell. | Мерзкий запах. | mood-sick
+4989 | frankly | откровенно | «Фрэнкли» — «франк»: ОТКРОВЕННО, как франк. | Frankly speaking. | Откровенно говоря. | message
+4990 | graph | график | «Грэф» — ГРАФИК. | A line graph. | Линейный график. | chart-line
+4991 | hack | взламывать | «Хэк» — «хакер»: ВЗЛАМЫВАТЬ. | Hack the system. | Взломать систему. | code
+4993 | hatred | ненависть | «Хэйтрид» — hate: НЕНАВИСТЬ. | Pure hatred. | Чистая ненависть. | mood-angry
+4994 | ignorant | невежественный | «Игнэрэнт» — «игнорировать»: НЕВЕЖДА всё игнорирует. | An ignorant person. | Невежда. | mood-confuzed
+4995 | interact | взаимодействовать | «Интэрэкт» — «интерактив»: ВЗАИМОДЕЙСТВОВАТЬ. | Interact with others. | Общаться с другими. | arrows-left-right
+4996 | lamp | лампа | «Лэмп» — ЛАМПА. | A desk lamp. | Настольная лампа. | bulb
+4997 | limitation | ограничение | «Лимитэйшн» — «лимит»: ОГРАНИЧЕНИЕ. | Time limitations. | Ограничения по времени. | lock
+4998 | majesty | величество | «Мэджэсти» — «маджестик»: ВЕЛИЧЕСТВО. | Your Majesty. | Ваше Величество. | crown
+4999 | measurement | измерение | «Мэжэмэнт» — measure: ИЗМЕРЕНИЕ. | Take measurements. | Снять мерки. | ruler
+5000 | median | медиана, средний | «Мидиэн» — МЕДИАНА. | The median income. | Средний доход. | chart-bar
+5001 | medieval | средневековый | «Мэдиивл» — «медведь»: СРЕДНЕВЕКОВЫЙ рыцарь с медведем. | A medieval castle. | Средневековый замок. | building-castle
+5003 | mobility | мобильность | «Моубилити» — МОБИЛЬНОСТЬ. | Social mobility. | Социальная мобильность. | run
+5009 | orientation | ориентация | «Ориэнтэйшн» — ОРИЕНТАЦИЯ. | New student orientation. | Знакомство для новых студентов. | compass
+5010 | oven | духовка | «Авн» — «овин»: в ДУХОВКЕ, как в овине. | Bake in the oven. | Запечь в духовке. | flame
+5012 | passport | паспорт | «Паспот» — ПАСПОРТ. | Show your passport. | Покажите паспорт. | id
+5014 | pill | таблетка | «Пил» — «пилить»: ТАБЛЕТКУ распилил пополам. | Take a pill. | Выпей таблетку. | pill
+5015 | rabbit | кролик | «Рэбит» — «рябит»: в глазах РЯБИТ от КРОЛИКОВ. | A white rabbit. | Белый кролик. | paw
+5017 | rhythm | ритм | «Ризм» — РИТМ. | A fast rhythm. | Быстрый ритм. | music
+5019 | savage | дикий, жестокий | «Сэвидж» — «свирепый»: ДИКИЙ и свирепый. | A savage attack. | Жестокая атака. | flame
+5021 | shooter | стрелок; шутер | «Шутэ» — ШУТЕР: СТРЕЛОК. | A school shooter. | Стрелок в школе. | target
+5022 | sibling | брат или сестра | «Сиблинг» — «сибиряк»: БРАТ-сибиряк. | Do you have siblings? | У тебя есть братья или сёстры? | users
+5023 | slim | стройный | «Слим» — «слим»: СТРОЙНЫЙ. | A slim girl. | Стройная девушка. | user
+5024 | someday | когда-нибудь | «Самдэй» — some + day: КОГДА-НИБУДЬ. | Someday I'll be rich. | Когда-нибудь я разбогатею. | calendar
+5025 | sophisticated | изощрённый | «Сэфистикейтид» — «софист»: ИЗОЩРЁННЫЙ. | A sophisticated system. | Сложная система. | settings
+5026 | spam | спам | «Спэм» — СПАМ. | Spam emails. | Спам-письма. | mail
+5027 | stack | стопка | «Стэк» — «стакан»: СТОПКА стаканов. | A stack of books. | Стопка книг. | stack
+5028 | stance | позиция | «Стэнс» — «стенд»: ПОЗИЦИЯ на стенде. | A firm stance. | Твёрдая позиция. | user
+5029 | static | статичный | «Стэтик» — СТАТИЧНЫЙ. | Static electricity. | Статическое электричество. | bolt
+5030 | subway | метро | «Сабвэй» — sub (под) + way: МЕТРО. | Take the subway. | Поехать на метро. | train
+5031 | supportive | поддерживающий | «Сэпотив» — support: ПОДДЕРЖИВАЮЩИЙ. | Supportive parents. | Поддерживающие родители. | heart-handshake
+5032 | surgical | хирургический | «Сёджикл» — surgeon: ХИРУРГИЧЕСКИЙ. | A surgical mask. | Медицинская маска. | stethoscope
+5033 | tablet | планшет; таблетка | «Тэблит» — «таблетка»: ПЛАНШЕТ. | A new tablet. | Новый планшет. | device-tablet
+5034 | tent | палатка | «Тэнт» — ТЕНТ: ПАЛАТКА. | Set up a tent. | Поставь палатку. | tent
+5035 | thesis | диссертация, тезис | «Сисис» — ТЕЗИС. | A master's thesis. | Магистерская диссертация. | file
+5036 | tide | прилив | «Тайд» — «тайфун»: ПРИЛИВ после тайфуна. | High tide. | Прилив. | ripple
+5038 | warfare | война, военные действия | «Вофэа» — war (война) + fare: ВОЕННЫЕ ДЕЙСТВИЯ. | Modern warfare. | Современная война. | swords
+5039 | withdraw | снимать (деньги); отзывать | «Виздро» — with + draw (тянуть): СНЯТЬ деньги. | Withdraw cash. | Снять наличные. | cash
+5040 | withdrawal | снятие; ломка | «Виздроэл» — withdraw: СНЯТИЕ. | Cash withdrawal. | Снятие наличных. | cash
+5044 | audit | аудит | «Одит» — АУДИТ. | A tax audit. | Налоговая проверка. | clipboard-check
+5045 | authentic | подлинный | «Осэнтик» — АУТЕНТИЧНЫЙ. | Authentic food. | Настоящая местная еда. | certificate
+5047 | backwards | назад | «Бэквэдз» — back (назад): НАЗАД. | Walk backwards. | Иди задом наперёд. | arrow-back
+5049 | blonde | блондинка | «Блонд» — БЛОНДИНКА. | A blonde girl. | Блондинка. | user
+5050 | bolt | болт; засов | «Боулт» — БОЛТ. | Nuts and bolts. | Гайки и болты. | tool
+5052 | bust | бюст; арестовать | «Баст» — БЮСТ. | A bust of Lenin. | Бюст Ленина. | user
+5053 | collar | воротник; ошейник | «Колэ» — «колье»: ВОРОТНИК, как колье. | A dog collar. | Ошейник. | shirt
+5055 | comply | подчиняться | «Кэмплай» — «комплимент»: ПОДЧИНЯЙСЯ — получишь комплимент. | Comply with the rules. | Соблюдать правила. | check
+5056 | cope | справляться | «Коуп» — «копать»: СПРАВЛЮСЬ — буду копать. | I can't cope. | Я не справляюсь. | heart-handshake
+5057 | creepy | жуткий | «Крипи» — «крипота»: ЖУТКИЙ. | A creepy house. | Жуткий дом. | ghost
+5061 | drawing | рисунок | «Дроинг» — draw (рисовать): РИСУНОК. | A nice drawing. | Красивый рисунок. | pencil
+5063 | echo | эхо | «Экоу» — ЭХО. | Echo in the cave. | Эхо в пещере. | volume
+5064 | emotionally | эмоционально | «Имоушэнэли» — ЭМОЦИОНАЛЬНО. | Emotionally tired. | Эмоционально устал. | mood-sad
+5066 | finale | финал | «Финали» — ФИНАЛ. | The season finale. | Финал сезона. | flag
+5067 | flavor | вкус | «Флэйвэ» — «флейта»: ВКУС — как музыка флейты. | Strawberry flavor. | Клубничный вкус. | mood-tongue
+5068 | glove | перчатка | «Глав» — «главный»: ГЛАВНАЯ ПЕРЧАТКА вратаря. | Winter gloves. | Зимние перчатки. | hand-stop
+5071 | ignorance | невежество | «Игнэрэнс» — «игнор»: НЕВЕЖЕСТВО. | Ignorance is bliss. | Меньше знаешь — крепче спишь. | mood-confuzed
+5073 | induce | вызывать | «Индьюс» — «индукция»: ВЫЗЫВАТЬ. | Induce sleep. | Вызвать сон. | bolt
+5074 | inspiring | вдохновляющий | «Инспайэринг» — inspiration: ВДОХНОВЛЯЮЩИЙ. | An inspiring story. | Вдохновляющая история. | bulb
+5075 | intermediate | средний, промежуточный | «Интэмидиэт» — inter + «медиа»: СРЕДНИЙ уровень. | Intermediate level. | Средний уровень. | adjustments
+5076 | invention | изобретение | «Инвэншн» — invent: ИЗОБРЕТЕНИЕ. | A great invention. | Великое изобретение. | bulb
+5080 | likewise | так же, взаимно | «Лайквайз» — like (как) + wise: ТАК ЖЕ. | Likewise! | Взаимно! | equal
