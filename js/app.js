@@ -268,7 +268,7 @@
     const dir = () => (Math.random() < 0.5 ? "en" : "ru");
     session = {
       queue: shuffle(valid.slice()).map((id) => ({ type: "practice", id, dir: dir() })),
-      i: 0, newCount: 0, reviewCount: 0, recalled: 0, practice: true,
+      i: 0, newCount: 0, reviewCount: 0, recalled: 0, practice: true, known: new Set(),
     };
     lastAction = Date.now();
     showItem();
@@ -298,7 +298,7 @@
       if (SRS.nextNewWords(state, WORDS, 1).length) return addMoreWords();
       return showAllDone();
     }
-    session = { queue, i: 0, newCount: 0, reviewCount: 0, recalled: 0 };
+    session = { queue, i: 0, newCount: 0, reviewCount: 0, recalled: 0, known: new Set() };
     lastAction = Date.now();
     showItem();
   }
@@ -307,8 +307,10 @@
     const item = session.queue[session.i];
     const groups = { intro: ["intro"], check: ["check"], practice: ["practice"] };
     const group = groups[item.type] || ["review", "again"];
-    const all = session.queue.filter((q) => group.includes(q.type));
-    const pos = session.queue.slice(0, session.i + 1).filter((q) => group.includes(q.type)).length;
+    // Cards of words marked as known don't count: they were offered, not studied.
+    const counts = (q) => group.includes(q.type) && !session.known.has(q.id);
+    const all = session.queue.filter(counts);
+    const pos = session.queue.slice(0, session.i + 1).filter(counts).length;
     const names = { intro: "Новые слова", check: "Проверка", practice: "Тренировка" };
     const name = names[item.type] || "Повторение";
     return { name, pos, total: all.length };
@@ -387,13 +389,7 @@
     on("speak", () => speak(w.en));
     bindFlag(w);
     on("close", leaveSession);
-    on("known", () => {
-      trackTime();
-      SRS.markKnown(state, w.id, day());
-      session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
-      save();
-      advance();
-    });
+    on("known", () => markKnownInSession(w, session.queue[session.i]));
     on("next", () => {
       trackTime();
       SRS.markIntroduced(state, w.id, day());
@@ -438,15 +434,38 @@
     on("speak-front", () => speak(w.en));
     bindFlag(w);
     on("close", leaveSession);
-    on("known", () => {
-      trackTime();
-      SRS.markKnown(state, w.id, day());
-      session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
-      save();
-      advance();
-    });
+    on("known", () => markKnownInSession(w, item));
     on("forgot", () => answer(item, false));
     on("recalled", () => answer(item, true));
+  }
+
+  // The daily goal is new words actually learned, not cards offered. A today's new
+  // word marked as known is swapped for the next new word (its card, then its check),
+  // so the counter stays where it was and the day still ends with the full goal.
+  function markKnownInSession(w, item) {
+    trackTime();
+    SRS.markKnown(state, w.id, day());
+    session.known.add(w.id);
+    // Met earlier in this session: it no longer counts as a new word in the summary.
+    if (session.queue.some((q, k) => k < session.i && q.type === "intro" && q.id === w.id)) session.newCount -= 1;
+    session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
+    if (item.type === "intro" || item.type === "check") {
+      const queued = new Set(session.queue.map((q) => q.id));
+      const next = SRS.nextNewWords(state, WORDS, queued.size + 1).find((id) => !queued.has(id) && BY_ID.has(id));
+      if (next) {
+        const intro = { type: "intro", id: next };
+        const check = { type: "check", id: next, dir: Math.random() < 0.5 ? "en" : "ru" };
+        if (item.type === "intro") {
+          session.queue.splice(session.i + 1, 0, intro);
+          const firstReview = session.queue.findIndex((q, k) => k > session.i && q.type !== "intro" && q.type !== "check");
+          session.queue.splice(firstReview < 0 ? session.queue.length : firstReview, 0, check);
+        } else {
+          session.queue.splice(session.i + 1, 0, intro, check);
+        }
+      }
+    }
+    save();
+    advance();
   }
 
   function answer(item, recalled) {
