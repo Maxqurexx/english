@@ -147,24 +147,20 @@
     const newLeft = Math.min(SRS.newLeftToday(state, d), SRS.nextNewWords(state, WORDS, 1e9).length);
     const reviews = SRS.dueReviews(state, d).length;
     const pending = SRS.pendingChecks(state, d).filter((id) => BY_ID.has(id)).length;
-    const todays = SRS.todaysWords(state, d).filter((id) => BY_ID.has(id)).length;
     const inProgress = SRS.inProgressCount(state);
     const streak = SRS.streak(state, d);
     const learned = SRS.learnedCount(state);
     const n = state.settings.newPerDay;
     const nWords = `${n} ${plural(n, "слово", "слова", "слов")}`;
-    // Unfinished work comes first; once today's words are in, practising them is the
-    // main action and adding more is a deliberate, secondary choice.
+    // Unfinished work comes first; once the day's goal is done, the main action is to
+    // add more words. Extra practice lives in "учу сейчас".
     let actions;
     if (pending) {
       actions = `<button class="btn" id="start">Продолжить занятие</button>`;
     } else if (newLeft || reviews) {
       actions = `<button class="btn" id="start">Начать занятие</button>`;
-    } else if (todays) {
-      actions = `<button class="btn" id="practice-today">Тренировка: слова дня (${todays})</button>
-        <button class="link" id="more">Добавить ещё ${nWords}</button>`;
     } else {
-      actions = `<button class="btn" id="more">Ещё ${nWords}</button>`;
+      actions = `<button class="btn" id="more">Добавить ещё ${nWords}</button>`;
     }
     render(`
       <div class="bar">
@@ -189,7 +185,6 @@
     on("collection", () => showCollection(""));
     on("start", startSession);
     on("more", addMoreWords);
-    on("practice-today", () => startPractice(SRS.todaysWords(state, day())));
     on("share", shareProgress);
   }
 
