@@ -87,26 +87,26 @@
     state.words[id] = { known: true, at: day, learnt: !!prev && !prev.known };
   }
 
-  // Undo "already know": the word goes back to the words being learned (not to the
-  // new words) and is due for review tomorrow. `back` dates it for sorting without
+  // A word counts as learned when it was marked "already know" while being learned,
+  // or recalled after the 7-day wait. Words known at first sight don't count.
+  function isLearned(w) {
+    return w.known ? !!w.learnt : !!(w.learned || w.done);
+  }
+
+  // Undo a learned word: it goes back to the words being learned (not to the new
+  // words) and is due for review tomorrow. `back` dates it for sorting without
   // counting it towards today's new words.
-  function unmarkKnown(state, id, day) {
-    if (state.words[id] && state.words[id].known) state.words[id] = { s: 0, due: day + 1, back: day };
+  function returnToLearning(state, id, day) {
+    if (state.words[id] && isLearned(state.words[id])) state.words[id] = { s: 0, due: day + 1, back: day };
   }
 
-  // Only words that were learned in the app, not ones known at first sight.
-  function knownIds(state) {
-    return Object.keys(state.words)
-      .filter((id) => state.words[id].known && state.words[id].learnt)
-      .map(Number)
-      .sort((a, b) => (state.words[b].at || 0) - (state.words[a].at || 0));
-  }
-
+  // Learned words, most recent first.
   function learnedIds(state) {
+    const when = (w) => (w.known ? w.at : w.learned) || 0;
     return Object.keys(state.words)
-      .filter((id) => !state.words[id].known && (state.words[id].learned || state.words[id].done))
+      .filter((id) => isLearned(state.words[id]))
       .map(Number)
-      .sort((a, b) => (state.words[b].learned || 0) - (state.words[a].learned || 0));
+      .sort((a, b) => when(state.words[b]) - when(state.words[a]));
   }
 
   // Same-day check right after learning. The word is due tomorrow either way;
@@ -171,13 +171,9 @@
     }
   }
 
-  // Learned through the ladder, plus words marked as known while being learned.
   function learnedCount(state) {
     let n = 0;
-    for (const id in state.words) {
-      const w = state.words[id];
-      if (w.known ? w.learnt : w.learned || w.done) n++;
-    }
+    for (const id in state.words) if (isLearned(state.words[id])) n++;
     return n;
   }
 
@@ -223,7 +219,7 @@
   const api = {
     INTERVALS, dayNumber, dayKey, emptyState, today, reviewLimit, dueReviews,
     nextNewWords, newLeftToday, addExtraToday, markIntroduced, markKnown, markChecked,
-    pendingChecks, todaysWords, inProgressIds, unmarkKnown, knownIds, learnedIds,
+    pendingChecks, todaysWords, inProgressIds, returnToLearning, learnedIds,
     markReviewed, learnedCount, inProgressCount, estimateMinutes, weekStats, streak,
   };
   if (typeof module !== "undefined") module.exports = api;

@@ -178,7 +178,6 @@
       <div class="stats">
         <button class="stat stat-link" id="learning"><b>${inProgress}</b><span>учу сейчас <i class="ti ti-chevron-right"></i></span></button>
         <div class="stat"><b>${newLeft}</b><span>новых на сегодня</span></div>
-        <div class="stat"><b>${reviews}</b><span>повторить</span></div>
       </div>
       <div class="actions" style="flex-direction:column">
         ${actions}
@@ -187,7 +186,7 @@
     `);
     on("settings", showSettings);
     on("learning", showLearning);
-    on("collection", () => showCollection("learned", ""));
+    on("collection", () => showCollection(""));
     on("start", startSession);
     on("more", addMoreWords);
     on("practice-today", () => startPractice(SRS.todaysWords(state, day())));
@@ -216,38 +215,26 @@
     on("practice-all", () => startPractice(ids));
   }
 
-  // ---------- my words: learned and already known ----------
-  function showCollection(tab, query) {
-    const learnedList = SRS.learnedIds(state).filter((id) => BY_ID.has(id));
-    const knownList = SRS.knownIds(state).filter((id) => BY_ID.has(id));
-    const ids = tab === "known" ? knownList : learnedList;
+  // ---------- learned words ----------
+  function showCollection(query) {
+    const ids = SRS.learnedIds(state).filter((id) => BY_ID.has(id));
     const rows = ids.map((id) => {
       const w = BY_ID.get(id);
-      const undo = tab === "known" ? `<button class="row-action" data-id="${id}">Вернуть</button>` : "";
       const key = esc((w.en + " " + w.ru).toLowerCase());
-      return `<li class="word-row" data-key="${key}"><span class="word-row-en">${esc(w.en)}</span><span class="word-row-ru">${esc(w.ru)}</span>${undo}</li>`;
+      return `<li class="word-row" data-key="${key}"><span class="word-row-en">${esc(w.en)}</span><span class="word-row-ru">${esc(w.ru)}</span><button class="row-action" data-id="${id}">Вернуть</button></li>`;
     }).join("");
-    const emptyText = tab === "known"
-      ? "Здесь будут слова, которые ты учил, а потом отметил «Уже знаю»."
-      : "Здесь будут слова, которые ты вспомнил через неделю после знакомства.";
     render(`
       <div class="bar">
         <button class="icon-btn" id="back" aria-label="Назад"><i class="ti ti-chevron-left"></i></button>
-        <span>Мои слова</span>
+        <span>Выучено · ${ids.length}</span>
         <span style="width:24px"></span>
-      </div>
-      <div class="tabs" role="tablist">
-        <button class="tab${tab === "learned" ? " on" : ""}" id="tab-learned" role="tab" aria-selected="${tab === "learned"}">Выучено · ${learnedList.length}</button>
-        <button class="tab${tab === "known" ? " on" : ""}" id="tab-known" role="tab" aria-selected="${tab === "known"}">Уже знаю · ${knownList.length}</button>
       </div>
       ${ids.length ? `<input class="search" id="search" type="search" placeholder="Поиск по-английски или по-русски" autocomplete="off">` : ""}
       <ul class="word-list">${rows}</ul>
-      <p class="label" id="empty" style="padding:24px 0"${ids.length ? " hidden" : ""}>${emptyText}</p>
+      <p class="label" id="empty" style="padding:24px 0"${ids.length ? " hidden" : ""}>Здесь будут слова, которые ты выучил: отметил «Уже знаю» во время учёбы или вспомнил через неделю.</p>
     `);
     on("back", showHome);
     const current = () => (document.getElementById("search") || {}).value || "";
-    on("tab-learned", () => showCollection("learned", current()));
-    on("tab-known", () => showCollection("known", current()));
     // Filter the rows in place so typing doesn't re-render the screen.
     const search = document.getElementById("search");
     const filter = () => {
@@ -267,9 +254,9 @@
       search.addEventListener("input", filter);
     }
     app.querySelectorAll(".row-action").forEach((b) => b.addEventListener("click", () => {
-      SRS.unmarkKnown(state, Number(b.dataset.id), day());
+      SRS.returnToLearning(state, Number(b.dataset.id), day());
       save();
-      showCollection(tab, current());
+      showCollection(current());
     }));
   }
 
