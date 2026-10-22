@@ -1,241 +1,241 @@
 # ranks 1621-1920, content words only
-1621 | sky | небо | «Скай» — «скайп»: звоню по скайпу и смотрю в НЕБО. | Blue sky. | Голубое небо. | cloud
-1622 | teaching | преподавание | «Тичинг» — «тише»: учитель говорит «тише» — идёт ПРЕПОДАВАНИЕ. | Teaching is hard. | Преподавать трудно. | school
-1624 | transfer | перевод, пересадка | «Трэнсфё» — «трансфер»: ПЕРЕВОЗКА из аэропорта. | Bank transfer. | Банковский перевод. | arrows-exchange
-1625 | upper | верхний | «Апэ» — «ап»: ВЕРХНИЙ. | The upper floor. | Верхний этаж. | arrow-bar-to-up
-1626 | useful | полезный | «Юсфул» — «юз» + «фул»: ПОЛЕЗНЫЙ — используешь на полную. | Useful tips. | Полезные советы. | bulb
-1627 | valley | долина | «Вэли» — «валенки»: в ДОЛИНЕ зимой ходят в валенках. | A green valley. | Зелёная долина. | mountain
-1628 | zone | зона | «Зоун» — ЗОНА. | A safe zone. | Безопасная зона. | map
-1629 | accident | авария, несчастный случай | «Эксидэнт» — «инцидент»: АВАРИЯ. | A car accident. | Автоавария. | car-crash
-1630 | advanced | продвинутый | «Эдванст» — «аванс»: ПРОДВИНУТЫЙ получает аванс. | Advanced level. | Продвинутый уровень. | trending-up
-1631 | alternative | альтернатива | «Олтёнэтив» — АЛЬТЕРНАТИВА. | An alternative way. | Другой путь. | arrows-split
-1632 | anywhere | где угодно | «Энимэа» — «Эни-бени» + «где»: ГДЕ УГОДНО. | I can sleep anywhere. | Я могу спать где угодно. | map-search
-1633 | bear | медведь; терпеть | «Бэа» — «берлога»: МЕДВЕДЬ в берлоге. | A brown bear. | Бурый медведь. | paw
-1634 | boat | лодка | «Боут» — «бот» — «ботик»: ЛОДКА. | A small boat. | Маленькая лодка. | sailboat
-1635 | capacity | вместимость | «Кэпэсити» — «капсула»: ВМЕСТИМОСТЬ капсулы. | Full capacity. | Полная загрузка. | battery-4
-1636 | cheap | дешёвый | «Чип» — «чипсы»: чипсы ДЕШЁВЫЕ. | A cheap ticket. | Дешёвый билет. | tag
-1637 | climate | климат | «Клаймит» — КЛИМАТ. | A warm climate. | Тёплый климат. | temperature
-1638 | discussion | обсуждение | «Дискашн» — «дискуссия»: ОБСУЖДЕНИЕ. | A long discussion. | Долгое обсуждение. | messages
-1639 | duty | долг, обязанность | «Дьюти» — «дьюти-фри»: без пошлины. А ещё ДОЛГ, обязанность. | It's my duty. | Это мой долг. | list-check
-1640 | fantastic | фантастический | «Фэнтэстик» — ФАНТАСТИКА! | Fantastic! | Фантастика! | star
-1641 | feeling | чувство | «Филинг» — «филин»: у филина сильное ЧУВСТВО. | A strange feeling. | Странное чувство. | heart
-1642 | governor | губернатор | «Гавэнэ» — «гавань»: ГУБЕРНАТОР гавани. | The governor of the state. | Губернатор штата. | crown
-1643 | hundred | сто | «Хандрэд» — «хандра»: СТО дней хандры. | A hundred dollars. | Сто долларов. | number-100-small
-1644 | industrial | промышленный | «Индастриэл» — «индустрия»: ПРОМЫШЛЕННЫЙ. | An industrial area. | Промзона. | building-factory
-1645 | joint | совместный; сустав | «Джойнт» — «джойстик»: СОВМЕСТНАЯ игра. | A joint project. | Совместный проект. | link
-1646 | mix | смешивать | «Микс» — «миксер»: СМЕШИВАЕТ. | Mix the colors. | Смешай цвета. | blender
-1647 | museum | музей | «Мьюзиэм» — МУЗЕЙ. | Let's go to the museum. | Пойдём в музей. | building-arch
-1648 | path | тропинка, путь | «Пас» — «пастух»: пастух ведёт стадо по ТРОПИНКЕ. | A forest path. | Лесная тропа. | route
-1649 | promise | обещать | «Промис» — «промах»: ОБЕЩАЮ — больше без промахов! | I promise! | Обещаю! | heart-handshake
-1650 | propose | предлагать | «Прэпоуз» — «пропуск»: ПРЕДЛАГАЮ пропуск. Ещё — делать предложение руки. | He proposed to her. | Он сделал ей предложение. | rings
-1651 | purchase | покупка | «Пёчэс» — «печенье»: ПОКУПКА — пачка печенья. | A big purchase. | Крупная покупка. | shopping-cart
-1652 | rain | дождь | «Рейн» — «рейс»: ДОЖДЬ, рейс задерживают. | It's raining. | Идёт дождь. | cloud-rain
-1654 | steel | сталь | «Стил» — «стиль»: СТАЛЬНОЙ стиль. | Steel door. | Стальная дверь. | shield
-1656 | terrible | ужасный | «Тэрэбл» — «террор»: УЖАСНЫЙ. | Terrible weather. | Ужасная погода. | mood-sad
-1657 | tired | уставший | «Тайэд» — «тайга»: УСТАЛ в тайге. | I'm tired. | Я устал. | zzz
-1659 | warm | тёплый | «Вом» — «вам»: «Вам ТЕПЛО?» | A warm day. | Тёплый день. | sun
-1660 | afraid | испуганный (be afraid — бояться) | «Эфрейд» — «а, фрейд»: Фрейд знает, чего ты БОИШЬСЯ. | I'm afraid of spiders. | Я боюсь пауков. | ghost
-1661 | beer | пиво | «Биэ» — «бир» — ПИВО. | A glass of beer. | Стакан пива. | beer
-1662 | border | граница | «Бодэ» — «бодрый»: бодрый пограничник на ГРАНИЦЕ. | Cross the border. | Пересечь границу. | border-outer
-1664 | command | команда, приказ | «Кэманд» — «командир»: ПРИКАЗ. | Follow the command. | Выполни команду. | terminal
-1665 | crew | экипаж | «Кру» — «крюк»: ЭКИПАЖ корабля тянет крюк. | The ship's crew. | Экипаж корабля. | users-group
-1666 | crowd | толпа | «Крауд» — «крадут»: в ТОЛПЕ кошельки крадут. | A big crowd. | Большая толпа. | users-group
-1668 | element | элемент | «Элимэнт» — ЭЛЕМЕНТ. | Key elements. | Ключевые элементы. | atom
-1669 | enemy | враг | «Энэми» — «у меня»: «У меня ВРАГОВ нет!» | My worst enemy. | Мой злейший враг. | swords
-1670 | ensure | обеспечивать | «Иншуэ» — «иншуранс» (страховка): ГАРАНТИРУЮ. | Ensure safety. | Обеспечь безопасность. | shield-check
-1671 | environmental | экологический | «Инвайрэнмэнтл» — «в окружении»: ЭКОЛОГИЧЕСКИЙ. | Environmental problems. | Экологические проблемы. | plant-2
-1672 | fill | наполнять | «Фил» — «филе»: НАПОЛНИ кастрюлю филе. | Fill the glass. | Наполни стакан. | glass-full
-1673 | forest | лес | «Форист» — «форель»: в ЛЕСНОЙ речке форель. | A dark forest. | Тёмный лес. | trees
-1674 | intelligence | интеллект; разведка | «Интэлиджэнс» — ИНТЕЛЛЕКТ. | Artificial intelligence. | Искусственный интеллект. | brain
-1675 | intend | намереваться | «Интэнд» — «интернет»: НАМЕРЕН сидеть в интернете всю ночь. | I intend to win. | Я намерен победить. | target-arrow
-1678 | moon | луна | «Мун» — «мумия»: мумия гуляет при ЛУНЕ. | Full moon. | Полнолуние. | moon
-1679 | ocean | океан | «Оушн» — ОКЕАН. | The Pacific Ocean. | Тихий океан. | ripple
-1680 | profit | прибыль | «Профит»: ПРИБЫЛЬ. | A big profit. | Большая прибыль. | trending-up
-1681 | proof | доказательство | «Пруф»: ДОКАЗАТЕЛЬСТВО. | Show me proof. | Покажи доказательства. | check
-1683 | soldier | солдат | «Соулджэ» — «солдат». | A brave soldier. | Храбрый солдат. | military-rank
-1684 | suit | костюм; подходить | «Сьют» — «сюртук»: КОСТЮМ с сюртуком. | A black suit. | Чёрный костюм. | shirt
-1685 | appearance | внешность | «Эпиэрэнс» — «опера»: ВНЕШНОСТЬ оперной дивы. | Change your appearance. | Измени внешность. | mood-smile
-1687 | attorney | адвокат | «Этёни» — «а, тёща»: тёща — лучший АДВОКАТ. | My attorney. | Мой адвокат. | scale
-1688 | behavior | поведение | «Бихейвиэ» — «бегемот»: ПОВЕДЕНИЕ бегемота. | Bad behavior. | Плохое поведение. | mood-angry
-1690 | chair | стул | «Чэа» — «чай»: на СТУЛЕ пью чай. | Sit on the chair. | Садись на стул. | armchair
-1691 | debt | долг | «Дэт» — «дед»: ДОЛГ деду. | I'm in debt. | Я в долгах. | receipt
-1692 | domestic | домашний, внутренний | «Дэмэстик» — «дом»: ДОМАШНИЙ. | Domestic flights. | Внутренние рейсы. | home
-1693 | expensive | дорогой (по цене) | «Икспэнсив» — «экспонат»: ДОРОГОЙ экспонат. | An expensive car. | Дорогая машина. | diamond
-1695 | historical | исторический | «Хисторикл» — ИСТОРИЧЕСКИЙ. | A historical film. | Исторический фильм. | history
-1696 | honestly | честно | «Онистли» — «он чист»: ЧЕСТНО. | Honestly, I don't know. | Честно, не знаю. | circle-check
-1697 | honor | честь | «Онэ» — «гонор»: у него гонор, ЧЕСТЬ. | It's an honor. | Это честь. | medal
-1699 | jump | прыгать | «Джамп» — ПРЫГАЙ! | Jump higher! | Прыгай выше! | arrow-up
-1700 | launch | запуск | «Лонч» — «ланч»: ЗАПУСК ракеты в обед. | Rocket launch. | Запуск ракеты. | rocket
-1701 | minimum | минимум | «Минимэм» — МИНИМУМ. | The minimum price. | Минимальная цена. | minus
-1702 | native | родной | «Нейтив» — РОДНОЙ язык. | My native language. | Мой родной язык. | home-heart
-1703 | originally | изначально | «Эриджинэли» — «оригинал»: ИЗНАЧАЛЬНО. | Originally from Moscow. | Родом из Москвы. | history
-1706 | suddenly | вдруг | «Садэнли» — «сад»: ВДРУГ в саду гром! | Suddenly, it rained. | Вдруг пошёл дождь. | bolt
-1707 | supreme | верховный | «Сюприм» — «Суприм» — ВЕРХОВНЫЙ бренд. | Supreme Court. | Верховный суд. | crown
-1708 | survey | опрос | «Сёвэй» — «сервиз»: ОПРОС — какой сервиз красивее? | Take a survey. | Пройди опрос. | checklist
-1710 | update | обновление | «Апдейт» — ОБНОВЛЕНИЕ. | New update. | Новое обновление. | refresh
-1712 | writer | писатель | «Райтэ» — «рай»: ПИСАТЕЛЬ пишет о рае. | A famous writer. | Известный писатель. | pencil
-1713 | yellow | жёлтый | «Йелоу» — «ёлка»: ЖЁЛТАЯ гирлянда на ёлке. | A yellow car. | Жёлтая машина. | circle
-1715 | ancient | древний | «Эйншэнт» — «анчоус»: ДРЕВНИЙ анчоус. | Ancient Rome. | Древний Рим. | building-arch
-1717 | communication | общение, связь | «Кэмьюникейшн» — КОММУНИКАЦИЯ. | Good communication. | Хорошее общение. | messages
-1718 | connect | соединять | «Кэнэкт» — «коннект»: СОЕДИНЯЮ. | Connect to Wi-Fi. | Подключись к вайфаю. | plug-connected
-1719 | contain | содержать | «Кэнтейн» — «контейнер»: СОДЕРЖИТ. | It contains sugar. | Содержит сахар. | box
-1720 | download | скачивать | «Даунлоуд» — «даун» (вниз) + «лоуд»: СКАЧИВАТЬ. | Download the file. | Скачай файл. | download
-1721 | email | электронная почта | «Имейл» — ПОЧТА. | Send me an email. | Отправь мне письмо. | mail
-1722 | exercise | упражнение | «Эксэсайз» — «экзерсис»: УПРАЖНЕНИЕ. | Do exercises. | Делай упражнения. | stretching
-1723 | express | выражать | «Икспрэс» — «экспресс»: ВЫРАЖАЮ быстро. | Express your feelings. | Вырази свои чувства. | message
-1724 | flow | поток | «Флоу» у рэпера: ПОТОК. | Water flow. | Поток воды. | ripple
-1725 | girlfriend | девушка (подруга) | «Гёлфрэнд» — «гёл» + «френд»: ДЕВУШКА-друг. | My girlfriend. | Моя девушка. | heart
-1726 | hero | герой | «Хиэроу» — «хиро» — ГЕРОЙ. | A real hero. | Настоящий герой. | shield
-1727 | illegal | незаконный | «Илигл» — «нелегал»: НЕЗАКОННО. | It's illegal. | Это незаконно. | ban
-1728 | joke | шутка | «Джоук» — «джокер»: ШУТКА. | Tell me a joke. | Расскажи анекдот. | mood-happy
-1729 | loan | заём, кредит | «Лоун» — «Лёня»: Лёня взял ЗАЁМ и пропал. | Take a loan. | Взять кредит. | building-bank
-1730 | perform | выступать | «Пэфом» — «перформанс»: ВЫСТУПАЮ. | Perform on stage. | Выступать на сцене. | microphone-2
-1731 | planet | планета | «Плэнит» — ПЛАНЕТА. | Planet Earth. | Планета Земля. | planet
-1732 | restaurant | ресторан | «Рэстэрант» — РЕСТОРАН. | Let's go to a restaurant. | Пойдём в ресторан. | tools-kitchen-2
-1734 | select | выбирать | «Силэкт» — «селекция»: ВЫБИРАЮ. | Select a file. | Выбери файл. | hand-finger
-1735 | soft | мягкий | «Софт» — МЯГКИЙ софт-тач. | A soft bed. | Мягкая кровать. | cloud
-1736 | stuck | застрявший | «Стак» — «стакан»: рука ЗАСТРЯЛА в стакане. | I'm stuck. | Я застрял. | lock
-1737 | sugar | сахар | «Шугэ» — «шугать»: ШУГАЮ мух от САХАРА. | No sugar, please. | Без сахара, пожалуйста. | cube
-1739 | transport | транспорт | «Трэнспот» — ТРАНСПОРТ. | Public transport. | Общественный транспорт. | bus
-1740 | affair | дело; роман | «Эфэа» — «афера»: тёмное ДЕЛО. | Foreign affairs. | Иностранные дела. | briefcase
-1741 | appeal | обращение; привлекательность | «Эпил» — «апелляция»: ОБРАЩЕНИЕ. | Sex appeal. | Сексуальная привлекательность. | message
-1742 | appropriate | подходящий | «Эпроуприэт» — «опрятный»: ПОДХОДЯЩИЙ, опрятный. | Appropriate clothes. | Подходящая одежда. | check
-1745 | confirm | подтверждать | «Кэнфём» — «конфета»: ПОДТВЕРЖДАЮ — конфеты съел я. | Confirm your email. | Подтверди почту. | circle-check
-1746 | device | устройство | «Дивайс» — «девайс»: УСТРОЙСТВО. | A new device. | Новое устройство. | device-mobile
-1747 | drama | драма | «Драма» — ДРАМА. | Don't make a drama. | Не устраивай драму. | masks-theater
-1748 | entry | вход | «Энтри» — «энтер»: ВХОД. | No entry. | Вход запрещён. | door-enter
-1749 | era | эра, эпоха | «Иэрэ» — ЭРА. | A new era. | Новая эра. | hourglass
-1750 | factor | фактор | «Фэктэ» — ФАКТОР. | An important factor. | Важный фактор. | info-circle
-1751 | feed | кормить | «Фид» — «фидер»: КОРМУШКА. Ещё «фид» — лента новостей. | Feed the cat. | Покорми кота. | bowl
-1752 | golden | золотой | «Гоулдн» — «голд»: ЗОЛОТОЙ. | Golden rule. | Золотое правило. | coin
-1753 | grant | грант; предоставлять | «Грант» — ГРАНТ. | A research grant. | Исследовательский грант. | gift
-1755 | lawyer | юрист | «Лойэ» — «лояльный»: ЮРИСТ лоялен к клиенту. | A good lawyer. | Хороший юрист. | scale
-1757 | lying | лежащий; лживый | «Лайинг» — «лай»: ВРЁТ, как собака лает. | Stop lying! | Перестань врать! | mask
-1759 | mistake | ошибка | «Мистейк» — «мистер стейк»: ОШИБКА — заказал стейк вместо салата. | A big mistake. | Большая ошибка. | x
-1762 | platform | платформа | «Плэтфом» — ПЛАТФОРМА. | Platform 5. | Платформа 5. | train
-1763 | pool | бассейн | «Пул» — «пуля»: лечу в БАССЕЙН, как пуля. | Swimming pool. | Бассейн. | swimming
-1765 | relation | отношение, связь | «Рилейшн» — «реле»: СВЯЗЬ через реле. | Family relations. | Семейные отношения. | link
-1766 | route | маршрут | «Рут» — «рутина»: каждый день один МАРШРУТ — рутина. | The best route. | Лучший маршрут. | route
-1767 | schedule | расписание | «Шэдьюл» — «шедевр»: РАСПИСАНИЕ — шедевр. | My schedule. | Моё расписание. | calendar
-1768 | scientific | научный | «Сайэнтифик» — «сайнс»: НАУЧНЫЙ. | Scientific research. | Научное исследование. | flask
-1769 | shoe | туфля, ботинок | «Шу» — «шуба»: с ШУБОЙ — тёплые БОТИНКИ. | New shoes. | Новые туфли. | shoe
-1770 | smoke | дым; курить | «Смоук» — «смог»: ДЫМ и смог. | Don't smoke. | Не кури. | smoking
-1771 | squad | отряд | «Скуод» — «сквад»: ОТРЯД. | Football squad. | Футбольная команда. | users-group
-1772 | teach | учить, преподавать (taught) | «Тич» — «тише»: учитель ПРЕПОДАЁТ — тише! | Teach me English. | Научи меня английскому. | school
-1774 | abuse | злоупотребление | «Эбьюз» — «абьюз»: ЖЕСТОКОЕ обращение. | Drug abuse. | Наркомания. | alert-triangle
-1775 | angry | злой | «Энгри» — «Angry Birds»: ЗЛЫЕ птицы. | Don't be angry. | Не злись. | mood-angry
-1776 | candidate | кандидат | «Кэндидэт» — КАНДИДАТ. | A strong candidate. | Сильный кандидат. | user-check
-1777 | comfortable | удобный | «Камфэтэбл» — «комфорт»: УДОБНЫЙ. | A comfortable chair. | Удобное кресло. | armchair
-1778 | concern | беспокойство | «Кэнсён» — «консервы»: БЕСПОКОЙСТВО из-за консервов. | My main concern. | Моя главная забота. | mood-nervous
-1779 | discuss | обсуждать | «Дискас» — «диск»: ОБСУЖДАЕМ диск. | Let's discuss it. | Давай обсудим. | messages
-1780 | emotional | эмоциональный | «Имоушэнл» — ЭМОЦИОНАЛЬНЫЙ. | An emotional film. | Трогательный фильм. | heart
-1782 | everywhere | везде | «Эврируэа» — «эврика» + «где»: ВЕЗДЕ эврика. | Dust everywhere. | Пыль везде. | world
-1783 | facility | объект, удобство | «Фэсилити» — «фасилитатор»: ОБЪЕКТ. | Sports facilities. | Спортивные сооружения. | building
-1784 | fox | лиса | «Фокс» — «фокус»: ЛИСА показывает фокус. | A red fox. | Рыжая лиса. | paw
-1785 | hole | дыра | «Хоул» — «холм»: ДЫРА в холме. | A hole in my sock. | Дырка в носке. | circle-dashed
-1786 | holiday | праздник; отпуск | «Холидэй» — «холодильник»: в ОТПУСКЕ еда из холодильника. | Summer holidays. | Летние каникулы. | beach
-1787 | internal | внутренний | «Интёнл» — «интернат»: ВНУТРЕННИЙ двор интерната. | Internal problems. | Внутренние проблемы. | box
-1792 | laugh | смеяться | «Лаф» — «лафа»: ЛАФА — СМЕЁМСЯ. | Don't laugh! | Не смейся! | mood-happy
-1793 | leg | нога | «Лэг» — «лёг»: ЛЁГ и вытянул НОГИ. | My leg hurts. | У меня болит нога. | shoe
-1794 | liberal | либеральный | «Либэрэл» — ЛИБЕРАЛЬНЫЙ. | Liberal views. | Либеральные взгляды. | scale
-1796 | lunch | обед | «Ланч» — ОБЕД. | Lunch time! | Время обеда! | tools-kitchen-2
-1798 | milk | молоко | «Милк» — «милка» (шоколад): МОЛОЧНЫЙ шоколад. | A glass of milk. | Стакан молока. | milk
-1799 | pack | упаковывать; пачка | «Пэк» — «пакет»: УПАКОВАТЬ в пакет. | Pack your bag. | Собери сумку. | package
-1800 | payment | платёж | «Пеймэнт» — «пэй»: ПЛАТЁЖ. | Online payment. | Онлайн-оплата. | credit-card
-1802 | relatively | относительно | «Рэлэтивли» — «релятивизм»: ОТНОСИТЕЛЬНО. | Relatively cheap. | Относительно дёшево. | scale
-1803 | sector | сектор | «Сэктэ» — СЕКТОР. | Private sector. | Частный сектор. | chart-pie
-1804 | snow | снег | «Сноу» — «сноуборд»: катаюсь по СНЕГУ. | It's snowing. | Идёт снег. | snowflake
-1805 | storm | буря, шторм | «Стом» — «шторм»: БУРЯ. | A big storm. | Сильная буря. | storm
-1806 | strike | забастовка; удар | «Страйк» в боулинге: УДАР. | A workers' strike. | Забастовка рабочих. | bolt
-1807 | studio | студия | «Стьюдиоу» — СТУДИЯ. | A recording studio. | Студия звукозаписи. | microphone
-1809 | weak | слабый | «Вик» — «Вика»: Вика СЛАБАЯ после болезни. | I feel weak. | Я чувствую слабость. | battery-1
-1811 | actor | актёр | «Эктэ» — АКТЁР. | A famous actor. | Известный актёр. | masks-theater
-1812 | advance | продвижение; аванс | «Эдванс» — «аванс»: заранее, ВПЕРЁД. | In advance. | Заранее. | arrow-right
-1813 | apartment | квартира | «Эпатмэнт» — «апартаменты»: КВАРТИРА. | A new apartment. | Новая квартира. | building
-1815 | chain | цепь | «Чейн» — «чайник»: ЦЕПЬ на чайнике. | A gold chain. | Золотая цепочка. | link
-1816 | chapter | глава (книги) | «Чэптэ» — «чепчик»: ГЛАВА про чепчик. | Chapter one. | Глава первая. | book
-1817 | commit | совершать; посвящать себя | «Кэмит» — «комитет»: СОВЕРШИЛ доклад в комитете. | Commit a crime. | Совершить преступление. | check
-1818 | confidence | уверенность | «Конфидэнс» — «конфиденциально»: УВЕРЕННОСТЬ. | Self-confidence. | Уверенность в себе. | crown
-1819 | cook | готовить (еду); повар | «Кук» — «кукуруза»: ГОТОВЛЮ кукурузу. | I like to cook. | Я люблю готовить. | chef-hat
-1820 | cute | милый | «Кьют» — «кот»: МИЛЫЙ котик. | A cute puppy. | Милый щенок. | heart
-1821 | equal | равный | «Иквэл» — «эквалайзер»: всё РАВНО. | Equal rights. | Равные права. | equal
-1822 | fake | фальшивый | «Фейк» — ФЕЙК. | Fake news. | Фейковые новости. | mask
-1823 | finance | финансы | «Файнэнс» — ФИНАНСЫ. | Personal finance. | Личные финансы. | coin
-1824 | identity | личность | «Айдэнтити» — «айди»: ЛИЧНОСТЬ, ID. | Identity card. | Удостоверение личности. | id
-1825 | journey | путешествие | «Джёни» — «Женя»: Женя отправился в ПУТЕШЕСТВИЕ. | A long journey. | Долгое путешествие. | route
-1826 | kitchen | кухня | «Китчин» — «кит в чане»: на КУХНЕ в чане варится кит. | Mom is in the kitchen. | Мама на кухне. | tools-kitchen-2
-1828 | maintain | поддерживать | «Мейнтейн» — «мент»: мент ПОДДЕРЖИВАЕТ порядок. | Maintain the car. | Обслуживать машину. | tool
-1829 | measure | измерять | «Мэжэ» — «между»: ИЗМЕРЬ, сколько между нами. | Measure the room. | Измерь комнату. | ruler-measure
-1831 | numerous | многочисленный | «Ньюмэрэс» — «нумерация»: МНОГОЧИСЛЕННЫЕ номера. | Numerous times. | Многократно. | stack-2
-1832 | quiet | тихий | «Квайэт» — «квакать»: ТИХО! Лягушка, хватит квакать. | Be quiet! | Тише! | volume-off
-1833 | reveal | раскрывать | «Ривил» — «ревью»: РАСКРЫВАЮ сюжет. | Reveal the secret. | Раскрыть секрет. | eye
-1834 | specifically | конкретно | «Спэсификли» — «специфика»: КОНКРЕТНО. | Specifically for you. | Специально для тебя. | target
-1835 | split | разделять | «Сплит» — «шпагат на сплит»: РАЗДЕЛИТЬ. | Split the bill. | Раздели счёт. | arrows-split
-1836 | task | задача | «Таск» — «таскать»: ЗАДАЧА — таскать коробки. | An easy task. | Лёгкая задача. | checklist
-1838 | twenty | двадцать | «Твэнти» — «твенти» — ДВАДЦАТЬ. | Twenty years. | Двадцать лет. | number
-1839 | urban | городской | «Урбан» — «урбанистика»: ГОРОДСКОЙ. | Urban life. | Городская жизнь. | building-skyscraper
-1840 | affect | влиять | «Эфэкт» — «эффект»: ВЛИЯЕТ. | It affects everyone. | Это касается всех. | bolt
-1841 | aircraft | самолёт | «Эакрафт» — «эйр» (воздух) + «крафт»: ЛЕТАТЕЛЬНЫЙ АППАРАТ. | A military aircraft. | Военный самолёт. | plane
-1842 | approve | одобрять | «Эпрув» — «апробация»: ОДОБРЯЮ. | I approve. | Я одобряю. | thumb-up
-1843 | approximately | приблизительно | «Эпроксимэтли» — «аппроксимация»: ПРИБЛИЗИТЕЛЬНО. | Approximately 100. | Примерно 100. | adjustments
-1844 | argument | спор; довод | «Агьюмэнт» — «аргумент»: СПОР. | We had an argument. | Мы поссорились. | messages
-1845 | arrest | арестовывать | «Эрэст» — АРЕСТ. | He was arrested. | Его арестовали. | lock
-1846 | conflict | конфликт | «Конфликт» — КОНФЛИКТ. | Avoid conflict. | Избегай конфликтов. | swords
-1847 | corporate | корпоративный | «Копэрэт» — КОРПОРАТИВ. | Corporate party. | Корпоратив. | building
-1848 | debate | дебаты | «Дибейт» — ДЕБАТЫ. | A political debate. | Политические дебаты. | messages
-1849 | determined | решительный | «Дитёминд» — «детерминант» — «терминатор»: РЕШИТЕЛЬНЫЙ, как терминатор. | She is determined. | Она решительна. | target-arrow
-1850 | distribution | распределение | «Дистрибьюшн» — «дистрибьютор»: РАСПРЕДЕЛЕНИЕ. | Fair distribution. | Справедливое распределение. | share
-1851 | document | документ | «Докьюмэнт» — ДОКУМЕНТ. | Sign the document. | Подпиши документ. | file-text
-1852 | escape | побег; сбежать | «Искейп» — кнопка «Esc»: СБЕЖАТЬ из программы. | Escape from prison. | Побег из тюрьмы. | run
-1853 | extend | продлевать | «Икстэнд» — «экстендер»: ПРОДЛЕВАЕТ. | Extend the deadline. | Продли срок. | arrows-horizontal
-1855 | fault | вина; ошибка | «Фолт» — «фол»: моя ВИНА — фол! | It's my fault. | Это моя вина. | x
-1857 | flower | цветок | «Флауэ» — «флора»: ЦВЕТЫ. | Beautiful flowers. | Красивые цветы. | flower
-1858 | friendly | дружелюбный | «Фрэндли» — «френд»: ДРУЖЕЛЮБНЫЙ. | Friendly people. | Дружелюбные люди. | mood-smile
-1859 | lay | класть | «Лэй» — «лей»: КЛАДУ и лью. | Lay the table. | Накрой на стол. | arrow-bar-to-down
-1860 | phase | фаза | «Фейз» — ФАЗА. | The first phase. | Первая фаза. | progress
-1861 | properly | правильно | «Пропэли» — «прописка»: ПРАВИЛЬНО. | Do it properly. | Сделай как следует. | check
-1862 | pure | чистый | «Пьюэ» — «пюре»: ЧИСТОЕ пюре без комочков. | Pure water. | Чистая вода. | droplet
-1863 | requirement | требование | «Рикуайэмэнт» — «реквием»: ТРЕБОВАНИЕ. | Minimum requirements. | Минимальные требования. | list-check
-1864 | resident | житель | «Рэзидэнт» — «резидент»: ЖИТЕЛЬ. | Local residents. | Местные жители. | home
-1865 | revenue | доход, выручка | «Рэвэнью» — «реванш»: ВЫРУЧКА — реванш после убытков. | Annual revenue. | Годовая выручка. | cash
-1868 | secure | безопасный | «Сикьюэ» — «секьюрити»: БЕЗОПАСНЫЙ. | A secure password. | Надёжный пароль. | lock
-1869 | smile | улыбка | «Смайл» — «смайлик»: УЛЫБКА. | Nice smile! | Красивая улыбка! | mood-smile
-1870 | strange | странный | «Стрейндж» — «Доктор Стрэндж»: СТРАННЫЙ доктор. | A strange noise. | Странный шум. | mood-confuzed
-1871 | talent | талант | «Тэлэнт» — ТАЛАНТ. | You have talent. | У тебя талант. | star
-1872 | temperature | температура | «Тэмпрэчэ» — ТЕМПЕРАТУРА. | High temperature. | Высокая температура. | temperature
-1875 | troop | войска | «Труп» — «труппа»: ВОЙСКА как труппа. | Troops arrived. | Войска прибыли. | military-rank
-1876 | truck | грузовик | «Трак» — «трактор»: ГРУЗОВИК. | A big truck. | Большой грузовик. | truck
-1878 | basically | по сути | «Бейсикли» — «база»: ПО СУТИ. | Basically, yes. | По сути, да. | info-circle
-1879 | besides | кроме того | «Бисайдз» — «бисер»: КРОМЕ ТОГО, есть бисер. | Besides, I'm tired. | К тому же я устал. | plus
-1880 | bird | птица | «Бёд» — «бёдра»: у ПТИЦЫ сильные бёдра. | A little bird. | Маленькая птичка. | feather
-1881 | blame | винить | «Блейм» — «Блин!»: «Блин, это ты ВИНОВАТ!» | Don't blame me. | Не вини меня. | hand-finger
-1883 | bowl | миска | «Боул» — «боулинг»: шар как МИСКА. | A bowl of soup. | Тарелка супа. | bowl
-1884 | chicken | курица | «Чикэн» — «чикен»: КУРИЦА. | Fried chicken. | Жареная курица. | meat
-1885 | collect | собирать | «Кэлэкт» — «коллекция»: СОБИРАЮ. | Collect stamps. | Собирать марки. | stack
-1886 | context | контекст | «Контэкст» — КОНТЕКСТ. | In this context. | В этом контексте. | file-text
-1887 | coverage | освещение (в СМИ); охват | «Кавэридж» — «кавер»: ОХВАТ. | Media coverage. | Освещение в СМИ. | news
-1888 | determine | определять | «Дитёмин» — «термин»: ОПРЕДЕЛЯЮ термин. | Determine the cause. | Определи причину. | target
-1889 | display | экран; показывать | «Дисплей» — ДИСПЛЕЙ. | Display the results. | Покажи результаты. | device-desktop
-1890 | dying | умирающий | «Дайинг» — «дай»: «дай воды», говорит УМИРАЮЩИЙ. | A dying plant. | Умирающее растение. | skull
-1891 | elect | выбирать (голосованием) | «Илэкт» — «электорат»: ИЗБИРАЕТ. | Elect a president. | Выбрать президента. | checkbox
-1892 | false | ложный | «Фолс» — «фальшь»: ЛОЖНЫЙ. | True or false? | Правда или ложь? | x
-1896 | incredible | невероятный | «Инкрэдэбл» — «Суперсемейка» (The Incredibles): НЕВЕРОЯТНЫЕ. | Incredible! | Невероятно! | sparkles
-1897 | inspire | вдохновлять | «Инспайэ» — «инспектор»: инспектор ВДОХНОВИЛ. | You inspire me. | Ты меня вдохновляешь. | bulb
-1899 | meat | мясо | «Мит» — «митинг»: на митинге раздают МЯСО. | I don't eat meat. | Я не ем мясо. | meat
-1900 | ministry | министерство | «Министри» — МИНИСТЕРСТВО. | Ministry of Health. | Министерство здравоохранения. | building-bank
-1901 | mode | режим | «Моуд» — «мод» в игре: новый РЕЖИМ. | Night mode. | Ночной режим. | adjustments
-1902 | neck | шея | «Нэк» — «нектар»: колибри тянет ШЕЮ к нектару. | A long neck. | Длинная шея. | user
-1903 | novel | роман (книга) | «Новл» — «новелла»: РОМАН. | A famous novel. | Известный роман. | book
-1904 | obvious | очевидный | «Обвиэс» — «об вилку»: ОЧЕВИДНО, что сядешь на вилку — будет больно. | The answer is obvious. | Ответ очевиден. | eye
-1905 | shirt | рубашка | «Шёт» — «шорты»: РУБАШКА и шорты. | A white shirt. | Белая рубашка. | shirt
-1906 | slowly | медленно | «Слоули» — «слоу»: МЕДЛЕННО. | Speak slowly. | Говори медленно. | clock-pause
-1907 | stadium | стадион | «Стейдиэм» — СТАДИОН. | A big stadium. | Большой стадион. | building-stadium
-1908 | surgery | операция (хирургия) | «Сёджэри» — «хирургия»: ОПЕРАЦИЯ. | Heart surgery. | Операция на сердце. | first-aid-kit
-1910 | vision | зрение; видение | «Вижн» — «визионер»: ВИДЕНИЕ, ЗРЕНИЕ. | Good vision. | Хорошее зрение. | eye
-1912 | zero | ноль | «Зироу» — «зеро» в казино: НОЛЬ. | Zero degrees. | Ноль градусов. | number-0
-1914 | champion | чемпион | «Чэмпиэн» — ЧЕМПИОН. | World champion. | Чемпион мира. | trophy
-1915 | cream | крем; сливки | «Крим» — КРЕМ. | Ice cream. | Мороженое. | ice-cream
-1916 | crisis | кризис | «Крайсис» — КРИЗИС. | Economic crisis. | Экономический кризис. | trending-down
-1918 | deliver | доставлять | «Дилвэ» — «деливери»: ДОСТАВКА. | Deliver the pizza. | Доставь пиццу. | truck-delivery
-1919 | editor | редактор | «Эдитэ» — «эдит» (редактировать): РЕДАКТОР. | A video editor. | Видеоредактор. | pencil
-1920 | estimate | оценивать | «Эстимэйт» — «эстимейт» — «эстет»: эстет ОЦЕНИВАЕТ. | Estimate the cost. | Оцени стоимость. | calculator
+1621 | sky | небо | «sky» — «скайп»: звоню по скайпу и смотрю в НЕБО. | Blue sky. | Голубое небо. | cloud
+1622 | teaching | преподавание | «teaching» — «тише»: учитель говорит «тише» — идёт ПРЕПОДАВАНИЕ. | Teaching is hard. | Преподавать трудно. | school
+1624 | transfer | перевод, пересадка | «transfer» — «трансфер»: ПЕРЕВОЗКА из аэропорта. | Bank transfer. | Банковский перевод. | arrows-exchange
+1625 | upper | верхний | «upper» — «ап»: ВЕРХНИЙ. | The upper floor. | Верхний этаж. | arrow-bar-to-up
+1626 | useful | полезный | «useful» — use (пользоваться) + full: ПОЛЕЗНЫЙ. | Useful tips. | Полезные советы. | bulb
+1627 | valley | долина | «valley» — «валенки»: в ДОЛИНЕ зимой ходят в валенках. | A green valley. | Зелёная долина. | mountain
+1628 | zone | зона | «zone» — ЗОНА. | A safe zone. | Безопасная зона. | map
+1629 | accident | авария, несчастный случай | «accident» — «инцидент»: АВАРИЯ. | A car accident. | Автоавария. | car-crash
+1630 | advanced | продвинутый | «advanced» — «аванс»: ПРОДВИНУТЫЙ получает аванс. | Advanced level. | Продвинутый уровень. | trending-up
+1631 | alternative | альтернатива | «alternative» — АЛЬТЕРНАТИВА. | An alternative way. | Другой путь. | arrows-split
+1632 | anywhere | где угодно | «anywhere» — any (любой) + where (где): ГДЕ УГОДНО. | I can sleep anywhere. | Я могу спать где угодно. | map-search
+1633 | bear | медведь; терпеть | «bear» — «берлога»: МЕДВЕДЬ в берлоге. | A brown bear. | Бурый медведь. | paw
+1634 | boat | лодка | «boat» — «ботик»: маленькая ЛОДКА. | A small boat. | Маленькая лодка. | sailboat
+1635 | capacity | вместимость | «capacity» — «капсула»: ВМЕСТИМОСТЬ капсулы. | Full capacity. | Полная загрузка. | battery-4
+1636 | cheap | дешёвый | «cheap» — «чипсы»: чипсы ДЕШЁВЫЕ. | A cheap ticket. | Дешёвый билет. | tag
+1637 | climate | климат | «climate» — КЛИМАТ. | A warm climate. | Тёплый климат. | temperature
+1638 | discussion | обсуждение | «discussion» — «дискуссия»: ОБСУЖДЕНИЕ. | A long discussion. | Долгое обсуждение. | messages
+1639 | duty | долг, обязанность | «duty» — «дьюти-фри»: без пошлины. А ещё ДОЛГ, обязанность. | It's my duty. | Это мой долг. | list-check
+1640 | fantastic | фантастический | «fantastic» — ФАНТАСТИКА! | Fantastic! | Фантастика! | star
+1641 | feeling | чувство | «feeling» — «филин»: у филина сильное ЧУВСТВО. | A strange feeling. | Странное чувство. | heart
+1642 | governor | губернатор | «governor» — «гавань»: ГУБЕРНАТОР гавани. | The governor of the state. | Губернатор штата. | crown
+1643 | hundred | сто | «hundred» — «хандра»: СТО дней хандры. | A hundred dollars. | Сто долларов. | number-100-small
+1644 | industrial | промышленный | «industrial» — «индустрия»: ПРОМЫШЛЕННЫЙ. | An industrial area. | Промзона. | building-factory
+1645 | joint | совместный; сустав | «joint» — «джойстик»: СОВМЕСТНАЯ игра. | A joint project. | Совместный проект. | link
+1646 | mix | смешивать | «mix» — «миксер»: СМЕШИВАЕТ. | Mix the colors. | Смешай цвета. | blender
+1647 | museum | музей | «museum» — МУЗЕЙ. | Let's go to the museum. | Пойдём в музей. | building-arch
+1648 | path | тропинка, путь | «path» — «пастух»: пастух ведёт стадо по ТРОПИНКЕ. | A forest path. | Лесная тропа. | route
+1649 | promise | обещать | «promise» — «промах»: ОБЕЩАЮ — больше без промахов! | I promise! | Обещаю! | heart-handshake
+1650 | propose | предлагать | «propose» — «пропуск»: ПРЕДЛАГАЮ пропуск. Ещё — делать предложение руки. | He proposed to her. | Он сделал ей предложение. | rings
+1651 | purchase | покупка | «purchase» — «печенье»: ПОКУПКА — пачка печенья. | A big purchase. | Крупная покупка. | shopping-cart
+1652 | rain | дождь | «rain» — «рейс»: ДОЖДЬ, рейс задерживают. | It's raining. | Идёт дождь. | cloud-rain
+1654 | steel | сталь | «steel» — «стиль»: СТАЛЬНОЙ стиль. | Steel door. | Стальная дверь. | shield
+1656 | terrible | ужасный | «terrible» — «террор»: УЖАСНЫЙ. | Terrible weather. | Ужасная погода. | mood-sad
+1657 | tired | уставший | «tired» — «тайга»: УСТАЛ в тайге. | I'm tired. | Я устал. | zzz
+1659 | warm | тёплый | «warm» — «вам»: «Вам ТЕПЛО?» | A warm day. | Тёплый день. | sun
+1660 | afraid | испуганный (be afraid — бояться) | «afraid» — «а, фрейд»: Фрейд знает, чего ты БОИШЬСЯ. | I'm afraid of spiders. | Я боюсь пауков. | ghost
+1661 | beer | пиво | «beer» — «бир» — ПИВО. | A glass of beer. | Стакан пива. | beer
+1662 | border | граница | «border» — «бодрый»: бодрый пограничник на ГРАНИЦЕ. | Cross the border. | Пересечь границу. | border-outer
+1664 | command | команда, приказ | «command» — «командир»: ПРИКАЗ. | Follow the command. | Выполни команду. | terminal
+1665 | crew | экипаж | «crew» — «крюк»: ЭКИПАЖ корабля тянет крюк. | The ship's crew. | Экипаж корабля. | users-group
+1666 | crowd | толпа | «crowd» — «крадут»: в ТОЛПЕ кошельки крадут. | A big crowd. | Большая толпа. | users-group
+1668 | element | элемент | «element» — ЭЛЕМЕНТ. | Key elements. | Ключевые элементы. | atom
+1669 | enemy | враг | «enemy» — «у меня»: «У меня ВРАГОВ нет!» | My worst enemy. | Мой злейший враг. | swords
+1670 | ensure | обеспечивать | «ensure» — «иншуранс» (страховка): ГАРАНТИРУЮ. | Ensure safety. | Обеспечь безопасность. | shield-check
+1671 | environmental | экологический | «environmental» — «в окружении»: ЭКОЛОГИЧЕСКИЙ. | Environmental problems. | Экологические проблемы. | plant-2
+1672 | fill | наполнять | «fill» — «филе»: НАПОЛНИ кастрюлю филе. | Fill the glass. | Наполни стакан. | glass-full
+1673 | forest | лес | «forest» — «форель»: в ЛЕСНОЙ речке форель. | A dark forest. | Тёмный лес. | trees
+1674 | intelligence | интеллект; разведка | «intelligence» — ИНТЕЛЛЕКТ. | Artificial intelligence. | Искусственный интеллект. | brain
+1675 | intend | намереваться | «intend» — «интернет»: НАМЕРЕН сидеть в интернете всю ночь. | I intend to win. | Я намерен победить. | target-arrow
+1678 | moon | луна | «moon» — «мумия»: мумия гуляет при ЛУНЕ. | Full moon. | Полнолуние. | moon
+1679 | ocean | океан | «ocean» — ОКЕАН. | The Pacific Ocean. | Тихий океан. | ripple
+1680 | profit | прибыль | «profit» — «профит»: ПРИБЫЛЬ. | A big profit. | Большая прибыль. | trending-up
+1681 | proof | доказательство | «proof» — «пруф»: ДОКАЗАТЕЛЬСТВО. | Show me proof. | Покажи доказательства. | check
+1683 | soldier | солдат | «soldier» — «солдат». | A brave soldier. | Храбрый солдат. | military-rank
+1684 | suit | костюм; подходить | «suit» — «сюртук»: КОСТЮМ с сюртуком. | A black suit. | Чёрный костюм. | shirt
+1685 | appearance | внешность | «appearance» — «опера»: ВНЕШНОСТЬ оперной дивы. | Change your appearance. | Измени внешность. | mood-smile
+1687 | attorney | адвокат | «attorney» — «а, тёща»: тёща — лучший АДВОКАТ. | My attorney. | Мой адвокат. | scale
+1688 | behavior | поведение | «behavior» — «бегемот»: ПОВЕДЕНИЕ бегемота. | Bad behavior. | Плохое поведение. | mood-angry
+1690 | chair | стул | «chair» — «чай»: на СТУЛЕ пью чай. | Sit on the chair. | Садись на стул. | armchair
+1691 | debt | долг | «debt» — «дед»: ДОЛГ деду. | I'm in debt. | Я в долгах. | receipt
+1692 | domestic | домашний, внутренний | «domestic» — «дом»: ДОМАШНИЙ. | Domestic flights. | Внутренние рейсы. | home
+1693 | expensive | дорогой (по цене) | «expensive» — «экспонат»: ДОРОГОЙ экспонат. | An expensive car. | Дорогая машина. | diamond
+1695 | historical | исторический | «historical» — ИСТОРИЧЕСКИЙ. | A historical film. | Исторический фильм. | history
+1696 | honestly | честно | «honestly» — «он чист»: ЧЕСТНО. | Honestly, I don't know. | Честно, не знаю. | circle-check
+1697 | honor | честь | «honor» — «гонор»: у него гонор, ЧЕСТЬ. | It's an honor. | Это честь. | medal
+1699 | jump | прыгать | «jump» — ПРЫГАЙ! | Jump higher! | Прыгай выше! | arrow-up
+1700 | launch | запуск | «launch» — «ланч»: ЗАПУСК ракеты в обед. | Rocket launch. | Запуск ракеты. | rocket
+1701 | minimum | минимум | «minimum» — МИНИМУМ. | The minimum price. | Минимальная цена. | minus
+1702 | native | родной | «native» — РОДНОЙ язык. | My native language. | Мой родной язык. | home-heart
+1703 | originally | изначально | «originally» — «оригинал»: ИЗНАЧАЛЬНО. | Originally from Moscow. | Родом из Москвы. | history
+1706 | suddenly | вдруг | «suddenly» — «сад»: ВДРУГ в саду гром! | Suddenly, it rained. | Вдруг пошёл дождь. | bolt
+1707 | supreme | верховный | «supreme» — «Суприм» — ВЕРХОВНЫЙ бренд. | Supreme Court. | Верховный суд. | crown
+1708 | survey | опрос | «survey» — «сервиз»: ОПРОС — какой сервиз красивее? | Take a survey. | Пройди опрос. | checklist
+1710 | update | обновление | «update» — ОБНОВЛЕНИЕ. | New update. | Новое обновление. | refresh
+1712 | writer | писатель | «writer» — «рай»: ПИСАТЕЛЬ пишет о рае. | A famous writer. | Известный писатель. | pencil
+1713 | yellow | жёлтый | «yellow» — «ёлка»: ЖЁЛТАЯ гирлянда на ёлке. | A yellow car. | Жёлтая машина. | circle
+1715 | ancient | древний | «ancient» — «анчоус»: ДРЕВНИЙ анчоус. | Ancient Rome. | Древний Рим. | building-arch
+1717 | communication | общение, связь | «communication» — КОММУНИКАЦИЯ. | Good communication. | Хорошее общение. | messages
+1718 | connect | соединять | «connect» — «коннект»: СОЕДИНЯЮ. | Connect to Wi-Fi. | Подключись к вайфаю. | plug-connected
+1719 | contain | содержать | «contain» — «контейнер»: СОДЕРЖИТ. | It contains sugar. | Содержит сахар. | box
+1720 | download | скачивать | «download» — down (вниз) + load (грузить): СКАЧИВАТЬ. | Download the file. | Скачай файл. | download
+1721 | email | электронная почта | «email» — ПОЧТА. | Send me an email. | Отправь мне письмо. | mail
+1722 | exercise | упражнение | «exercise» — «экзерсис»: УПРАЖНЕНИЕ. | Do exercises. | Делай упражнения. | stretching
+1723 | express | выражать | «express» — «экспресс»: ВЫРАЖАЮ быстро. | Express your feelings. | Вырази свои чувства. | message
+1724 | flow | поток | «flow» — «флоу» у рэпера: ПОТОК. | Water flow. | Поток воды. | ripple
+1725 | girlfriend | девушка (подруга) | «girlfriend» — girl (девушка) + friend (друг): ДЕВУШКА. | My girlfriend. | Моя девушка. | heart
+1726 | hero | герой | «hero» — Хиро из «Города героев»: ГЕРОЙ. | A real hero. | Настоящий герой. | shield
+1727 | illegal | незаконный | «illegal» — «нелегал»: НЕЗАКОННО. | It's illegal. | Это незаконно. | ban
+1728 | joke | шутка | «joke» — «джокер»: ШУТКА. | Tell me a joke. | Расскажи анекдот. | mood-happy
+1729 | loan | заём, кредит | «loan» — «Лёня»: Лёня взял ЗАЁМ и пропал. | Take a loan. | Взять кредит. | building-bank
+1730 | perform | выступать | «perform» — «перформанс»: ВЫСТУПАЮ. | Perform on stage. | Выступать на сцене. | microphone-2
+1731 | planet | планета | «planet» — ПЛАНЕТА. | Planet Earth. | Планета Земля. | planet
+1732 | restaurant | ресторан | «restaurant» — РЕСТОРАН. | Let's go to a restaurant. | Пойдём в ресторан. | tools-kitchen-2
+1734 | select | выбирать | «select» — «селекция»: ВЫБИРАЮ. | Select a file. | Выбери файл. | hand-finger
+1735 | soft | мягкий | «soft» — МЯГКИЙ софт-тач. | A soft bed. | Мягкая кровать. | cloud
+1736 | stuck | застрявший | «stuck» — «стакан»: рука ЗАСТРЯЛА в стакане. | I'm stuck. | Я застрял. | lock
+1737 | sugar | сахар | «sugar» — «шугать»: ШУГАЮ мух от САХАРА. | No sugar, please. | Без сахара, пожалуйста. | cube
+1739 | transport | транспорт | «transport» — ТРАНСПОРТ. | Public transport. | Общественный транспорт. | bus
+1740 | affair | дело; роман | «affair» — «афера»: тёмное ДЕЛО. | Foreign affairs. | Иностранные дела. | briefcase
+1741 | appeal | обращение; привлекательность | «appeal» — «апелляция»: ОБРАЩЕНИЕ. | Sex appeal. | Сексуальная привлекательность. | message
+1742 | appropriate | подходящий | «appropriate» — «опрятный»: ПОДХОДЯЩИЙ, опрятный. | Appropriate clothes. | Подходящая одежда. | check
+1745 | confirm | подтверждать | «confirm» — «конфета»: ПОДТВЕРЖДАЮ — конфеты съел я. | Confirm your email. | Подтверди почту. | circle-check
+1746 | device | устройство | «device» — «девайс»: УСТРОЙСТВО. | A new device. | Новое устройство. | device-mobile
+1747 | drama | драма | «drama» — ДРАМА. | Don't make a drama. | Не устраивай драму. | masks-theater
+1748 | entry | вход | «entry» — «энтер»: ВХОД. | No entry. | Вход запрещён. | door-enter
+1749 | era | эра, эпоха | «era» — ЭРА. | A new era. | Новая эра. | hourglass
+1750 | factor | фактор | «factor» — ФАКТОР. | An important factor. | Важный фактор. | info-circle
+1751 | feed | кормить | «feed» — «фидер»: КОРМУШКА. Ещё «фид» — лента новостей. | Feed the cat. | Покорми кота. | bowl
+1752 | golden | золотой | «golden» — «голд»: ЗОЛОТОЙ. | Golden rule. | Золотое правило. | coin
+1753 | grant | грант; предоставлять | «grant» — ГРАНТ. | A research grant. | Исследовательский грант. | gift
+1755 | lawyer | юрист | «lawyer» — «лояльный»: ЮРИСТ лоялен к клиенту. | A good lawyer. | Хороший юрист. | scale
+1757 | lying | лежащий; лживый | «lying» — «лай»: ВРЁТ, как собака лает. | Stop lying! | Перестань врать! | mask
+1759 | mistake | ошибка | «mistake» — «мистер стейк»: ОШИБКА — заказал стейк вместо салата. | A big mistake. | Большая ошибка. | x
+1762 | platform | платформа | «platform» — ПЛАТФОРМА. | Platform 5. | Платформа 5. | train
+1763 | pool | бассейн | «pool» — «пуля»: лечу в БАССЕЙН, как пуля. | Swimming pool. | Бассейн. | swimming
+1765 | relation | отношение, связь | «relation» — «реле»: СВЯЗЬ через реле. | Family relations. | Семейные отношения. | link
+1766 | route | маршрут | «route» — «рутина»: каждый день один МАРШРУТ — рутина. | The best route. | Лучший маршрут. | route
+1767 | schedule | расписание | «schedule» — «шедевр»: РАСПИСАНИЕ — шедевр. | My schedule. | Моё расписание. | calendar
+1768 | scientific | научный | «scientific» — «сайнс»: НАУЧНЫЙ. | Scientific research. | Научное исследование. | flask
+1769 | shoe | туфля, ботинок | «shoe» — «шуба»: с ШУБОЙ — тёплые БОТИНКИ. | New shoes. | Новые туфли. | shoe
+1770 | smoke | дым; курить | «smoke» — «смог»: ДЫМ и смог. | Don't smoke. | Не кури. | smoking
+1771 | squad | отряд | «squad» — «сквад»: ОТРЯД. | Football squad. | Футбольная команда. | users-group
+1772 | teach | учить, преподавать (taught) | «teach» — «тише»: учитель ПРЕПОДАЁТ — тише! | Teach me English. | Научи меня английскому. | school
+1774 | abuse | злоупотребление | «abuse» — «абьюз»: ЖЕСТОКОЕ обращение. | Drug abuse. | Наркомания. | alert-triangle
+1775 | angry | злой | «angry» — «Angry Birds»: ЗЛЫЕ птицы. | Don't be angry. | Не злись. | mood-angry
+1776 | candidate | кандидат | «candidate» — КАНДИДАТ. | A strong candidate. | Сильный кандидат. | user-check
+1777 | comfortable | удобный | «comfortable» — «комфорт»: УДОБНЫЙ. | A comfortable chair. | Удобное кресло. | armchair
+1778 | concern | беспокойство | «concern» — «консервы»: БЕСПОКОЙСТВО из-за консервов. | My main concern. | Моя главная забота. | mood-nervous
+1779 | discuss | обсуждать | «discuss» — «диск»: ОБСУЖДАЕМ диск. | Let's discuss it. | Давай обсудим. | messages
+1780 | emotional | эмоциональный | «emotional» — ЭМОЦИОНАЛЬНЫЙ. | An emotional film. | Трогательный фильм. | heart
+1782 | everywhere | везде | «everywhere» — every (каждый) + where (где): ВЕЗДЕ. | Dust everywhere. | Пыль везде. | world
+1783 | facility | объект, удобство | «facility» — «фасилитатор»: ОБЪЕКТ. | Sports facilities. | Спортивные сооружения. | building
+1784 | fox | лиса | «fox» — «фокус»: ЛИСА показывает фокус. | A red fox. | Рыжая лиса. | paw
+1785 | hole | дыра | «hole» — «холм»: ДЫРА в холме. | A hole in my sock. | Дырка в носке. | circle-dashed
+1786 | holiday | праздник; отпуск | «holiday» — «холодильник»: в ОТПУСКЕ еда из холодильника. | Summer holidays. | Летние каникулы. | beach
+1787 | internal | внутренний | «internal» — «интернат»: ВНУТРЕННИЙ двор интерната. | Internal problems. | Внутренние проблемы. | box
+1792 | laugh | смеяться | «laugh» — «лафа»: ЛАФА — СМЕЁМСЯ. | Don't laugh! | Не смейся! | mood-happy
+1793 | leg | нога | «leg» — «лёг»: ЛЁГ и вытянул НОГИ. | My leg hurts. | У меня болит нога. | shoe
+1794 | liberal | либеральный | «liberal» — ЛИБЕРАЛЬНЫЙ. | Liberal views. | Либеральные взгляды. | scale
+1796 | lunch | обед | «lunch» — ОБЕД. | Lunch time! | Время обеда! | tools-kitchen-2
+1798 | milk | молоко | «milk» — «милка» (шоколад): МОЛОЧНЫЙ шоколад. | A glass of milk. | Стакан молока. | milk
+1799 | pack | упаковывать; пачка | «pack» — «пакет»: УПАКОВАТЬ в пакет. | Pack your bag. | Собери сумку. | package
+1800 | payment | платёж | «payment» — «пэй»: ПЛАТЁЖ. | Online payment. | Онлайн-оплата. | credit-card
+1802 | relatively | относительно | «relatively» — «релятивизм»: ОТНОСИТЕЛЬНО. | Relatively cheap. | Относительно дёшево. | scale
+1803 | sector | сектор | «sector» — СЕКТОР. | Private sector. | Частный сектор. | chart-pie
+1804 | snow | снег | «snow» — «сноуборд»: катаюсь по СНЕГУ. | It's snowing. | Идёт снег. | snowflake
+1805 | storm | буря, шторм | «storm» — «шторм»: БУРЯ. | A big storm. | Сильная буря. | storm
+1806 | strike | забастовка; удар | «strike» — «страйк» в боулинге: УДАР. | A workers' strike. | Забастовка рабочих. | bolt
+1807 | studio | студия | «studio» — СТУДИЯ. | A recording studio. | Студия звукозаписи. | microphone
+1809 | weak | слабый | «weak» — «Вика»: Вика СЛАБАЯ после болезни. | I feel weak. | Я чувствую слабость. | battery-1
+1811 | actor | актёр | «actor» — АКТЁР. | A famous actor. | Известный актёр. | masks-theater
+1812 | advance | продвижение; аванс | «advance» — «аванс»: заранее, ВПЕРЁД. | In advance. | Заранее. | arrow-right
+1813 | apartment | квартира | «apartment» — «апартаменты»: КВАРТИРА. | A new apartment. | Новая квартира. | building
+1815 | chain | цепь | «chain» — «чайник»: ЦЕПЬ на чайнике. | A gold chain. | Золотая цепочка. | link
+1816 | chapter | глава (книги) | «chapter» — «чепчик»: ГЛАВА про чепчик. | Chapter one. | Глава первая. | book
+1817 | commit | совершать; посвящать себя | «commit» — «комитет»: СОВЕРШИЛ доклад в комитете. | Commit a crime. | Совершить преступление. | check
+1818 | confidence | уверенность | «confidence» — «конфиденциально»: УВЕРЕННОСТЬ. | Self-confidence. | Уверенность в себе. | crown
+1819 | cook | готовить (еду); повар | «cook» — «кукуруза»: ГОТОВЛЮ кукурузу. | I like to cook. | Я люблю готовить. | chef-hat
+1820 | cute | милый | «cute» — «кот»: МИЛЫЙ котик. | A cute puppy. | Милый щенок. | heart
+1821 | equal | равный | «equal» — «эквалайзер»: всё РАВНО. | Equal rights. | Равные права. | equal
+1822 | fake | фальшивый | «fake» — ФЕЙК. | Fake news. | Фейковые новости. | mask
+1823 | finance | финансы | «finance» — ФИНАНСЫ. | Personal finance. | Личные финансы. | coin
+1824 | identity | личность | «identity» — «айди»: ЛИЧНОСТЬ, ID. | Identity card. | Удостоверение личности. | id
+1825 | journey | путешествие | «journey» — «Женя»: Женя отправился в ПУТЕШЕСТВИЕ. | A long journey. | Долгое путешествие. | route
+1826 | kitchen | кухня | «kitchen» — «кит в чане»: на КУХНЕ в чане варится кит. | Mom is in the kitchen. | Мама на кухне. | tools-kitchen-2
+1828 | maintain | поддерживать | «maintain» — «мент»: мент ПОДДЕРЖИВАЕТ порядок. | Maintain the car. | Обслуживать машину. | tool
+1829 | measure | измерять | «measure» — «между»: ИЗМЕРЬ, сколько между нами. | Measure the room. | Измерь комнату. | ruler-measure
+1831 | numerous | многочисленный | «numerous» — «нумерация»: МНОГОЧИСЛЕННЫЕ номера. | Numerous times. | Многократно. | stack-2
+1832 | quiet | тихий | «quiet» — «квакать»: ТИХО! Лягушка, хватит квакать. | Be quiet! | Тише! | volume-off
+1833 | reveal | раскрывать | «reveal» — «ревью»: РАСКРЫВАЮ сюжет. | Reveal the secret. | Раскрыть секрет. | eye
+1834 | specifically | конкретно | «specifically» — «специфика»: КОНКРЕТНО. | Specifically for you. | Специально для тебя. | target
+1835 | split | разделять | «split» — «сплит»: шпагат, ноги РАЗДЕЛЕНЫ. | Split the bill. | Раздели счёт. | arrows-split
+1836 | task | задача | «task» — «таскать»: ЗАДАЧА — таскать коробки. | An easy task. | Лёгкая задача. | checklist
+1838 | twenty | двадцать | «twenty» — «твенти» — ДВАДЦАТЬ. | Twenty years. | Двадцать лет. | number
+1839 | urban | городской | «urban» — «урбанистика»: ГОРОДСКОЙ. | Urban life. | Городская жизнь. | building-skyscraper
+1840 | affect | влиять | «affect» — «эффект»: ВЛИЯЕТ. | It affects everyone. | Это касается всех. | bolt
+1841 | aircraft | самолёт | «aircraft» — «эйр» (воздух) + «крафт»: ЛЕТАТЕЛЬНЫЙ АППАРАТ. | A military aircraft. | Военный самолёт. | plane
+1842 | approve | одобрять | «approve» — «апробация»: ОДОБРЯЮ. | I approve. | Я одобряю. | thumb-up
+1843 | approximately | приблизительно | «approximately» — «аппроксимация»: ПРИБЛИЗИТЕЛЬНО. | Approximately 100. | Примерно 100. | adjustments
+1844 | argument | спор; довод | «argument» — «аргумент»: СПОР. | We had an argument. | Мы поссорились. | messages
+1845 | arrest | арестовывать | «arrest» — АРЕСТ. | He was arrested. | Его арестовали. | lock
+1846 | conflict | конфликт | «conflict» — КОНФЛИКТ. | Avoid conflict. | Избегай конфликтов. | swords
+1847 | corporate | корпоративный | «corporate» — КОРПОРАТИВ. | Corporate party. | Корпоратив. | building
+1848 | debate | дебаты | «debate» — ДЕБАТЫ. | A political debate. | Политические дебаты. | messages
+1849 | determined | решительный | «determined» — «терминатор»: РЕШИТЕЛЬНЫЙ, как терминатор. | She is determined. | Она решительна. | target-arrow
+1850 | distribution | распределение | «distribution» — «дистрибьютор»: РАСПРЕДЕЛЕНИЕ. | Fair distribution. | Справедливое распределение. | share
+1851 | document | документ | «document» — ДОКУМЕНТ. | Sign the document. | Подпиши документ. | file-text
+1852 | escape | побег; сбежать | «escape» — кнопка «Esc»: СБЕЖАТЬ из программы. | Escape from prison. | Побег из тюрьмы. | run
+1853 | extend | продлевать | «extend» — «экстендер»: ПРОДЛЕВАЕТ. | Extend the deadline. | Продли срок. | arrows-horizontal
+1855 | fault | вина; ошибка | «fault» — «фол»: моя ВИНА — фол! | It's my fault. | Это моя вина. | x
+1857 | flower | цветок | «flower» — «флора»: ЦВЕТЫ. | Beautiful flowers. | Красивые цветы. | flower
+1858 | friendly | дружелюбный | «friendly» — «френд»: ДРУЖЕЛЮБНЫЙ. | Friendly people. | Дружелюбные люди. | mood-smile
+1859 | lay | класть | «lay» — «лей»: КЛАДУ и лью. | Lay the table. | Накрой на стол. | arrow-bar-to-down
+1860 | phase | фаза | «phase» — ФАЗА. | The first phase. | Первая фаза. | progress
+1861 | properly | правильно | «properly» — «прописка»: ПРАВИЛЬНО. | Do it properly. | Сделай как следует. | check
+1862 | pure | чистый | «pure» — «пюре»: ЧИСТОЕ пюре без комочков. | Pure water. | Чистая вода. | droplet
+1863 | requirement | требование | «requirement» — «реквием»: ТРЕБОВАНИЕ. | Minimum requirements. | Минимальные требования. | list-check
+1864 | resident | житель | «resident» — «резидент»: ЖИТЕЛЬ. | Local residents. | Местные жители. | home
+1865 | revenue | доход, выручка | «revenue» — «реванш»: ВЫРУЧКА — реванш после убытков. | Annual revenue. | Годовая выручка. | cash
+1868 | secure | безопасный | «secure» — «секьюрити»: БЕЗОПАСНЫЙ. | A secure password. | Надёжный пароль. | lock
+1869 | smile | улыбка | «smile» — «смайлик»: УЛЫБКА. | Nice smile! | Красивая улыбка! | mood-smile
+1870 | strange | странный | «strange» — «Доктор Стрэндж»: СТРАННЫЙ доктор. | A strange noise. | Странный шум. | mood-confuzed
+1871 | talent | талант | «talent» — ТАЛАНТ. | You have talent. | У тебя талант. | star
+1872 | temperature | температура | «temperature» — ТЕМПЕРАТУРА. | High temperature. | Высокая температура. | temperature
+1875 | troop | войска | «troop» — «труппа»: ВОЙСКА как труппа. | Troops arrived. | Войска прибыли. | military-rank
+1876 | truck | грузовик | «truck» — «трактор»: ГРУЗОВИК. | A big truck. | Большой грузовик. | truck
+1878 | basically | по сути | «basically» — «база»: ПО СУТИ. | Basically, yes. | По сути, да. | info-circle
+1879 | besides | кроме того | «besides» — «бисер»: КРОМЕ ТОГО, есть бисер. | Besides, I'm tired. | К тому же я устал. | plus
+1880 | bird | птица | «bird» — «бёдра»: у ПТИЦЫ сильные бёдра. | A little bird. | Маленькая птичка. | feather
+1881 | blame | винить | «blame» — «Блин!»: «Блин, это ты ВИНОВАТ!» | Don't blame me. | Не вини меня. | hand-finger
+1883 | bowl | миска | «bowl» — «боулинг»: шар как МИСКА. | A bowl of soup. | Тарелка супа. | bowl
+1884 | chicken | курица | «chicken» — «чикен»: КУРИЦА. | Fried chicken. | Жареная курица. | meat
+1885 | collect | собирать | «collect» — «коллекция»: СОБИРАЮ. | Collect stamps. | Собирать марки. | stack
+1886 | context | контекст | «context» — КОНТЕКСТ. | In this context. | В этом контексте. | file-text
+1887 | coverage | освещение (в СМИ); охват | «coverage» — «кавер»: ОХВАТ. | Media coverage. | Освещение в СМИ. | news
+1888 | determine | определять | «determine» — «термин»: ОПРЕДЕЛЯЮ термин. | Determine the cause. | Определи причину. | target
+1889 | display | экран; показывать | «display» — ДИСПЛЕЙ. | Display the results. | Покажи результаты. | device-desktop
+1890 | dying | умирающий | «dying» — «дай»: «дай воды», говорит УМИРАЮЩИЙ. | A dying plant. | Умирающее растение. | skull
+1891 | elect | выбирать (голосованием) | «elect» — «электорат»: ИЗБИРАЕТ. | Elect a president. | Выбрать президента. | checkbox
+1892 | false | ложный | «false» — «фальшь»: ЛОЖНЫЙ. | True or false? | Правда или ложь? | x
+1896 | incredible | невероятный | «incredible» — «Суперсемейка» (The Incredibles): НЕВЕРОЯТНЫЕ. | Incredible! | Невероятно! | sparkles
+1897 | inspire | вдохновлять | «inspire» — «инспектор»: инспектор ВДОХНОВИЛ. | You inspire me. | Ты меня вдохновляешь. | bulb
+1899 | meat | мясо | «meat» — «митинг»: на митинге раздают МЯСО. | I don't eat meat. | Я не ем мясо. | meat
+1900 | ministry | министерство | «ministry» — МИНИСТЕРСТВО. | Ministry of Health. | Министерство здравоохранения. | building-bank
+1901 | mode | режим | «mode» — «мод» в игре: новый РЕЖИМ. | Night mode. | Ночной режим. | adjustments
+1902 | neck | шея | «neck» — «нектар»: колибри тянет ШЕЮ к нектару. | A long neck. | Длинная шея. | user
+1903 | novel | роман (книга) | «novel» — «новелла»: РОМАН. | A famous novel. | Известный роман. | book
+1904 | obvious | очевидный | «obvious» — «обвиняемый»: ОЧЕВИДНО, что обвиняемый виновен. | The answer is obvious. | Ответ очевиден. | eye
+1905 | shirt | рубашка | «shirt» — «шорты»: РУБАШКА и шорты. | A white shirt. | Белая рубашка. | shirt
+1906 | slowly | медленно | «slowly» — «слоу»: МЕДЛЕННО. | Speak slowly. | Говори медленно. | clock-pause
+1907 | stadium | стадион | «stadium» — СТАДИОН. | A big stadium. | Большой стадион. | building-stadium
+1908 | surgery | операция (хирургия) | «surgery» — «хирургия»: ОПЕРАЦИЯ. | Heart surgery. | Операция на сердце. | first-aid-kit
+1910 | vision | зрение; видение | «vision» — «визионер»: ВИДЕНИЕ, ЗРЕНИЕ. | Good vision. | Хорошее зрение. | eye
+1912 | zero | ноль | «zero» — «зеро» в казино: НОЛЬ. | Zero degrees. | Ноль градусов. | number-0
+1914 | champion | чемпион | «champion» — ЧЕМПИОН. | World champion. | Чемпион мира. | trophy
+1915 | cream | крем; сливки | «cream» — КРЕМ. | Ice cream. | Мороженое. | ice-cream
+1916 | crisis | кризис | «crisis» — КРИЗИС. | Economic crisis. | Экономический кризис. | trending-down
+1918 | deliver | доставлять | «deliver» — «деливери»: ДОСТАВКА. | Deliver the pizza. | Доставь пиццу. | truck-delivery
+1919 | editor | редактор | «editor» — «эдит» (редактировать): РЕДАКТОР. | A video editor. | Видеоредактор. | pencil
+1920 | estimate | оценивать | «estimate» — «эстет»: эстет ОЦЕНИВАЕТ. | Estimate the cost. | Оцени стоимость. | calculator

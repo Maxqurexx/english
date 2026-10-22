@@ -1,269 +1,269 @@
 # ranks 4331-4700, content words only
-4331 | addiction | зависимость | «Эдикшн» — «а дикция?»: ЗАВИСИМОСТЬ испортила дикцию. | Drug addiction. | Наркозависимость. | link
-4332 | awake | бодрствующий | «Эвэйк» — wake (просыпаться): НЕ СПИТ. | Are you awake? | Ты не спишь? | sun
-4333 | beam | луч; балка | «Бим» — «Бим» — пёс в ЛУЧЕ фонаря. | A beam of light. | Луч света. | bulb
-4334 | bean | боб, фасоль | «Бин» — мистер Бин ест ФАСОЛЬ. | Coffee beans. | Кофейные зёрна. | plant
-4336 | blank | пустой | «Блэнк» — «бланк»: ПУСТОЙ бланк. | A blank page. | Пустая страница. | file
-4339 | conviction | убеждение; приговор | «Кэнвикшн» — «конвой»: ПРИГОВОР — и под конвой. | A strong conviction. | Твёрдое убеждение. | gavel
-4340 | corrupt | коррумпированный | «Кэрапт» — КОРРУПЦИЯ: ПРОДАЖНЫЙ. | A corrupt official. | Продажный чиновник. | coin
-4341 | cow | корова | «Кау» — «каурая»: каурая КОРОВА. | A brown cow. | Коричневая корова. | paw
-4342 | curve | кривая, изгиб | «Кёв» — «кривой»: ИЗГИБ. | A sharp curve. | Резкий поворот. | wave-sine
-4343 | depressed | подавленный | «Дипрэст» — «депрессия»: ПОДАВЛЕННЫЙ. | I feel depressed. | У меня депрессия. | mood-sad
-4344 | dining | обеденный | «Дайнинг» — dinner: ОБЕДЕННЫЙ. | The dining room. | Столовая. | tools-kitchen-2
-4345 | duration | продолжительность | «Дьюрэйшн» — «дура»: ПРОДОЛЖИТЕЛЬНОСТЬ дурацкого фильма. | The duration of the trip. | Продолжительность поездки. | hourglass
-4348 | fifteen | пятнадцать | «Фифтин» — «ФИФА»: ПЯТНАДЦАТЬ матчей в ФИФА. | Fifteen minutes. | Пятнадцать минут. | number
-4350 | grandmother | бабушка | «Грэнмазэ» — grand + mother (мать): БАБУШКА. | My grandmother. | Моя бабушка. | user
-4351 | harsh | суровый | «Хаш» — «каша»: СУРОВАЯ армейская каша. | Harsh weather. | Суровая погода. | snowflake
-4352 | horn | рог; гудок | «Хон» — «хорн» — «горн»: ГУДОК горна. | Blow the horn. | Посигналь. | speakerphone
-4353 | hurry | спешить | «Хари» — «Гарри»: Гарри СПЕШИТ на поезд. | Hurry up! | Поторопись! | run
-4354 | immune | иммунный | «Имьюн» — ИММУНИТЕТ. | The immune system. | Иммунная система. | shield
-4355 | inflation | инфляция | «Инфлэйшн» — ИНФЛЯЦИЯ. | High inflation. | Высокая инфляция. | trending-up
-4356 | ingredient | ингредиент | «Ингридиэнт» — ИНГРЕДИЕНТ. | Fresh ingredients. | Свежие продукты. | salad
-4357 | inspection | проверка | «Инспэкшн» — «инспекция»: ПРОВЕРКА. | A safety inspection. | Проверка безопасности. | search
-4360 | intensity | интенсивность | «Интэнсити» — ИНТЕНСИВНОСТЬ. | High intensity. | Высокая интенсивность. | flame
-4361 | inventory | запасы, инвентарь | «Инвэнтри» — ИНВЕНТАРЬ. | Check the inventory. | Проверь запасы. | box
-4362 | invitation | приглашение | «Инвитэйшн» — invite: ПРИГЛАШЕНИЕ. | A wedding invitation. | Приглашение на свадьбу. | mail
-4363 | judicial | судебный | «Джудишл» — judge: СУДЕБНЫЙ. | The judicial system. | Судебная система. | gavel
-4364 | justify | оправдывать | «Джастифай» — «юстиция»: ОПРАВДЫВАТЬ. | Justify your answer. | Обоснуй ответ. | scale
-4366 | lean | наклоняться; худой | «Лин» — «лень»: от лени НАКЛОНИЛСЯ на стену. | Lean on me. | Обопрись на меня. | arrow-down-right
-4367 | lecture | лекция | «Лэкчэ» — ЛЕКЦИЯ. | A boring lecture. | Скучная лекция. | presentation
-4368 | logical | логичный | «Лоджикл» — ЛОГИЧНЫЙ. | A logical answer. | Логичный ответ. | brain
-4370 | meaningful | значимый | «Минингфул» — meaning (смысл) + full: ЗНАЧИМЫЙ. | A meaningful life. | Осмысленная жизнь. | heart
-4371 | migration | миграция | «Майгрэйшн» — МИГРАЦИЯ. | Bird migration. | Перелёт птиц. | plane
-4372 | missile | ракета | «Мисайл» — «миска»: РАКЕТА влетела в миску. | A nuclear missile. | Ядерная ракета. | rocket
-4373 | motivate | мотивировать | «Моутивэйт» — МОТИВИРОВАТЬ. | Motivate yourself. | Мотивируй себя. | flame
-4376 | northwest | северо-запад | «Носвэст» — north (север) + west (запад): СЕВЕРО-ЗАПАД. | The northwest coast. | Северо-западное побережье. | compass
-4377 | organ | орган | «Огэн» — ОРГАН. | Vital organs. | Жизненно важные органы. | heart
-4378 | patrol | патруль | «Пэтроул» — ПАТРУЛЬ. | A police patrol. | Полицейский патруль. | shield
-4379 | pearl | жемчуг | «Пёл» — «перл»: ЖЕМЧУЖИНА. | A pearl necklace. | Жемчужное ожерелье. | circle
-4380 | peer | ровесник | «Пиэ» — «пир»: на пиру одни РОВЕСНИКИ. | Peer pressure. | Давление сверстников. | users
-4381 | pepper | перец | «Пэпэ» — «пэ-пэ» — ПЕРЕЦ. | Salt and pepper. | Соль и перец. | pepper
-4382 | pig | свинья | «Пиг» — «пищит»: СВИНЬЯ пищит и хрюкает. | A pink pig. | Розовая свинья. | pig
-4383 | pile | куча | «Пайл» — «пыль»: КУЧА пыли. | A pile of books. | Куча книг. | stack
-4384 | plug | вилка; затычка | «Плаг» — «плуг»: ВИЛКУ вставили, как плуг в землю. | Plug it in. | Включи в розетку. | plug
-4385 | provision | положение; обеспечение | «Прэвижн» — «провизия»: ОБЕСПЕЧЕНИЕ, ЗАПАСЫ. | Food provisions. | Запасы еды. | box
-4386 | revise | пересматривать | «Ривайз» — «ревизия»: ПЕРЕСМОТР. | Revise the plan. | Пересмотреть план. | pencil
-4387 | rod | стержень; удочка | «Род» — «родник»: УДОЧКА у родника. | A fishing rod. | Удочка. | fish-hook
-4389 | stair | ступенька, лестница | «Стэа» — «старый»: СТАРАЯ ЛЕСТНИЦА скрипит. | Go up the stairs. | Поднимись по лестнице. | stairs
-4390 | statistical | статистический | «Стэтистикл» — СТАТИСТИЧЕСКИЙ. | Statistical data. | Статистика. | chart-bar
-4391 | sweat | пот | «Свэт» — «свет»: на свету видно ПОТ. | Cold sweat. | Холодный пот. | droplet
-4393 | tattoo | татуировка | «Тэту» — ТАТУ. | A small tattoo. | Маленькая татуировка. | brush
-4394 | teenage | подростковый | «Тинэйдж» — «тинейджер»: ПОДРОСТКОВЫЙ. | A teenage girl. | Девочка-подросток. | user
-4395 | thunder | гром | «Сандэ» — «сани»: ГРОМ напугал сани. | Thunder and rain. | Гром и дождь. | bolt
-4396 | tragedy | трагедия | «Трэджэди» — ТРАГЕДИЯ. | A terrible tragedy. | Страшная трагедия. | mood-sad
-4397 | trauma | травма | «Трома» — ТРАВМА. | Childhood trauma. | Детская травма. | bandage
-4399 | wrestling | борьба, реслинг | «Рэслинг» — РЕСЛИНГ. | Pro wrestling. | Реслинг. | swords
-4400 | zoo | зоопарк | «Зу» — ЗОО-парк. | Go to the zoo. | Пойти в зоопарк. | paw
-4401 | accordance | соответствие | «Экоодэнс» — «аккорд»: в СООТВЕТСТВИИ с аккордом. | In accordance with the law. | В соответствии с законом. | check
-4403 | activist | активист | «Эктивист» — АКТИВИСТ. | A human rights activist. | Правозащитник. | speakerphone
-4404 | alike | похожий | «Элайк» — like (как): ПОХОЖИ. | They look alike. | Они похожи. | equal
-4405 | applicable | применимый | «Эпликэбл» — «аппликация»: ПРИМЕНИМЫЙ. | Not applicable. | Неприменимо. | check
-4406 | arrow | стрела | «Эроу» — «Эрос» стреляет СТРЕЛОЙ. | Bow and arrow. | Лук и стрела. | arrow-right
-4407 | availability | наличие, доступность | «Эвэйлэбилити» — available: НАЛИЧИЕ. | Check availability. | Проверь наличие. | check
-4410 | bend | гнуть, сгибаться | «Бэнд» — «бинт»: СОГНИ руку в бинте. | Bend your knees. | Согни колени. | arrow-down-right
-4412 | breach | нарушение; брешь | «Брич» — «брешь»: НАРУШЕНИЕ, брешь. | A data breach. | Утечка данных. | lock-open
-4413 | cabin | хижина; каюта | «Кэбин» — «кабинка»: ХИЖИНА, КАЮТА. | A log cabin. | Бревенчатая хижина. | home
-4414 | cage | клетка | «Кейдж» — Николас Кейдж в КЛЕТКЕ. | A bird cage. | Птичья клетка. | lock
-4415 | chancellor | канцлер | «Чансэлэ» — КАНЦЛЕР. | The German chancellor. | Канцлер Германии. | building-bank
-4416 | cheers | ура; будем здоровы | «Чиэз» — «чирс»: ЗА ЗДОРОВЬЕ! | Cheers! | Будем! | glass
-4417 | closet | шкаф, кладовка | «Клозит» — «клозет»: ШКАФ, кладовка. | Hang it in the closet. | Повесь в шкаф. | door
-4418 | combine | объединять | «Кэмбайн» — «комбайн»: ОБЪЕДИНЯЕТ всё сразу. | Combine the ingredients. | Смешай ингредиенты. | puzzle
-4419 | companion | спутник, компаньон | «Кэмпэниэн» — КОМПАНЬОН. | A travel companion. | Попутчик. | users
-4420 | consciousness | сознание | «Коншэснэс» — conscious: СОЗНАНИЕ. | Lose consciousness. | Потерять сознание. | brain
-4421 | consultant | консультант | «Кэнсалтэнт» — КОНСУЛЬТАНТ. | A business consultant. | Бизнес-консультант. | user
-4422 | controller | контроллер; геймпад | «Кэнтроулэ» — КОНТРОЛЛЕР. | A game controller. | Геймпад. | device-gamepad
-4423 | corresponding | соответствующий | «Корэспондинг» — «корреспондент»: СООТВЕТСТВУЮЩИЙ. | The corresponding number. | Соответствующий номер. | link
-4424 | courtesy | вежливость | «Кётэси» — «кортеж»: ВЕЖЛИВОСТЬ кортежа. | Common courtesy. | Элементарная вежливость. | heart-handshake
-4426 | disc | диск | «Диск» — ДИСК. | A compact disc. | Компакт-диск. | disc
-4429 | embassy | посольство | «Эмбэси» — «амбар»: ПОСОЛЬСТВО — не амбар. | The US Embassy. | Посольство США. | flag
-4430 | fascinating | увлекательный | «Фэсинэйтинг» — «фасон»: УВЛЕКАТЕЛЬНЫЙ фасон. | A fascinating story. | Увлекательная история. | sparkles
-4431 | flexible | гибкий | «Флэксибл» — «флекс»: ГИБКИЙ. | A flexible schedule. | Гибкий график. | wave-sine
-4433 | goodness | доброта; боже | «Гуднэс» — good: ДОБРОТА. | Oh my goodness! | Боже мой! | heart
-4434 | guilt | вина | «Гилт» — «гильза»: ВИНА — гильза на месте. | A sense of guilt. | Чувство вины. | mood-sad
-4435 | haven | убежище | «Хейвн» — «гавань»: УБЕЖИЩЕ. | A safe haven. | Тихая гавань. | anchor
-4436 | helicopter | вертолёт | «Хэликоптэ» — ГЕЛИКОПТЕР: ВЕРТОЛЁТ. | A rescue helicopter. | Спасательный вертолёт. | helicopter
-4437 | homework | домашнее задание | «Хоумвёк» — home + work: ДОМАШКА. | Do your homework. | Сделай домашку. | book
-4439 | iconic | культовый | «Айконик» — «икона»: КУЛЬТОВЫЙ. | An iconic song. | Культовая песня. | star
-4440 | infected | заражённый | «Инфэктид» — «инфекция»: ЗАРАЖЁННЫЙ. | An infected wound. | Заражённая рана. | virus
-4441 | keen | увлечённый, острый | «Кин» — «кино»: УВЛЕЧЁН кино. | Keen on sports. | Увлекается спортом. | flame
-4443 | lesser | меньший | «Лэсэ» — less: МЕНЬШИЙ. | The lesser evil. | Меньшее зло. | minus
-4445 | mandatory | обязательный | «Мэндэтэри» — «мандат»: ОБЯЗАТЕЛЬНЫЙ мандат. | Mandatory training. | Обязательное обучение. | alert-circle
-4446 | manufacture | производить | «Мэнюфэкчэ» — «мануфактура»: ПРОИЗВОДИТЬ. | Manufacture cars. | Производить машины. | building-factory
-4447 | mechanics | механика | «Микэникс» — МЕХАНИКА. | Game mechanics. | Игровая механика. | settings
-4448 | mere | всего лишь | «Миэ» — «мир»: ВСЕГО ЛИШЬ мир. | A mere child. | Всего лишь ребёнок. | minus
-4449 | miracle | чудо | «Мирэкл» — «мир»: ЧУДО на весь мир. | It's a miracle! | Это чудо! | sparkles
-4451 | mud | грязь | «Мад» — «мать!»: МАТЬ, вся в ГРЯЗИ! | Covered in mud. | Весь в грязи. | droplet
-4454 | observation | наблюдение | «Обзэвэйшн» — observe: НАБЛЮДЕНИЕ. | Under observation. | Под наблюдением. | eye
-4455 | owe | быть должным | «Оу» — «ой!»: ОЙ, я тебе ДОЛЖЕН. | I owe you. | Я тебе должен. | coin
-4456 | phenomenon | явление | «Финоминэн» — ФЕНОМЕН. | A natural phenomenon. | Природное явление. | sparkles
-4459 | precise | точный | «Присайс» — «прицел»: ТОЧНЫЙ прицел. | Precise data. | Точные данные. | target
-4460 | profession | профессия | «Прэфэшн» — ПРОФЕССИЯ. | My profession. | Моя профессия. | briefcase
-4461 | prospect | перспектива | «Проспэкт» — «проспект»: ПЕРСПЕКТИВА проспекта. | Job prospects. | Перспективы работы. | eye
-4462 | protective | защитный | «Прэтэктив» — protect: ЗАЩИТНЫЙ. | Protective gear. | Защитная экипировка. | shield
-4463 | provider | поставщик, провайдер | «Прэвайдэ» — ПРОВАЙДЕР. | An internet provider. | Интернет-провайдер. | wifi
-4464 | publisher | издатель | «Паблишэ» — publish: ИЗДАТЕЛЬ. | A book publisher. | Книжное издательство. | book
-4466 | reportedly | по сообщениям | «Рипотидли» — report: ПО СООБЩЕНИЯМ. | He reportedly left. | Сообщается, что он ушёл. | news
-4467 | retreat | отступать | «Ритрит» — «ре» + «трить»: ОТСТУПАЙ! | Retreat! | Отступаем! | arrow-back
-4468 | rookie | новичок | «Руки» — «руки»: у НОВИЧКА руки трясутся. | A rookie mistake. | Ошибка новичка. | user-plus
-4469 | sandwich | бутерброд | «Сэндвич» — СЭНДВИЧ. | A ham sandwich. | Бутерброд с ветчиной. | bread
-4470 | separation | разделение; расставание | «Сэпэрэйшн» — «сепаратор»: РАЗДЕЛЕНИЕ. | A painful separation. | Тяжёлое расставание. | arrows-split
-4472 | ski | лыжи; кататься на лыжах | «Ски» — «скинуть»: скинул ЛЫЖИ. | Go skiing. | Кататься на лыжах. | ski-jumping
-4475 | surgeon | хирург | «Сёджэн» — «сердце»: ХИРУРГ на сердце. | A heart surgeon. | Кардиохирург. | stethoscope
-4476 | theft | кража | «Сэфт» — «сейф»: КРАЖА из сейфа. | Car theft. | Угон машины. | mask
-4478 | valve | клапан | «Вэлв» — «вольво»: КЛАПАН у вольво. | A water valve. | Водяной клапан. | settings
-4479 | visa | виза | «Визэ» — ВИЗА. | A tourist visa. | Туристическая виза. | id
-4480 | adjacent | соседний | «Эджэйснт» — «аджика»: СОСЕДНЯЯ банка — аджика. | Adjacent rooms. | Соседние комнаты. | arrows-left-right
-4481 | appreciation | признательность | «Эпришиэйшн» — appreciate: ПРИЗНАТЕЛЬНОСТЬ. | A token of appreciation. | Знак признательности. | heart
-4483 | athletic | спортивный | «Эслэтик» — «атлетика»: СПОРТИВНЫЙ. | An athletic body. | Спортивное тело. | run
-4484 | authorized | уполномоченный | «Осэрайзд» — «авторизованный»: УПОЛНОМОЧЕННЫЙ. | Authorized personnel. | Уполномоченный персонал. | key
-4485 | banner | баннер, знамя | «Бэнэ» — БАННЕР. | A big banner. | Большой баннер. | flag
-4490 | charm | обаяние; амулет | «Чам» — «шарм»: ОБАЯНИЕ. | A lucky charm. | Талисман. | sparkles
-4491 | colony | колония | «Колэни» — КОЛОНИЯ. | A British colony. | Британская колония. | flag
-4492 | cookie | печенье | «Куки» — КУКИ: ПЕЧЕНЬЕ. | Chocolate cookies. | Шоколадное печенье. | cookie
-4493 | cruel | жестокий | «Круэл» — «Круэлла»: ЖЕСТОКАЯ Круэлла. | A cruel joke. | Жестокая шутка. | mood-angry
-4494 | curriculum | учебный план | «Кэрикьюлэм» — «карикатура»: УЧЕБНЫЙ ПЛАН в карикатурах. | The school curriculum. | Школьная программа. | list
-4495 | deadline | дедлайн | «Дэдлайн» — ДЕДЛАЙН. | Meet the deadline. | Уложиться в срок. | clock
-4496 | deer | олень | «Диэ» — «дыра»: ОЛЕНЬ провалился в дыру. | A young deer. | Молодой олень. | paw
-4497 | delta | дельта | «Дэлтэ» — ДЕЛЬТА. | The Nile Delta. | Дельта Нила. | triangle
-4498 | dive | нырять | «Дайв» — «дайвинг»: НЫРЯТЬ. | Dive into the water. | Нырнуть в воду. | swimming
-4500 | easter | Пасха | «Истэ» — «истерика»: ПАСХА — истерика с яйцами. | Happy Easter! | С Пасхой! | egg
-4501 | electoral | избирательный | «Илэктэрэл» — «электорат»: ИЗБИРАТЕЛЬНЫЙ. | Electoral system. | Избирательная система. | checkbox
-4502 | eleven | одиннадцать | «Илэвн» — «ил»: ОДИННАДЦАТЬ раков в иле. | Eleven players. | Одиннадцать игроков. | number
-4503 | entity | сущность, организация | «Энтити» — «энтузиаст»: СУЩНОСТЬ. | A legal entity. | Юридическое лицо. | building
-4504 | excessive | чрезмерный | «Иксэсив» — «эксцесс»: ЧРЕЗМЕРНЫЙ. | Excessive force. | Чрезмерная сила. | alert-triangle
-4505 | feminist | феминистка | «Фэминист» — ФЕМИНИСТКА. | A feminist movement. | Феминистское движение. | users-group
-4506 | governing | правящий | «Гавэнинг» — govern: ПРАВЯЩИЙ. | The governing body. | Руководящий орган. | building-bank
-4507 | ham | ветчина | «Хэм» — «хам»: ХАМ съел ВЕТЧИНУ. | Ham and cheese. | Ветчина и сыр. | meat
-4508 | heal | исцелять, заживать | «Хил» — «хил» в играх: ЛЕЧИТЬ. | The wound healed. | Рана зажила. | first-aid-kit
-4509 | interface | интерфейс | «Интэфэйс» — ИНТЕРФЕЙС. | User interface. | Интерфейс пользователя. | layout
-4511 | jewelry | украшения | «Джуэлри» — «ювелир»: УКРАШЕНИЯ. | Gold jewelry. | Золотые украшения. | diamond
-4512 | journalism | журналистика | «Джёнэлизм» — ЖУРНАЛИСТИКА. | Sports journalism. | Спортивная журналистика. | news
-4515 | jungle | джунгли | «Джангл» — ДЖУНГЛИ. | In the jungle. | В джунглях. | tree
-4516 | linear | линейный | «Линиэ» — ЛИНЕЙНЫЙ. | A linear process. | Линейный процесс. | line
-4518 | occasional | редкий, случайный | «Экейжэнл» — «оказия»: ИЗРЕДКА. | An occasional visit. | Редкий визит. | clock
-4519 | oriented | ориентированный | «Ориэнтид» — ОРИЕНТИРОВАННЫЙ. | Family oriented. | Ориентирован на семью. | compass
-4521 | predict | предсказывать | «Придикт» — «предикт» — «прям диктую»: ПРЕДСКАЗЫВАЮ. | Predict the future. | Предсказать будущее. | crystal-ball
-4523 | pursuit | погоня; стремление | «Пэсьют» — «пёс»: ПОГОНЯ пса. | The pursuit of happiness. | Погоня за счастьем. | run
-4524 | rap | рэп | «Рэп» — РЭП. | Rap music. | Рэп. | microphone
-4525 | reminder | напоминание | «Римайндэ» — remind: НАПОМИНАНИЕ. | Set a reminder. | Поставь напоминание. | bell
-4526 | resume | резюме; возобновлять | «Рэзюмэй» — РЕЗЮМЕ. | Send your resume. | Отправь резюме. | file
-4529 | ridge | хребет | «Ридж» — «рыжий»: РЫЖИЙ горный ХРЕБЕТ. | A mountain ridge. | Горный хребет. | mountain
-4531 | scholar | учёный | «Сколэ» — school: УЧЁНЫЙ. | A famous scholar. | Известный учёный. | school
-4534 | tribe | племя | «Трайб» — «труба»: ПЛЕМЯ трубит в трубу. | An ancient tribe. | Древнее племя. | users-group
-4535 | unfortunate | несчастный | «Анфочэнэт» — «анти-фортуна»: НЕСЧАСТНЫЙ. | An unfortunate accident. | Несчастный случай. | mood-sad
-4536 | variable | переменная; изменчивый | «Вэриэбл» — «вариант»: ПЕРЕМЕННАЯ. | A variable in math. | Переменная в математике. | math
-4539 | ace | туз; ас | «Эйс» — АС, ТУЗ. | The ace of spades. | Пиковый туз. | cards
-4540 | adjust | настраивать | «Эджаст» — «а жать?»: НАСТРОЙ, куда жать. | Adjust the volume. | Отрегулируй громкость. | adjustments
-4541 | alternate | чередовать | «Олтэнэйт» — «альтернатива»: ЧЕРЕДОВАТЬ. | Alternate days. | Через день. | arrows-shuffle
-4542 | artwork | произведение искусства | «Атвёк» — art + work: ПРОИЗВЕДЕНИЕ ИСКУССТВА. | Beautiful artwork. | Красивая работа. | palette
-4545 | attraction | достопримечательность | «Этрэкшн» — «аттракцион»: ДОСТОПРИМЕЧАТЕЛЬНОСТЬ. | A tourist attraction. | Туристическая достопримечательность. | building-castle
-4547 | bankruptcy | банкротство | «Бэнкрапси» — БАНКРОТСТВО. | File for bankruptcy. | Объявить банкротство. | coin-off
-4549 | capability | способность | «Кейпэбилити» — capable: СПОСОБНОСТЬ. | Military capability. | Военный потенциал. | bolt
-4551 | closure | закрытие | «Клоужэ» — close: ЗАКРЫТИЕ. | Road closure. | Перекрытие дороги. | lock
-4552 | cognitive | когнитивный | «Когнитив» — КОГНИТИВНЫЙ. | Cognitive skills. | Когнитивные навыки. | brain
-4553 | competitor | конкурент | «Кэмпэтитэ» — от compete (соревноваться): КОНКУРЕНТ. | Our main competitor. | Наш главный конкурент. | swords
-4557 | defender | защитник | «Дифэндэ» — defend: ЗАЩИТНИК. | A strong defender. | Сильный защитник. | shield
-4558 | dental | зубной | «Дэнтл» — «дантист»: ЗУБНОЙ. | Dental care. | Уход за зубами. | dental
-4559 | diplomatic | дипломатический | «Диплэмэтик» — ДИПЛОМАТИЧЕСКИЙ. | Diplomatic relations. | Дипломатические отношения. | flag
-4560 | drum | барабан | «Драм» — «драм-н-бейс»: БАРАБАН. | Play the drums. | Играть на барабанах. | music
-4561 | editorial | редакционный | «Эдиториэл» — editor: РЕДАКЦИОННЫЙ. | An editorial team. | Редакция. | news
-4562 | entertaining | развлекательный | «Энтэтэйнинг» — entertain: РАЗВЛЕКАТЕЛЬНЫЙ. | An entertaining show. | Развлекательное шоу. | mood-happy
-4564 | eternal | вечный | «Итёнл» — «интернет»: ВЕЧНЫЙ интернет. | Eternal love. | Вечная любовь. | infinity
-4565 | freeze | замерзать | «Фриз» — «фриз» — «фризер»: ЗАМОРОЗКА. | Freeze the meat. | Заморозь мясо. | snowflake
-4566 | generic | общий, непатентованный | «Джэнэрик» — «дженерик»: ОБЩИЙ. | A generic name. | Общее название. | pill
-4568 | grip | хватка | «Грип» — «грипп»: ХВАТКА гриппа. | A firm grip. | Крепкая хватка. | hand-grab
-4569 | handful | горсть | «Хэндфул» — hand (рука) + full: ГОРСТЬ. | A handful of nuts. | Горсть орехов. | hand-stop
-4570 | happily | счастливо | «Хэпили» — happy: СЧАСТЛИВО. | Happily married. | Счастливо женаты. | mood-happy
-4571 | harmony | гармония | «Хамэни» — ГАРМОНИЯ. | Live in harmony. | Жить в гармонии. | music
-4573 | humble | скромный | «Хамбл» — «хам»: он не хам, а СКРОМНЫЙ. | A humble man. | Скромный человек. | user
-4574 | hybrid | гибрид | «Хайбрид» — ГИБРИД. | A hybrid car. | Гибридная машина. | car
-4575 | keyboard | клавиатура | «Кибод» — key (клавиша) + board: КЛАВИАТУРА. | A wireless keyboard. | Беспроводная клавиатура. | keyboard
-4576 | locally | на месте, локально | «Лоукэли» — ЛОКАЛЬНО. | Grown locally. | Выращено на месте. | map-pin
-4577 | mild | мягкий | «Майлд» — «милый»: МЯГКИЙ и милый. | A mild winter. | Мягкая зима. | feather
-4578 | minimal | минимальный | «Минимл» — МИНИМАЛЬНЫЙ. | Minimal risk. | Минимальный риск. | minus
-4579 | molecular | молекулярный | «Мэлэкьюлэ» — МОЛЕКУЛЯРНЫЙ. | Molecular biology. | Молекулярная биология. | atom
-4582 | noon | полдень | «Нун» — «ну-ну»: ПОЛДЕНЬ, ну-ну, вставай. | At noon. | В полдень. | sun
-4583 | nowadays | в наши дни | «Наудэйз» — now (сейчас) + days (дни): В НАШИ ДНИ. | Nowadays everyone has a phone. | Сейчас у всех есть телефон. | calendar
-4584 | openly | открыто | «Оупэнли» — open: ОТКРЫТО. | Speak openly. | Говорить открыто. | door
-4585 | overview | обзор | «Оувэвью» — over + view (вид): ОБЗОР. | A short overview. | Краткий обзор. | eye
-4587 | parish | приход | «Пэриш» — «Париж»: ПРИХОД церкви в Париже. | A small parish. | Маленький приход. | building-church
-4588 | pathetic | жалкий | «Пэсэтик» — «патетика»: ЖАЛКИЙ. | That's pathetic. | Это жалко. | mood-sad
-4589 | potato | картофель | «Пэтэйтоу» — «батат»: КАРТОШКА. | Baked potato. | Печёная картошка. | plant
-4591 | preference | предпочтение | «Прэфрэнс» — «преферанс»: ПРЕДПОЧИТАЮ преферанс. | A personal preference. | Личное предпочтение. | heart
-4592 | proportion | пропорция, доля | «Прэпошн» — ПРОПОРЦИЯ. | A large proportion. | Большая доля. | chart-pie
-4593 | rage | ярость | «Рэйдж» — «рейдж» — «режь!»: ЯРОСТЬ. | Road rage. | Агрессия на дороге. | mood-angry
-4595 | restoration | реставрация | «Рэстэрэйшн» — РЕСТАВРАЦИЯ. | Building restoration. | Реставрация здания. | tool
-4596 | selfish | эгоистичный | «Сэлфиш» — self (себя) + fish: ЭГОИСТ — рыбка для себя. | Don't be selfish. | Не будь эгоистом. | user
-4597 | sergeant | сержант | «Саджэнт» — СЕРЖАНТ. | Sergeant Smith. | Сержант Смит. | military-rank
-4598 | silk | шёлк | «Силк» — «шёлк» — ШЁЛК. | A silk dress. | Шёлковое платье. | shirt
-4599 | stamp | марка; штамп | «Стэмп» — ШТАМП. | A postage stamp. | Почтовая марка. | mail
-4600 | throne | трон | «Сроун» — ТРОН. | Game of Thrones. | Игра престолов. | crown
-4602 | urge | побуждать; желание | «Ёдж» — «ёж»: ЁЖ ПОБУЖДАЕТ двигаться. | I urge you to go. | Настоятельно прошу тебя пойти. | flame
-4605 | witch | ведьма | «Вич» — «вишня»: ВЕДЬМА ест вишню. | An evil witch. | Злая ведьма. | wand
-4607 | archive | архив | «Акайв» — АРХИВ. | The photo archive. | Фотоархив. | archive
-4608 | array | массив, набор | «Эрэй» — «рай»: целый МАССИВ, как рай. | A wide array. | Широкий выбор. | grid-dots
-4609 | belly | живот | «Бэли» — «белый»: белый ЖИВОТ. | A big belly. | Большой живот. | user
-4610 | booth | будка, киоск | «Бус» — «бусы»: в БУДКЕ продают бусы. | A phone booth. | Телефонная будка. | building-store
-4611 | breakdown | поломка; срыв | «Брэйкдаун» — break (ломать) + down: ПОЛОМКА. | A nervous breakdown. | Нервный срыв. | tool
-4612 | brutal | жестокий | «Брутл» — «брутальный»: ЖЕСТОКИЙ. | A brutal attack. | Жестокое нападение. | swords
-4613 | calculate | вычислять | «Кэлкьюлэйт» — «калькулятор»: ВЫЧИСЛЯТЬ. | Calculate the cost. | Рассчитай стоимость. | calculator
-4615 | citizenship | гражданство | «Ситизэншип» — citizen: ГРАЖДАНСТВО. | Dual citizenship. | Двойное гражданство. | id
-4616 | cliff | скала, утёс | «Клиф» — «клифф»: УТЁС. | Fall off a cliff. | Упасть со скалы. | mountain
-4617 | consensus | консенсус | «Кэнсэнсэс» — КОНСЕНСУС. | Reach a consensus. | Прийти к согласию. | heart-handshake
-4618 | declaration | декларация | «Дэклэрэйшн» — ДЕКЛАРАЦИЯ. | The Declaration of Independence. | Декларация независимости. | file
-4621 | distinction | различие; отличие | «Дистинкшн» — distinct: РАЗЛИЧИЕ. | A clear distinction. | Чёткое различие. | arrows-split
-4622 | donation | пожертвование | «Доунэйшн» — «донат»: ПОЖЕРТВОВАНИЕ. | Make a donation. | Сделать пожертвование. | heart-handshake
-4623 | facial | лицевой | «Фэйшл» — face (лицо): ЛИЦЕВОЙ. | Facial expression. | Выражение лица. | mood-smile
-4624 | faithful | верный | «Фэйсфул» — faith (вера) + full: ВЕРНЫЙ. | A faithful dog. | Верная собака. | heart
-4625 | fatal | смертельный | «Фэйтл» — «фатальный»: СМЕРТЕЛЬНЫЙ. | A fatal error. | Фатальная ошибка. | skull
-4626 | fig | инжир | «Фиг» — «фиг»: ИНЖИР — фиговое дерево. | Dried figs. | Сушёный инжир. | plant
-4627 | genuinely | искренне | «Дженьюинли» — genuine: ИСКРЕННЕ. | Genuinely happy. | Искренне рад. | heart
-4630 | hunger | голод | «Хангэ» — hungry: ГОЛОД. | Die of hunger. | Умереть от голода. | tools-kitchen-2
-4631 | hurricane | ураган | «Харикэйн» — «харакири»: УРАГАН сделал городу харакири. | A powerful hurricane. | Мощный ураган. | tornado
-4632 | implication | последствие, подтекст | «Импликейшн» — «имплант»: ПОСЛЕДСТВИЯ импланта. | Serious implications. | Серьёзные последствия. | alert-circle
-4633 | import | импорт | «Импот» — ИМПОРТ. | Import goods. | Импортировать товары. | ship
-4634 | innovative | инновационный | «Инэвэйтив» — ИННОВАЦИОННЫЙ. | An innovative idea. | Новаторская идея. | bulb
-4636 | jurisdiction | юрисдикция | «Джуэрисдикшн» — ЮРИСДИКЦИЯ. | Under our jurisdiction. | Под нашей юрисдикцией. | gavel
-4637 | laughter | смех | «Лафтэ» — laugh (смеяться): СМЕХ. | Loud laughter. | Громкий смех. | mood-happy
-4638 | lemon | лимон | «Лэмэн» — ЛИМОН. | Lemon juice. | Лимонный сок. | lemon
-4640 | lung | лёгкое | «Ланг» — long (длинный): ЛЁГКИЕ на длинном вдохе. | Lung cancer. | Рак лёгких. | lungs
-4641 | mighty | могучий | «Майти» — «мой ты»: МОГУЧИЙ мой ты! | A mighty warrior. | Могучий воин. | barbell
-4642 | monetary | денежный | «Манитэри» — «монета»: ДЕНЕЖНЫЙ. | Monetary policy. | Денежная политика. | coin
-4643 | nutrition | питание | «Ньютришн» — «нутриенты»: ПИТАНИЕ. | Good nutrition. | Правильное питание. | salad
-4644 | ore | руда | «Оо» — «оре»: РУДА в горе. | Iron ore. | Железная руда. | mountain
-4647 | pine | сосна | «Пайн» — pineapple (ананас): ананас похож на шишку СОСНЫ. | A pine forest. | Сосновый лес. | tree
-4648 | poorly | плохо | «Пуэли» — poor: ПЛОХО. | Poorly paid. | Плохо оплачиваемый. | thumb-down
-4650 | pose | поза; позировать | «Поуз» — ПОЗА. | Strike a pose. | Встань в позу. | user
-4651 | pour | наливать, лить | «По» — «пол»: ЛЬЁТ на пол. | Pour the water. | Налей воды. | droplet
-4654 | purely | чисто, исключительно | «Пьюэли» — pure (чистый): ЧИСТО. | Purely by chance. | Чисто случайно. | sparkles
-4656 | rental | аренда | «Рэнтл» — rent: АРЕНДА. | A car rental. | Прокат машин. | key
-4658 | seemingly | по-видимому | «Симингли» — seem (казаться): ПО-ВИДИМОМУ. | Seemingly easy. | На вид легко. | eye
-4659 | severely | сильно, жёстко | «Сивиэли» — severe: ЖЁСТКО. | Severely injured. | Тяжело ранен. | alert-triangle
-4660 | shark | акула | «Шак» — «шакал»: АКУЛА — морской шакал. | A great white shark. | Белая акула. | fish
-4661 | southwest | юго-запад | «Саусвэст» — south + west: ЮГО-ЗАПАД. | The southwest region. | Юго-западный регион. | compass
-4663 | survivor | выживший | «Сэвайвэ» — survive: ВЫЖИВШИЙ. | The only survivor. | Единственный выживший. | heartbeat
-4664 | technically | технически | «Тэкникли» — ТЕХНИЧЕСКИ. | Technically, it's true. | Технически это правда. | settings
-4665 | unlimited | неограниченный | «Анлимитид» — «безлимит»: НЕОГРАНИЧЕННЫЙ. | Unlimited data. | Безлимитный интернет. | infinity
-4667 | anxious | тревожный | «Энкшэс» — «анкета»: ТРЕВОЖНО заполнять анкету. | I'm anxious. | Я волнуюсь. | mood-nervous
-4668 | bee | пчела | «Би» — «би-би»: ПЧЕЛА жужжит. | A bee sting. | Укус пчелы. | bug
-4669 | cafe | кафе | «Кэфэй» — КАФЕ. | A small cafe. | Маленькое кафе. | coffee
-4671 | cigarette | сигарета | «Сигэрэт» — СИГАРЕТА. | A pack of cigarettes. | Пачка сигарет. | smoking
-4674 | cult | культ | «Калт» — КУЛЬТ. | A cult movie. | Культовый фильм. | users-group
-4675 | dairy | молочный | «Дэари» — «дари»: ДАРИ МОЛОЧНЫЕ продукты. | Dairy products. | Молочные продукты. | milk
-4677 | darling | дорогой, милый | «Далинг» — «долинка»: МИЛАЯ долинка. | Hello, darling. | Привет, дорогая. | heart
-4678 | delighted | восхищённый | «Дилайтид» — light: СИЯЕТ от радости. | I'm delighted. | Я в восторге. | mood-happy
-4679 | diary | дневник | «Дайэри» — «дай рис»: в ДНЕВНИКЕ записал: дай рис. | A secret diary. | Тайный дневник. | notebook
-4680 | disagree | не соглашаться | «Дисэгри» — dis + agree: НЕ СОГЛАСЕН. | I disagree. | Я не согласен. | thumb-down
-4682 | drill | дрель; тренировка | «Дрил» — ДРЕЛЬ. | A fire drill. | Учебная пожарная тревога. | tool
-4684 | euro | евро | «Юэроу» — ЕВРО. | Ten euros. | Десять евро. | currency-euro
-4685 | evolve | развиваться | «Ивольв» — «эволюция»: РАЗВИВАТЬСЯ. | Species evolve. | Виды развиваются. | dna-2
-4687 | forecast | прогноз | «Фокаст» — «фокус»: ПРОГНОЗ — фокус-покус. | The weather forecast. | Прогноз погоды. | cloud
-4689 | governance | управление | «Гавэнэнс» — govern: УПРАВЛЕНИЕ. | Good governance. | Хорошее управление. | building-bank
-4690 | hug | обнимать | «Хаг» — «хаги-ваги»: ОБНИМАШКИ. | Give me a hug. | Обними меня. | heart
-4691 | importantly | важно | «Импотэнтли» — important: ВАЖНО. | More importantly. | Что ещё важнее. | star
-4692 | indoor | крытый, в помещении | «Индоо» — in + door: В ПОМЕЩЕНИИ. | An indoor pool. | Крытый бассейн. | home
-4693 | influential | влиятельный | «Инфлуэншл» — «инфлюенсер»: ВЛИЯТЕЛЬНЫЙ. | An influential person. | Влиятельный человек. | crown
-4695 | invisible | невидимый | «Инвизибл» — in + visible: НЕВИДИМЫЙ. | An invisible man. | Человек-невидимка. | eye-off
-4698 | lawsuit | иск | «Лосьют» — law (закон) + suit: ИСК. | File a lawsuit. | Подать иск. | gavel
-4699 | leak | протечка, утечка | «Лик» — «лить»: ПРОТЕЧКА — вода льётся. | A gas leak. | Утечка газа. | droplet
-4700 | lighter | зажигалка | «Лайтэ» — light (свет): ЗАЖИГАЛКА. | Do you have a lighter? | Есть зажигалка? | flame
+4331 | addiction | зависимость | «addiction» — «а дикция?»: ЗАВИСИМОСТЬ испортила дикцию. | Drug addiction. | Наркозависимость. | link
+4332 | awake | бодрствующий | «awake» — wake (просыпаться): НЕ СПИТ. | Are you awake? | Ты не спишь? | sun
+4333 | beam | луч; балка | «beam» — «Бим» — пёс в ЛУЧЕ фонаря. | A beam of light. | Луч света. | bulb
+4334 | bean | боб, фасоль | «bean» — мистер Бин ест ФАСОЛЬ. | Coffee beans. | Кофейные зёрна. | plant
+4336 | blank | пустой | «blank» — «бланк»: ПУСТОЙ бланк. | A blank page. | Пустая страница. | file
+4339 | conviction | убеждение; приговор | «conviction» — «конвой»: ПРИГОВОР — и под конвой. | A strong conviction. | Твёрдое убеждение. | gavel
+4340 | corrupt | коррумпированный | «corrupt» — КОРРУПЦИЯ: ПРОДАЖНЫЙ. | A corrupt official. | Продажный чиновник. | coin
+4341 | cow | корова | «cow» — «ковбой»: ковбой пасёт КОРОВ. | A brown cow. | Коричневая корова. | paw
+4342 | curve | кривая, изгиб | «curve» — «кривой»: ИЗГИБ. | A sharp curve. | Резкий поворот. | wave-sine
+4343 | depressed | подавленный | «depressed» — «депрессия»: ПОДАВЛЕННЫЙ. | I feel depressed. | У меня депрессия. | mood-sad
+4344 | dining | обеденный | «dining» — dinner: ОБЕДЕННЫЙ. | The dining room. | Столовая. | tools-kitchen-2
+4345 | duration | продолжительность | «duration» — «дура»: ПРОДОЛЖИТЕЛЬНОСТЬ дурацкого фильма. | The duration of the trip. | Продолжительность поездки. | hourglass
+4348 | fifteen | пятнадцать | «fifteen» — «ФИФА»: ПЯТНАДЦАТЬ матчей в ФИФА. | Fifteen minutes. | Пятнадцать минут. | number
+4350 | grandmother | бабушка | «grandmother» — grand + mother (мать): БАБУШКА. | My grandmother. | Моя бабушка. | user
+4351 | harsh | суровый | «harsh» — «каша»: СУРОВАЯ армейская каша. | Harsh weather. | Суровая погода. | snowflake
+4352 | horn | рог; гудок | «horn» — «горн»: ГУДОК горна. | Blow the horn. | Посигналь. | speakerphone
+4353 | hurry | спешить | «hurry» — «Гарри»: Гарри СПЕШИТ на поезд. | Hurry up! | Поторопись! | run
+4354 | immune | иммунный | «immune» — ИММУНИТЕТ. | The immune system. | Иммунная система. | shield
+4355 | inflation | инфляция | «inflation» — ИНФЛЯЦИЯ. | High inflation. | Высокая инфляция. | trending-up
+4356 | ingredient | ингредиент | «ingredient» — ИНГРЕДИЕНТ. | Fresh ingredients. | Свежие продукты. | salad
+4357 | inspection | проверка | «inspection» — «инспекция»: ПРОВЕРКА. | A safety inspection. | Проверка безопасности. | search
+4360 | intensity | интенсивность | «intensity» — ИНТЕНСИВНОСТЬ. | High intensity. | Высокая интенсивность. | flame
+4361 | inventory | запасы, инвентарь | «inventory» — ИНВЕНТАРЬ. | Check the inventory. | Проверь запасы. | box
+4362 | invitation | приглашение | «invitation» — invite: ПРИГЛАШЕНИЕ. | A wedding invitation. | Приглашение на свадьбу. | mail
+4363 | judicial | судебный | «judicial» — judge: СУДЕБНЫЙ. | The judicial system. | Судебная система. | gavel
+4364 | justify | оправдывать | «justify» — «юстиция»: ОПРАВДЫВАТЬ. | Justify your answer. | Обоснуй ответ. | scale
+4366 | lean | наклоняться; худой | «lean» — «лень»: от лени НАКЛОНИЛСЯ на стену. | Lean on me. | Обопрись на меня. | arrow-down-right
+4367 | lecture | лекция | «lecture» — ЛЕКЦИЯ. | A boring lecture. | Скучная лекция. | presentation
+4368 | logical | логичный | «logical» — ЛОГИЧНЫЙ. | A logical answer. | Логичный ответ. | brain
+4370 | meaningful | значимый | «meaningful» — meaning (смысл) + full: ЗНАЧИМЫЙ. | A meaningful life. | Осмысленная жизнь. | heart
+4371 | migration | миграция | «migration» — МИГРАЦИЯ. | Bird migration. | Перелёт птиц. | plane
+4372 | missile | ракета | «missile» — «миска»: РАКЕТА влетела в миску. | A nuclear missile. | Ядерная ракета. | rocket
+4373 | motivate | мотивировать | «motivate» — МОТИВИРОВАТЬ. | Motivate yourself. | Мотивируй себя. | flame
+4376 | northwest | северо-запад | «northwest» — north (север) + west (запад): СЕВЕРО-ЗАПАД. | The northwest coast. | Северо-западное побережье. | compass
+4377 | organ | орган | «organ» — ОРГАН. | Vital organs. | Жизненно важные органы. | heart
+4378 | patrol | патруль | «patrol» — ПАТРУЛЬ. | A police patrol. | Полицейский патруль. | shield
+4379 | pearl | жемчуг | «pearl» — «перл»: ЖЕМЧУЖИНА. | A pearl necklace. | Жемчужное ожерелье. | circle
+4380 | peer | ровесник | «peer» — «пир»: на пиру одни РОВЕСНИКИ. | Peer pressure. | Давление сверстников. | users
+4381 | pepper | перец | «pepper» — «пепперони»: острая пицца с ПЕРЦЕМ. | Salt and pepper. | Соль и перец. | pepper
+4382 | pig | свинья | «pig» — «пищит»: СВИНЬЯ пищит и хрюкает. | A pink pig. | Розовая свинья. | pig
+4383 | pile | куча | «pile» — «пыль»: КУЧА пыли. | A pile of books. | Куча книг. | stack
+4384 | plug | вилка; затычка | «plug» — «плуг»: ВИЛКУ вставили, как плуг в землю. | Plug it in. | Включи в розетку. | plug
+4385 | provision | положение; обеспечение | «provision» — «провизия»: ОБЕСПЕЧЕНИЕ, ЗАПАСЫ. | Food provisions. | Запасы еды. | box
+4386 | revise | пересматривать | «revise» — «ревизия»: ПЕРЕСМОТР. | Revise the plan. | Пересмотреть план. | pencil
+4387 | rod | стержень; удочка | «rod» — «родник»: УДОЧКА у родника. | A fishing rod. | Удочка. | fish-hook
+4389 | stair | ступенька, лестница | «stair» — «старый»: СТАРАЯ ЛЕСТНИЦА скрипит. | Go up the stairs. | Поднимись по лестнице. | stairs
+4390 | statistical | статистический | «statistical» — СТАТИСТИЧЕСКИЙ. | Statistical data. | Статистика. | chart-bar
+4391 | sweat | пот | «sweat» — «свет»: на свету видно ПОТ. | Cold sweat. | Холодный пот. | droplet
+4393 | tattoo | татуировка | «tattoo» — ТАТУ. | A small tattoo. | Маленькая татуировка. | brush
+4394 | teenage | подростковый | «teenage» — «тинейджер»: ПОДРОСТКОВЫЙ. | A teenage girl. | Девочка-подросток. | user
+4395 | thunder | гром | «thunder» — «сундук»: ГРОМ, будто кто-то уронил сундук. | Thunder and rain. | Гром и дождь. | bolt
+4396 | tragedy | трагедия | «tragedy» — ТРАГЕДИЯ. | A terrible tragedy. | Страшная трагедия. | mood-sad
+4397 | trauma | травма | «trauma» — ТРАВМА. | Childhood trauma. | Детская травма. | bandage
+4399 | wrestling | борьба, реслинг | «wrestling» — РЕСЛИНГ. | Pro wrestling. | Реслинг. | swords
+4400 | zoo | зоопарк | «zoo» — ЗОО-парк. | Go to the zoo. | Пойти в зоопарк. | paw
+4401 | accordance | соответствие | «accordance» — «аккорд»: в СООТВЕТСТВИИ с аккордом. | In accordance with the law. | В соответствии с законом. | check
+4403 | activist | активист | «activist» — АКТИВИСТ. | A human rights activist. | Правозащитник. | speakerphone
+4404 | alike | похожий | «alike» — like (как): ПОХОЖИ. | They look alike. | Они похожи. | equal
+4405 | applicable | применимый | «applicable» — «аппликация»: ПРИМЕНИМЫЙ. | Not applicable. | Неприменимо. | check
+4406 | arrow | стрела | «arrow» — «Эрос» стреляет СТРЕЛОЙ. | Bow and arrow. | Лук и стрела. | arrow-right
+4407 | availability | наличие, доступность | «availability» — available: НАЛИЧИЕ. | Check availability. | Проверь наличие. | check
+4410 | bend | гнуть, сгибаться | «bend» — «бинт»: СОГНИ руку в бинте. | Bend your knees. | Согни колени. | arrow-down-right
+4412 | breach | нарушение; брешь | «breach» — «брешь»: НАРУШЕНИЕ, брешь. | A data breach. | Утечка данных. | lock-open
+4413 | cabin | хижина; каюта | «cabin» — «кабинка»: ХИЖИНА, КАЮТА. | A log cabin. | Бревенчатая хижина. | home
+4414 | cage | клетка | «cage» — Николас Кейдж в КЛЕТКЕ. | A bird cage. | Птичья клетка. | lock
+4415 | chancellor | канцлер | «chancellor» — КАНЦЛЕР. | The German chancellor. | Канцлер Германии. | building-bank
+4416 | cheers | ура; будем здоровы | «cheers» — «чирс»: ЗА ЗДОРОВЬЕ! | Cheers! | Будем! | glass
+4417 | closet | шкаф, кладовка | «closet» — «клозет»: ШКАФ, кладовка. | Hang it in the closet. | Повесь в шкаф. | door
+4418 | combine | объединять | «combine» — «комбайн»: ОБЪЕДИНЯЕТ всё сразу. | Combine the ingredients. | Смешай ингредиенты. | puzzle
+4419 | companion | спутник, компаньон | «companion» — КОМПАНЬОН. | A travel companion. | Попутчик. | users
+4420 | consciousness | сознание | «consciousness» — conscious: СОЗНАНИЕ. | Lose consciousness. | Потерять сознание. | brain
+4421 | consultant | консультант | «consultant» — КОНСУЛЬТАНТ. | A business consultant. | Бизнес-консультант. | user
+4422 | controller | контроллер; геймпад | «controller» — КОНТРОЛЛЕР. | A game controller. | Геймпад. | device-gamepad
+4423 | corresponding | соответствующий | «corresponding» — «корреспондент»: СООТВЕТСТВУЮЩИЙ. | The corresponding number. | Соответствующий номер. | link
+4424 | courtesy | вежливость | «courtesy» — «кортеж»: ВЕЖЛИВОСТЬ кортежа. | Common courtesy. | Элементарная вежливость. | heart-handshake
+4426 | disc | диск | «disc» — ДИСК. | A compact disc. | Компакт-диск. | disc
+4429 | embassy | посольство | «embassy» — «амбар»: ПОСОЛЬСТВО — не амбар. | The US Embassy. | Посольство США. | flag
+4430 | fascinating | увлекательный | «fascinating» — «фасон»: УВЛЕКАТЕЛЬНЫЙ фасон. | A fascinating story. | Увлекательная история. | sparkles
+4431 | flexible | гибкий | «flexible» — «флекс»: ГИБКИЙ. | A flexible schedule. | Гибкий график. | wave-sine
+4433 | goodness | доброта; боже | «goodness» — good: ДОБРОТА. | Oh my goodness! | Боже мой! | heart
+4434 | guilt | вина | «guilt» — «гильза»: ВИНА — гильза на месте. | A sense of guilt. | Чувство вины. | mood-sad
+4435 | haven | убежище | «haven» — «гавань»: УБЕЖИЩЕ. | A safe haven. | Тихая гавань. | anchor
+4436 | helicopter | вертолёт | «helicopter» — ГЕЛИКОПТЕР: ВЕРТОЛЁТ. | A rescue helicopter. | Спасательный вертолёт. | helicopter
+4437 | homework | домашнее задание | «homework» — home + work: ДОМАШКА. | Do your homework. | Сделай домашку. | book
+4439 | iconic | культовый | «iconic» — «икона»: КУЛЬТОВЫЙ. | An iconic song. | Культовая песня. | star
+4440 | infected | заражённый | «infected» — «инфекция»: ЗАРАЖЁННЫЙ. | An infected wound. | Заражённая рана. | virus
+4441 | keen | увлечённый, острый | «keen» — «кино»: УВЛЕЧЁН кино. | Keen on sports. | Увлекается спортом. | flame
+4443 | lesser | меньший | «lesser» — less: МЕНЬШИЙ. | The lesser evil. | Меньшее зло. | minus
+4445 | mandatory | обязательный | «mandatory» — «мандат»: ОБЯЗАТЕЛЬНЫЙ мандат. | Mandatory training. | Обязательное обучение. | alert-circle
+4446 | manufacture | производить | «manufacture» — «мануфактура»: ПРОИЗВОДИТЬ. | Manufacture cars. | Производить машины. | building-factory
+4447 | mechanics | механика | «mechanics» — МЕХАНИКА. | Game mechanics. | Игровая механика. | settings
+4448 | mere | всего лишь | «mere» — «мир»: ВСЕГО ЛИШЬ мир. | A mere child. | Всего лишь ребёнок. | minus
+4449 | miracle | чудо | «miracle» — «мир»: ЧУДО на весь мир. | It's a miracle! | Это чудо! | sparkles
+4451 | mud | грязь | «mud» — «мать!»: МАТЬ, вся в ГРЯЗИ! | Covered in mud. | Весь в грязи. | droplet
+4454 | observation | наблюдение | «observation» — observe: НАБЛЮДЕНИЕ. | Under observation. | Под наблюдением. | eye
+4455 | owe | быть должным | «owe» — «ой!»: ОЙ, я тебе ДОЛЖЕН. | I owe you. | Я тебе должен. | coin
+4456 | phenomenon | явление | «phenomenon» — ФЕНОМЕН. | A natural phenomenon. | Природное явление. | sparkles
+4459 | precise | точный | «precise» — «прицел»: ТОЧНЫЙ прицел. | Precise data. | Точные данные. | target
+4460 | profession | профессия | «profession» — ПРОФЕССИЯ. | My profession. | Моя профессия. | briefcase
+4461 | prospect | перспектива | «prospect» — «проспект»: ПЕРСПЕКТИВА проспекта. | Job prospects. | Перспективы работы. | eye
+4462 | protective | защитный | «protective» — protect: ЗАЩИТНЫЙ. | Protective gear. | Защитная экипировка. | shield
+4463 | provider | поставщик, провайдер | «provider» — ПРОВАЙДЕР. | An internet provider. | Интернет-провайдер. | wifi
+4464 | publisher | издатель | «publisher» — publish: ИЗДАТЕЛЬ. | A book publisher. | Книжное издательство. | book
+4466 | reportedly | по сообщениям | «reportedly» — report: ПО СООБЩЕНИЯМ. | He reportedly left. | Сообщается, что он ушёл. | news
+4467 | retreat | отступать | «retreat» — «ретироваться»: ОТСТУПАТЬ. | Retreat! | Отступаем! | arrow-back
+4468 | rookie | новичок | «rookie» — «руки»: у НОВИЧКА руки трясутся. | A rookie mistake. | Ошибка новичка. | user-plus
+4469 | sandwich | бутерброд | «sandwich» — СЭНДВИЧ. | A ham sandwich. | Бутерброд с ветчиной. | bread
+4470 | separation | разделение; расставание | «separation» — «сепаратор»: РАЗДЕЛЕНИЕ. | A painful separation. | Тяжёлое расставание. | arrows-split
+4472 | ski | лыжи; кататься на лыжах | «ski» — «скинуть»: скинул ЛЫЖИ. | Go skiing. | Кататься на лыжах. | ski-jumping
+4475 | surgeon | хирург | «surgeon» — «сердце»: ХИРУРГ на сердце. | A heart surgeon. | Кардиохирург. | stethoscope
+4476 | theft | кража | «theft» — «сейф»: КРАЖА из сейфа. | Car theft. | Угон машины. | mask
+4478 | valve | клапан | «valve» — «вольво»: КЛАПАН у вольво. | A water valve. | Водяной клапан. | settings
+4479 | visa | виза | «visa» — ВИЗА. | A tourist visa. | Туристическая виза. | id
+4480 | adjacent | соседний | «adjacent» — «аджика»: СОСЕДНЯЯ банка — аджика. | Adjacent rooms. | Соседние комнаты. | arrows-left-right
+4481 | appreciation | признательность | «appreciation» — appreciate: ПРИЗНАТЕЛЬНОСТЬ. | A token of appreciation. | Знак признательности. | heart
+4483 | athletic | спортивный | «athletic» — «атлетика»: СПОРТИВНЫЙ. | An athletic body. | Спортивное тело. | run
+4484 | authorized | уполномоченный | «authorized» — «авторизованный»: УПОЛНОМОЧЕННЫЙ. | Authorized personnel. | Уполномоченный персонал. | key
+4485 | banner | баннер, знамя | «banner» — БАННЕР. | A big banner. | Большой баннер. | flag
+4490 | charm | обаяние; амулет | «charm» — «шарм»: ОБАЯНИЕ. | A lucky charm. | Талисман. | sparkles
+4491 | colony | колония | «colony» — КОЛОНИЯ. | A British colony. | Британская колония. | flag
+4492 | cookie | печенье | «cookie» — КУКИ: ПЕЧЕНЬЕ. | Chocolate cookies. | Шоколадное печенье. | cookie
+4493 | cruel | жестокий | «cruel» — «Круэлла»: ЖЕСТОКАЯ Круэлла. | A cruel joke. | Жестокая шутка. | mood-angry
+4494 | curriculum | учебный план | «curriculum» — «карикатура»: УЧЕБНЫЙ ПЛАН в карикатурах. | The school curriculum. | Школьная программа. | list
+4495 | deadline | дедлайн | «deadline» — ДЕДЛАЙН. | Meet the deadline. | Уложиться в срок. | clock
+4496 | deer | олень | «deer» — «дыра»: ОЛЕНЬ провалился в дыру. | A young deer. | Молодой олень. | paw
+4497 | delta | дельта | «delta» — ДЕЛЬТА. | The Nile Delta. | Дельта Нила. | triangle
+4498 | dive | нырять | «dive» — «дайвинг»: НЫРЯТЬ. | Dive into the water. | Нырнуть в воду. | swimming
+4500 | easter | Пасха | «easter» — «истерика»: ПАСХА — истерика с яйцами. | Happy Easter! | С Пасхой! | egg
+4501 | electoral | избирательный | «electoral» — «электорат»: ИЗБИРАТЕЛЬНЫЙ. | Electoral system. | Избирательная система. | checkbox
+4502 | eleven | одиннадцать | «eleven» — «ил»: ОДИННАДЦАТЬ раков в иле. | Eleven players. | Одиннадцать игроков. | number
+4503 | entity | сущность, организация | «entity» — «энтузиаст»: СУЩНОСТЬ. | A legal entity. | Юридическое лицо. | building
+4504 | excessive | чрезмерный | «excessive» — «эксцесс»: ЧРЕЗМЕРНЫЙ. | Excessive force. | Чрезмерная сила. | alert-triangle
+4505 | feminist | феминистка | «feminist» — ФЕМИНИСТКА. | A feminist movement. | Феминистское движение. | users-group
+4506 | governing | правящий | «governing» — govern: ПРАВЯЩИЙ. | The governing body. | Руководящий орган. | building-bank
+4507 | ham | ветчина | «ham» — «хам»: ХАМ съел ВЕТЧИНУ. | Ham and cheese. | Ветчина и сыр. | meat
+4508 | heal | исцелять, заживать | «heal» — «хил» в играх: ЛЕЧИТЬ. | The wound healed. | Рана зажила. | first-aid-kit
+4509 | interface | интерфейс | «interface» — ИНТЕРФЕЙС. | User interface. | Интерфейс пользователя. | layout
+4511 | jewelry | украшения | «jewelry» — «ювелир»: УКРАШЕНИЯ. | Gold jewelry. | Золотые украшения. | diamond
+4512 | journalism | журналистика | «journalism» — ЖУРНАЛИСТИКА. | Sports journalism. | Спортивная журналистика. | news
+4515 | jungle | джунгли | «jungle» — ДЖУНГЛИ. | In the jungle. | В джунглях. | tree
+4516 | linear | линейный | «linear» — ЛИНЕЙНЫЙ. | A linear process. | Линейный процесс. | line
+4518 | occasional | редкий, случайный | «occasional» — «оказия»: ИЗРЕДКА. | An occasional visit. | Редкий визит. | clock
+4519 | oriented | ориентированный | «oriented» — ОРИЕНТИРОВАННЫЙ. | Family oriented. | Ориентирован на семью. | compass
+4521 | predict | предсказывать | «predict» — «пре» + «диктую»: ПРЕДСКАЗЫВАЮ — диктую будущее. | Predict the future. | Предсказать будущее. | crystal-ball
+4523 | pursuit | погоня; стремление | «pursuit» — «пёс»: ПОГОНЯ пса. | The pursuit of happiness. | Погоня за счастьем. | run
+4524 | rap | рэп | «rap» — РЭП. | Rap music. | Рэп. | microphone
+4525 | reminder | напоминание | «reminder» — remind: НАПОМИНАНИЕ. | Set a reminder. | Поставь напоминание. | bell
+4526 | resume | резюме; возобновлять | «resume» — РЕЗЮМЕ. | Send your resume. | Отправь резюме. | file
+4529 | ridge | хребет | «ridge» — «рыжий»: РЫЖИЙ горный ХРЕБЕТ. | A mountain ridge. | Горный хребет. | mountain
+4531 | scholar | учёный | «scholar» — school: УЧЁНЫЙ. | A famous scholar. | Известный учёный. | school
+4534 | tribe | племя | «tribe» — «труба»: ПЛЕМЯ трубит в трубу. | An ancient tribe. | Древнее племя. | users-group
+4535 | unfortunate | несчастный | «unfortunate» — «анти-фортуна»: НЕСЧАСТНЫЙ. | An unfortunate accident. | Несчастный случай. | mood-sad
+4536 | variable | переменная; изменчивый | «variable» — «вариант»: ПЕРЕМЕННАЯ. | A variable in math. | Переменная в математике. | math
+4539 | ace | туз; ас | «ace» — АС, ТУЗ. | The ace of spades. | Пиковый туз. | cards
+4540 | adjust | настраивать | «adjust» — «а жать?»: НАСТРОЙ, куда жать. | Adjust the volume. | Отрегулируй громкость. | adjustments
+4541 | alternate | чередовать | «alternate» — «альтернатива»: ЧЕРЕДОВАТЬ. | Alternate days. | Через день. | arrows-shuffle
+4542 | artwork | произведение искусства | «artwork» — art + work: ПРОИЗВЕДЕНИЕ ИСКУССТВА. | Beautiful artwork. | Красивая работа. | palette
+4545 | attraction | достопримечательность | «attraction» — «аттракцион»: ДОСТОПРИМЕЧАТЕЛЬНОСТЬ. | A tourist attraction. | Туристическая достопримечательность. | building-castle
+4547 | bankruptcy | банкротство | «bankruptcy» — БАНКРОТСТВО. | File for bankruptcy. | Объявить банкротство. | coin-off
+4549 | capability | способность | «capability» — capable: СПОСОБНОСТЬ. | Military capability. | Военный потенциал. | bolt
+4551 | closure | закрытие | «closure» — close: ЗАКРЫТИЕ. | Road closure. | Перекрытие дороги. | lock
+4552 | cognitive | когнитивный | «cognitive» — КОГНИТИВНЫЙ. | Cognitive skills. | Когнитивные навыки. | brain
+4553 | competitor | конкурент | «competitor» — от compete (соревноваться): КОНКУРЕНТ. | Our main competitor. | Наш главный конкурент. | swords
+4557 | defender | защитник | «defender» — defend: ЗАЩИТНИК. | A strong defender. | Сильный защитник. | shield
+4558 | dental | зубной | «dental» — «дантист»: ЗУБНОЙ. | Dental care. | Уход за зубами. | dental
+4559 | diplomatic | дипломатический | «diplomatic» — ДИПЛОМАТИЧЕСКИЙ. | Diplomatic relations. | Дипломатические отношения. | flag
+4560 | drum | барабан | «drum» — «драм-н-бейс»: БАРАБАН. | Play the drums. | Играть на барабанах. | music
+4561 | editorial | редакционный | «editorial» — editor: РЕДАКЦИОННЫЙ. | An editorial team. | Редакция. | news
+4562 | entertaining | развлекательный | «entertaining» — entertain: РАЗВЛЕКАТЕЛЬНЫЙ. | An entertaining show. | Развлекательное шоу. | mood-happy
+4564 | eternal | вечный | «eternal» — «интернет»: ВЕЧНЫЙ интернет. | Eternal love. | Вечная любовь. | infinity
+4565 | freeze | замерзать | «freeze» — «фризер»: ЗАМОРАЖИВАТЬ. | Freeze the meat. | Заморозь мясо. | snowflake
+4566 | generic | общий, непатентованный | «generic» — «дженерик»: ОБЩИЙ. | A generic name. | Общее название. | pill
+4568 | grip | хватка | «grip» — «грипп»: ХВАТКА гриппа. | A firm grip. | Крепкая хватка. | hand-grab
+4569 | handful | горсть | «handful» — hand (рука) + full: ГОРСТЬ. | A handful of nuts. | Горсть орехов. | hand-stop
+4570 | happily | счастливо | «happily» — happy: СЧАСТЛИВО. | Happily married. | Счастливо женаты. | mood-happy
+4571 | harmony | гармония | «harmony» — ГАРМОНИЯ. | Live in harmony. | Жить в гармонии. | music
+4573 | humble | скромный | «humble» — «хам»: он не хам, а СКРОМНЫЙ. | A humble man. | Скромный человек. | user
+4574 | hybrid | гибрид | «hybrid» — ГИБРИД. | A hybrid car. | Гибридная машина. | car
+4575 | keyboard | клавиатура | «keyboard» — key (клавиша) + board: КЛАВИАТУРА. | A wireless keyboard. | Беспроводная клавиатура. | keyboard
+4576 | locally | на месте, локально | «locally» — ЛОКАЛЬНО. | Grown locally. | Выращено на месте. | map-pin
+4577 | mild | мягкий | «mild» — «милый»: МЯГКИЙ и милый. | A mild winter. | Мягкая зима. | feather
+4578 | minimal | минимальный | «minimal» — МИНИМАЛЬНЫЙ. | Minimal risk. | Минимальный риск. | minus
+4579 | molecular | молекулярный | «molecular» — МОЛЕКУЛЯРНЫЙ. | Molecular biology. | Молекулярная биология. | atom
+4582 | noon | полдень | «noon» — «ну-ну»: ПОЛДЕНЬ, ну-ну, вставай. | At noon. | В полдень. | sun
+4583 | nowadays | в наши дни | «nowadays» — now (сейчас) + days (дни): В НАШИ ДНИ. | Nowadays everyone has a phone. | Сейчас у всех есть телефон. | calendar
+4584 | openly | открыто | «openly» — open: ОТКРЫТО. | Speak openly. | Говорить открыто. | door
+4585 | overview | обзор | «overview» — over + view (вид): ОБЗОР. | A short overview. | Краткий обзор. | eye
+4587 | parish | приход | «parish» — «Париж»: ПРИХОД церкви в Париже. | A small parish. | Маленький приход. | building-church
+4588 | pathetic | жалкий | «pathetic» — «патетика»: ЖАЛКИЙ. | That's pathetic. | Это жалко. | mood-sad
+4589 | potato | картофель | «potato» — «батат»: КАРТОШКА. | Baked potato. | Печёная картошка. | plant
+4591 | preference | предпочтение | «preference» — «преферанс»: ПРЕДПОЧИТАЮ преферанс. | A personal preference. | Личное предпочтение. | heart
+4592 | proportion | пропорция, доля | «proportion» — ПРОПОРЦИЯ. | A large proportion. | Большая доля. | chart-pie
+4593 | rage | ярость | «rage» — «режь!»: ЯРОСТЬ. | Road rage. | Агрессия на дороге. | mood-angry
+4595 | restoration | реставрация | «restoration» — РЕСТАВРАЦИЯ. | Building restoration. | Реставрация здания. | tool
+4596 | selfish | эгоистичный | «selfish» — self (себя) + fish: ЭГОИСТ — рыбка для себя. | Don't be selfish. | Не будь эгоистом. | user
+4597 | sergeant | сержант | «sergeant» — СЕРЖАНТ. | Sergeant Smith. | Сержант Смит. | military-rank
+4598 | silk | шёлк | «silk» — «шёлк» — ШЁЛК. | A silk dress. | Шёлковое платье. | shirt
+4599 | stamp | марка; штамп | «stamp» — ШТАМП. | A postage stamp. | Почтовая марка. | mail
+4600 | throne | трон | «throne» — ТРОН. | Game of Thrones. | Игра престолов. | crown
+4602 | urge | побуждать; желание | «urge» — «ёж»: ЁЖ ПОБУЖДАЕТ двигаться. | I urge you to go. | Настоятельно прошу тебя пойти. | flame
+4605 | witch | ведьма | «witch» — «вишня»: ВЕДЬМА ест вишню. | An evil witch. | Злая ведьма. | wand
+4607 | archive | архив | «archive» — АРХИВ. | The photo archive. | Фотоархив. | archive
+4608 | array | массив, набор | «array» — «рай»: целый МАССИВ, как рай. | A wide array. | Широкий выбор. | grid-dots
+4609 | belly | живот | «belly» — «белый»: белый ЖИВОТ. | A big belly. | Большой живот. | user
+4610 | booth | будка, киоск | «booth» — «бусы»: в БУДКЕ продают бусы. | A phone booth. | Телефонная будка. | building-store
+4611 | breakdown | поломка; срыв | «breakdown» — break (ломать) + down: ПОЛОМКА. | A nervous breakdown. | Нервный срыв. | tool
+4612 | brutal | жестокий | «brutal» — «брутальный»: ЖЕСТОКИЙ. | A brutal attack. | Жестокое нападение. | swords
+4613 | calculate | вычислять | «calculate» — «калькулятор»: ВЫЧИСЛЯТЬ. | Calculate the cost. | Рассчитай стоимость. | calculator
+4615 | citizenship | гражданство | «citizenship» — citizen: ГРАЖДАНСТВО. | Dual citizenship. | Двойное гражданство. | id
+4616 | cliff | скала, утёс | «cliff» — «клифф»: УТЁС. | Fall off a cliff. | Упасть со скалы. | mountain
+4617 | consensus | консенсус | «consensus» — КОНСЕНСУС. | Reach a consensus. | Прийти к согласию. | heart-handshake
+4618 | declaration | декларация | «declaration» — ДЕКЛАРАЦИЯ. | The Declaration of Independence. | Декларация независимости. | file
+4621 | distinction | различие; отличие | «distinction» — distinct: РАЗЛИЧИЕ. | A clear distinction. | Чёткое различие. | arrows-split
+4622 | donation | пожертвование | «donation» — «донат»: ПОЖЕРТВОВАНИЕ. | Make a donation. | Сделать пожертвование. | heart-handshake
+4623 | facial | лицевой | «facial» — face (лицо): ЛИЦЕВОЙ. | Facial expression. | Выражение лица. | mood-smile
+4624 | faithful | верный | «faithful» — faith (вера) + full: ВЕРНЫЙ. | A faithful dog. | Верная собака. | heart
+4625 | fatal | смертельный | «fatal» — «фатальный»: СМЕРТЕЛЬНЫЙ. | A fatal error. | Фатальная ошибка. | skull
+4626 | fig | инжир | «fig» — «фиг»: ИНЖИР — фиговое дерево. | Dried figs. | Сушёный инжир. | plant
+4627 | genuinely | искренне | «genuinely» — genuine: ИСКРЕННЕ. | Genuinely happy. | Искренне рад. | heart
+4630 | hunger | голод | «hunger» — hungry: ГОЛОД. | Die of hunger. | Умереть от голода. | tools-kitchen-2
+4631 | hurricane | ураган | «hurricane» — «харакири»: УРАГАН сделал городу харакири. | A powerful hurricane. | Мощный ураган. | tornado
+4632 | implication | последствие, подтекст | «implication» — «имплант»: ПОСЛЕДСТВИЯ импланта. | Serious implications. | Серьёзные последствия. | alert-circle
+4633 | import | импорт | «import» — ИМПОРТ. | Import goods. | Импортировать товары. | ship
+4634 | innovative | инновационный | «innovative» — ИННОВАЦИОННЫЙ. | An innovative idea. | Новаторская идея. | bulb
+4636 | jurisdiction | юрисдикция | «jurisdiction» — ЮРИСДИКЦИЯ. | Under our jurisdiction. | Под нашей юрисдикцией. | gavel
+4637 | laughter | смех | «laughter» — laugh (смеяться): СМЕХ. | Loud laughter. | Громкий смех. | mood-happy
+4638 | lemon | лимон | «lemon» — ЛИМОН. | Lemon juice. | Лимонный сок. | lemon
+4640 | lung | лёгкое | «lung» — long (длинный): ЛЁГКИЕ на длинном вдохе. | Lung cancer. | Рак лёгких. | lungs
+4641 | mighty | могучий | «mighty» — «мой ты»: МОГУЧИЙ мой ты! | A mighty warrior. | Могучий воин. | barbell
+4642 | monetary | денежный | «monetary» — «монета»: ДЕНЕЖНЫЙ. | Monetary policy. | Денежная политика. | coin
+4643 | nutrition | питание | «nutrition» — «нутриенты»: ПИТАНИЕ. | Good nutrition. | Правильное питание. | salad
+4644 | ore | руда | «ore» — «орех»: РУДА твёрдая, как орех. | Iron ore. | Железная руда. | mountain
+4647 | pine | сосна | «pine» — pineapple (ананас): ананас похож на шишку СОСНЫ. | A pine forest. | Сосновый лес. | tree
+4648 | poorly | плохо | «poorly» — poor: ПЛОХО. | Poorly paid. | Плохо оплачиваемый. | thumb-down
+4650 | pose | поза; позировать | «pose» — ПОЗА. | Strike a pose. | Встань в позу. | user
+4651 | pour | наливать, лить | «pour» — «пол»: ЛЬЁТ на пол. | Pour the water. | Налей воды. | droplet
+4654 | purely | чисто, исключительно | «purely» — pure (чистый): ЧИСТО. | Purely by chance. | Чисто случайно. | sparkles
+4656 | rental | аренда | «rental» — rent: АРЕНДА. | A car rental. | Прокат машин. | key
+4658 | seemingly | по-видимому | «seemingly» — seem (казаться): ПО-ВИДИМОМУ. | Seemingly easy. | На вид легко. | eye
+4659 | severely | сильно, жёстко | «severely» — severe: ЖЁСТКО. | Severely injured. | Тяжело ранен. | alert-triangle
+4660 | shark | акула | «shark» — «шакал»: АКУЛА — морской шакал. | A great white shark. | Белая акула. | fish
+4661 | southwest | юго-запад | «southwest» — south + west: ЮГО-ЗАПАД. | The southwest region. | Юго-западный регион. | compass
+4663 | survivor | выживший | «survivor» — survive: ВЫЖИВШИЙ. | The only survivor. | Единственный выживший. | heartbeat
+4664 | technically | технически | «technically» — ТЕХНИЧЕСКИ. | Technically, it's true. | Технически это правда. | settings
+4665 | unlimited | неограниченный | «unlimited» — «безлимит»: НЕОГРАНИЧЕННЫЙ. | Unlimited data. | Безлимитный интернет. | infinity
+4667 | anxious | тревожный | «anxious» — «анкета»: ТРЕВОЖНО заполнять анкету. | I'm anxious. | Я волнуюсь. | mood-nervous
+4668 | bee | пчела | «bee» — «би-би»: ПЧЕЛА жужжит. | A bee sting. | Укус пчелы. | bug
+4669 | cafe | кафе | «cafe» — КАФЕ. | A small cafe. | Маленькое кафе. | coffee
+4671 | cigarette | сигарета | «cigarette» — СИГАРЕТА. | A pack of cigarettes. | Пачка сигарет. | smoking
+4674 | cult | культ | «cult» — КУЛЬТ. | A cult movie. | Культовый фильм. | users-group
+4675 | dairy | молочный | «dairy» — «дари»: ДАРИ МОЛОЧНЫЕ продукты. | Dairy products. | Молочные продукты. | milk
+4677 | darling | дорогой, милый | «darling» — «долинка»: МИЛАЯ долинка. | Hello, darling. | Привет, дорогая. | heart
+4678 | delighted | восхищённый | «delighted» — light: СИЯЕТ от радости. | I'm delighted. | Я в восторге. | mood-happy
+4679 | diary | дневник | «diary» — «дай рис»: в ДНЕВНИКЕ записал: дай рис. | A secret diary. | Тайный дневник. | notebook
+4680 | disagree | не соглашаться | «disagree» — dis + agree: НЕ СОГЛАСЕН. | I disagree. | Я не согласен. | thumb-down
+4682 | drill | дрель; тренировка | «drill» — ДРЕЛЬ. | A fire drill. | Учебная пожарная тревога. | tool
+4684 | euro | евро | «euro» — ЕВРО. | Ten euros. | Десять евро. | currency-euro
+4685 | evolve | развиваться | «evolve» — «эволюция»: РАЗВИВАТЬСЯ. | Species evolve. | Виды развиваются. | dna-2
+4687 | forecast | прогноз | «forecast» — «фокус»: ПРОГНОЗ — фокус-покус. | The weather forecast. | Прогноз погоды. | cloud
+4689 | governance | управление | «governance» — govern: УПРАВЛЕНИЕ. | Good governance. | Хорошее управление. | building-bank
+4690 | hug | обнимать | «hug» — «хаги-ваги»: ОБНИМАШКИ. | Give me a hug. | Обними меня. | heart
+4691 | importantly | важно | «importantly» — important: ВАЖНО. | More importantly. | Что ещё важнее. | star
+4692 | indoor | крытый, в помещении | «indoor» — in + door: В ПОМЕЩЕНИИ. | An indoor pool. | Крытый бассейн. | home
+4693 | influential | влиятельный | «influential» — «инфлюенсер»: ВЛИЯТЕЛЬНЫЙ. | An influential person. | Влиятельный человек. | crown
+4695 | invisible | невидимый | «invisible» — in + visible: НЕВИДИМЫЙ. | An invisible man. | Человек-невидимка. | eye-off
+4698 | lawsuit | иск | «lawsuit» — law (закон) + suit: ИСК. | File a lawsuit. | Подать иск. | gavel
+4699 | leak | протечка, утечка | «leak» — «лить»: ПРОТЕЧКА — вода льётся. | A gas leak. | Утечка газа. | droplet
+4700 | lighter | зажигалка | «lighter» — light (свет): ЗАЖИГАЛКА. | Do you have a lighter? | Есть зажигалка? | flame
