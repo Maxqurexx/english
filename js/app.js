@@ -401,6 +401,9 @@
 
   function showRecall(w, item) {
     const ruFirst = item.dir === "ru";
+    // Words met today are only being checked, not judged: no "already know" here.
+    const sw = state.words[w.id];
+    const checking = item.type === "check" || (item.type === "again" && sw && sw.seen === day());
     const front = ruFirst
       ? `<div class="label">Как сказать по-английски?</div><div class="word ru">${esc(w.ru)}</div>`
       : `<div class="label">Что это значит?</div><div class="word">${esc(w.en)}</div>
@@ -408,7 +411,7 @@
     render(`
       ${topBar()}
       <div class="stage">
-        <button class="know-link" id="known">Уже знаю</button>
+        ${checking ? "" : `<button class="know-link" id="known">Уже знаю</button>`}
         <div class="card" id="card">
           <div class="face front">${front}<div class="tap-hint">Нажми, чтобы перевернуть</div></div>
           <div class="face back">${wordFace(w)}</div>
@@ -439,29 +442,22 @@
     on("recalled", () => answer(item, true));
   }
 
-  // The daily goal is new words actually learned, not cards offered. A today's new
-  // word marked as known is swapped for the next new word (its card, then its check),
-  // so the counter stays where it was and the day still ends with the full goal.
+  // The daily goal is new words actually learned, not cards offered. A new word marked
+  // as known is swapped for the next new word (its card now, its check with the other
+  // checks), so the counter stays where it was and the day still ends with the full goal.
   function markKnownInSession(w, item) {
     trackTime();
     SRS.markKnown(state, w.id, day());
     session.known.add(w.id);
-    // Met earlier in this session: it no longer counts as a new word in the summary.
-    if (session.queue.some((q, k) => k < session.i && q.type === "intro" && q.id === w.id)) session.newCount -= 1;
     session.queue = session.queue.filter((q, k) => k <= session.i || q.id !== w.id);
-    if (item.type === "intro" || item.type === "check") {
+    if (item.type === "intro") {
       const queued = new Set(session.queue.map((q) => q.id));
       const next = SRS.nextNewWords(state, WORDS, queued.size + 1).find((id) => !queued.has(id) && BY_ID.has(id));
       if (next) {
-        const intro = { type: "intro", id: next };
+        session.queue.splice(session.i + 1, 0, { type: "intro", id: next });
+        const firstReview = session.queue.findIndex((q, k) => k > session.i && q.type !== "intro" && q.type !== "check");
         const check = { type: "check", id: next, dir: Math.random() < 0.5 ? "en" : "ru" };
-        if (item.type === "intro") {
-          session.queue.splice(session.i + 1, 0, intro);
-          const firstReview = session.queue.findIndex((q, k) => k > session.i && q.type !== "intro" && q.type !== "check");
-          session.queue.splice(firstReview < 0 ? session.queue.length : firstReview, 0, check);
-        } else {
-          session.queue.splice(session.i + 1, 0, intro, check);
-        }
+        session.queue.splice(firstReview < 0 ? session.queue.length : firstReview, 0, check);
       }
     }
     save();
